@@ -5,6 +5,14 @@ name: Puppy Snuggles
 # Short bio or description (displayed in the header)
 description: for those who love snuggling with puppies!
 
+navlinks:
+  - text: Twitter
+    url: twitter/
+  - text: Facebook
+    url: facebook/
+  - text: Shop
+    url: shop/
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-67591322-1
 
