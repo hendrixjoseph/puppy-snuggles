@@ -4,12 +4,16 @@
 	<link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
+  <div id="container">
+  <div class="inner">
   {% include header.html %}
 	
-	<div id="main" role="main" class="container">
-	{{ content }}
-	</div>	
+  <section id="main_content">
+  {{ content }}
+  </section>	
 	
-	{% include footer.html %}
+  {% include footer.html %}
+  </div>
+  </div>
   </body>
 </html>
