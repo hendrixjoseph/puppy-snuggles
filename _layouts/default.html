@@ -3,9 +3,12 @@
 		<title itemprop='name'>{{ site.name }} – {{ site.description }}</title>
   </head>
   <body>
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>	
+  {% include header.html %}
 	
+	<div id="main" role="main" class="container">
+	{{ content }}
+	</div>	
+	
+	{% include footer.html %}
   </body>
 </html>
