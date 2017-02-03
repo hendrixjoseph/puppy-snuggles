@@ -3,6 +3,12 @@
 
 @import "jekyll-theme-tactile";
 
+@mixin mobile {
+  @media screen and (max-width: 1000px) {
+    @content;
+  }
+}
+
 header, footer {
   text-align: center;  
 }
