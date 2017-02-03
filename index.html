@@ -8,6 +8,18 @@ h2.main {
   text-align: center;
   font-variant: small-caps;
 }
+  
+h2.main:after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -8px;
+  width: 0; height: 0;
+  border-top: 8px solid #000000;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent; 
+}
 </style>
 
 <h2 class="main">Do you enjoy snuggling with your puppy?</h2>
