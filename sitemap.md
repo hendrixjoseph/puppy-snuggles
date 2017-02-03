@@ -8,7 +8,7 @@ permalink: /sitemap/
 
 * [Front Page](/index.html)
 {% for navlink in site.navlinks %}]
-* [{{ navlink.text }}](navlink.url){% endfor %}
+* [{{ navlink.text }}]({{ navlink.url }}){% endfor %}
 * [Privacy Policy](/privacy/)
 * [Sitemap (this page)](/sitemap/)
 * [Sitemap.xml](/sitemap.xml)
