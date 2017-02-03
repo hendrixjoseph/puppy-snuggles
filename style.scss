@@ -41,16 +41,16 @@ nav a {
 	display: inline-block;
 	width: 16%;
 	padding-left: 0.5em;
-	
-	.facebook {
-		background-color: #3B5998;
-		color: #FFFFFF;
-	}
+}
 
-	.twitter {
-		background-color: #1DA1F2;
-		color: #FFFFFF;
-	}
+.share.facebook {
+	background-color: #3B5998;
+	color: #FFFFFF;
+}
+
+.share.twitter {
+	background-color: #1DA1F2;
+	color: #FFFFFF;
 }
 
 .share:hover {
