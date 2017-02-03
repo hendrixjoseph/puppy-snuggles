@@ -10,3 +10,43 @@ header, footer {
 nav a {
   padding: 0 10px 0 10px;
 }
+
+.mobile-hide {
+	@include mobile {
+		display: none;
+	}
+}
+
+.mobile-only {
+	display: none;
+	
+	@include mobile {
+		display: inherit;
+	}
+}
+
+.share-block {
+	width: 100%;
+	white-space: nowrap;
+	overflow: visible;
+}
+
+.share {
+	display: inline-block;
+	width: 16%;
+	padding-left: 0.5em;
+	
+	.facebook {
+		background-color: #3B5998;
+		color: #FFFFFF;
+	}
+
+	.twitter {
+		background-color: #1DA1F2;
+		color: #FFFFFF;
+	}
+}
+
+.share:hover {
+	transform: scale(1.1);
+}
