@@ -3,4 +3,8 @@ layout: default
 permalink: /blog/
 ---
 
-blog
+{% for post in paginator.posts %}
+    <h2 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>	
+	<div itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %e, %Y" }}</div>
+	<div>{{ post.excerpt }}</div>
+{% endfor %}
