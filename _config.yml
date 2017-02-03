@@ -6,15 +6,14 @@ name: Puppy Snuggles
 description: for those who love snuggling with puppies!
 
 navlinks:
+  - text: Blog
+    url: blog/
   - text: Twitter
     url: twitter/
   - text: Facebook
     url: facebook/
   - text: Shop
     url: shop/
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-67591322-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -26,7 +25,10 @@ url: https://hendrixjoseph.github.io/puppy-snuggles/
 
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /blog/:title/
+
+paginate: 5
+paginate_path: "/blog/page:num"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
