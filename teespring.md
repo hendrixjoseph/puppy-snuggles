@@ -7,6 +7,6 @@ permalink: /tshirts/
 
 {% for tee in site.data.teespring %}
 ## [{{ tee.title }}]({{ tee.link }})
-{% include social/twitter-facebook-share.html url=tee.link text=tee.title width="500px" %}
+{% include twitter-facebook-share.html url=tee.link text=tee.title width="500px" %}
 [![{{ tee.title }}]({{ tee.image }} "{{ tee.title }}")]({{ tee.link }})
 {% endfor %}
