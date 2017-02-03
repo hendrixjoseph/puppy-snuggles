@@ -6,8 +6,7 @@ permalink: /sitemap/
 
 ## Top Level
 
-* [Front Page](/index.html)
-{% for navlink in site.navlinks %}
+* [Front Page](/index.html){% for navlink in site.navlinks %}
 * [{{ navlink.text }}]({{ site.url }}{{ navlink.url }}){% endfor %}
 * [Privacy Policy](/privacy/)
 * [Sitemap (this page)](/sitemap/)
