@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bottom-ad
 title: Sitemap
 permalink: /sitemap/
 ---
