@@ -26,6 +26,10 @@ div.post-info {
   font-size: 90%;
 }
 
+div.post-body {
+  margin-top: 1em;
+}
+
 .mobile-hide {
 	@include mobile {
 		display: none;
