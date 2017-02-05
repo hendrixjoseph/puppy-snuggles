@@ -35,6 +35,12 @@ div.post-body {
   margin-top: 1em;
 }
 
+.inner {
+	@include mobile {
+		width: 100%;
+	}
+}
+
 .mobile-hide {
 	@include mobile {
 		display: none;
