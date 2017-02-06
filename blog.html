@@ -5,5 +5,5 @@ permalink: /blog/
 
 {% for post in site.posts %}
   {% include post-header.html post=post %}
-  <div>{{ post.excerpt }}</div>
+  <div class="post-body">{{ post.excerpt }}</div>
 {% endfor %}
