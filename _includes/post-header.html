@@ -1,0 +1,8 @@
+<h1 itemprop="headline">{{ include.post.title }}</h1> 
+<hr class="post-info" />
+<div class="post-info">
+<span itemprop="datePublished" content="{{ include.post.date | date: "%Y-%m-%d" }}" class="date">{{ include.post.date | date: "%B %e, %Y" }}</span>
+<meta itemprop="dateModified" content="{% if include.post.updated %}{{ include.post.updated }}{% else %}{{ include.post.date | date: "%Y-%m-%d" }}{% endif %}" />
+{% if include.post.author %}<span>by {% if include.post.author-url %}<a href="{{ include.post.author-url }}">{% endif %}{{ include.post.author }}{% if include.post.author-url %}</a>{% endif %}{% endif %}
+</div>
+<hr class="post-info" />
