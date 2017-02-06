@@ -1,4 +1,4 @@
-<h2 itemprop="headline">{{ include.post.title }}</h2> 
+{% if include.post %}<a href="{{ include.post.url }}">{% endunless %}<h2 itemprop="headline">{{ include.post.title }}</h2>{% unless include.post %}</a>{% endif %}
 <hr class="post-info" />
 <div class="post-info">
 <span itemprop="datePublished" content="{{ include.post.date | date: "%Y-%m-%d" }}" class="date">{{ include.post.date | date: "%B %e, %Y" }}</span>
