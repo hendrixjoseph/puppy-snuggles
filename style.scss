@@ -41,6 +41,12 @@ div.post-body {
 	}
 }
 
+.main-content {
+	@include mobile {
+		margin: 0 1em;	
+	}
+}
+
 .mobile-hide {
 	@include mobile {
 		display: none;
