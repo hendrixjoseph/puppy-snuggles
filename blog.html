@@ -4,7 +4,6 @@ permalink: /blog/
 ---
 
 {% for post in site.posts %}
-    <h2 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>	
-	<div itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %e, %Y" }}</div>
-	<div>{{ post.excerpt }}</div>
+  {% include post-header.html post=post %}
+  <div>{{ post.excerpt }}</div>
 {% endfor %}
