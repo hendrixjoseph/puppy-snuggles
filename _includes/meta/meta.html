@@ -1,0 +1,12 @@
+<!-- meta tags from meta.html -->
+<meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+
+<link rel="canonical" href="{{ site.url }}{% unless page.url == "/index.html" %}{{ page.url }}{% endunless %}"  itemprop="url"/>
+<link rel="alternate" href="{{ site.url }}{% unless page.url == "/index.html" %}{{ page.url }}{% endunless %}" hreflang="en-us" />
+
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | xml_escape }}{% else %}{{ site.description }}{% endif %}" />
+
+<meta name="author" content="Joseph Hendrix" />
