@@ -1,0 +1,11 @@
+<!-- opengraph tags from opengraph.html -->
+<meta property="fb:admins" content="1274573288"/>
+<meta property="fb:app_id" content="{{ site.fb-app-id }}"/>
+<meta property="og:site_name" content="{{ site.name }}" />
+<meta property="og:type" content="blog" />
+<meta property="article:author" content="https://www.facebook.com/joseph.hendrix.5" />
+<meta property="article:published_time" content="{% if page.date %}{{ page.date | date: '%Y-%m-%d' }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}" />
+{% if page.image %}<meta property="og:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
+<meta property="og:url" content="{{ site.url }}{% unless page.url == '/index.html' %}{{ page.url }}{% endunless %}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.name }}{% endif %}" />
+<meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | xml_escape }}{% else %}{{ site.description }}{% endif %}" />
