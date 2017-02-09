@@ -1,5 +1,6 @@
 ---
 layout: bottom-ad
+title: Puppy Snuggles T-Shirts
 permalink: /tshirts/
 ---
 
