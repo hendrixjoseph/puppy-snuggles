@@ -7,11 +7,11 @@ permalink: /sitemap/
 ## Top Level
 
 * [Front Page](/index.html){% for navlink in site.navlinks %}
-* [{{ navlink.text }}]({{ site.url }}{{ navlink.url }}){% endfor %}
-* [Privacy Policy](/privacy/)
-* [Sitemap (this page)](/sitemap/)
-* [Sitemap.xml](/sitemap.xml)
-* [robots.txt](/robots.txt)
+* [{{ navlink.text }}]({{ site.url }}/{{ navlink.url }}){% endfor %}
+* [Privacy Policy]({{ site.url }}/privacy/)
+* [Sitemap (this page)]({{ site.url }}/sitemap/)
+* [Sitemap.xml]({{ site.url }}/sitemap.xml)
+* [robots.txt]({{ site.url }}/robots.txt)
 
 ## Posts
 
