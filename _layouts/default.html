@@ -1,6 +1,6 @@
 <html lang="en-us">
   <head itemscope itemtype="http://schema.org/WebSite">
-	<title itemprop='name'>{{ site.name }}</title>
+	<title itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 	{% include meta/meta.html %}
 	{% include meta/opengraph.html %}
 	{% include meta/twittercard.html %}
