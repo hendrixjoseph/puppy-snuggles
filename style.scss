@@ -78,7 +78,7 @@ h3 {
 .share {
 	display: inline-block;
 	width: 16%;
-	padding-left: 0.5em;
+	padding: 0.25em 0 0.25em 0.5em;
 	margin-bottom: 0.5em;
 }
 
@@ -89,6 +89,28 @@ h3 {
 
 .share.twitter {
 	background-color: #1DA1F2;
+	color: #FFFFFF;
+}
+
+.share.linkedin {
+	background-color: #1F88BD;
+	color: #FFFFFF;
+}
+
+.share.googleplus {
+	background-color: #DB4437;
+	color: #FFFFFF;
+}
+
+.share.reddit {
+	background-color: #FFFFFF;
+	color: #000000;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.share.stumbleupon {
+	background-color: #EB4823;
 	color: #FFFFFF;
 }
 

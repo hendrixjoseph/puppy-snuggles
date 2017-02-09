@@ -1,0 +1,56 @@
+{% capture page_url %}
+  {% if include.url %}
+    {{ site.url }}{{ include.url }}
+  {% else %}
+    {{ site.url }}{{ page.url }}
+  {% endif %}
+{% endcapture %}
+{% capture page_id %}
+  {% if include.url %}
+    {{ include.url }}
+  {% else %}
+    {{ page.url }}
+  {% endif %}
+{% endcapture %}
+{% capture url %}{{ page_url  | strip_newlines | strip | uri_escape }}{% endcapture %}
+{% capture id %}{{ page_id | remove: '/' | replace: '_', '-' | strip }}{% endcapture %}
+{% capture text %}{% if include.text %}{{ include.text }}{% elsif page.title %}{{ page.title }}{% endif %}{% endcapture %}
+
+<div id="{{ id }}" class="share-block">
+<a href="https://www.facebook.com/dialog/share?app_id={{ site.fb-app-id }}&display=page&href={{ url }}" target="_blank">
+	<div class="share facebook">
+		<i class="fa fa-facebook mobile-only" aria-hidden="true"></i>
+		<span class="mobile-hide">facebook</span>
+	</div>
+</a>
+<a href="https://twitter.com/intent/tweet?url={{ url }}&via={{ site.twitter }}{% if text %}&text={{ text | url_encode }}{% endif %}" target="_blank">
+	<div class="share twitter">
+		<i class="fa fa-twitter mobile-only" aria-hidden="true"></i>
+		<span class="mobile-hide">twitter</span>
+	</div>
+</a>
+<a href="https://www.linkedin.com/shareArticle?url={{ url }}&source={{ site.name | uri_escape }}" target="_blank">
+	<div class="share linkedin">
+		<i class="fa fa-linkedin mobile-only" aria-hidden="true"></i>
+		<span class="mobile-hide">linkedin</span>
+	</div>
+</a>
+<a href="https://plus.google.com/share?url={{ url }}" target="_blank">
+	<div class="share googleplus">
+		<i class="fa fa-google-plus mobile-only" aria-hidden="true"></i>
+		<span class="mobile-hide">google+</span>
+	</div>
+</a>
+<a href="http://www.reddit.com/submit?url={{ url }}" target="_blank">
+	<div class="share reddit">
+		<i class="fa fa-reddit-alien mobile-only" aria-hidden="true"></i>
+		<span class="mobile-hide">reddit</span>
+	</div>
+</a>
+<a href="http://www.stumbleupon.com/likecontent?url={{ url }}" target="_blank">
+	<div class="share stumbleupon">
+		<i class="fa fa-stumbleupon mobile-only" aria-hidden="true"></i>
+		<span class="mobile-hide">stumbleupon</span>
+	</div>
+</a>
+</div>
