@@ -38,6 +38,10 @@ a nav {
   color: #d5000d;
 }
 
+h3 {
+  color: #303030;
+}
+
 .inner {
 	@include mobile {
 		width: 100%;
