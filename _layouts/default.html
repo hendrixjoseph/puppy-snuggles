@@ -1,10 +1,10 @@
 <html lang="en-us">
   <head itemscope itemtype="http://schema.org/WebSite">
-	<title itemprop='name'>{{ site.name }} – {{ site.description }}</title>
+	<title itemprop='name'>{{ site.name }}</title>
 	{% include meta/meta.html %}
 	{% include meta/opengraph.html %}
 	{% include meta/twittercard.html %}
-	<link rel="stylesheet" href="/css/font-awesome/font-awesome.min.css">
+	<link rel="stylesheet" href="{{ site.url }}css/font-awesome/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.url }}style.css" />
   </head>
   <body>
