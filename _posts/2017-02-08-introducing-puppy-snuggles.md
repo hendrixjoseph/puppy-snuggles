@@ -3,6 +3,7 @@ layout: post
 title: Introducing Puppy Snuggles
 author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
+image: images/covers/2017-02-08-introducing-puppy-snuggles.png
 ---
 
 Welcome to the brand-new website and blog *Puppy Snuggles*. Here at *Puppy Snuggles*, we're all about dogs and the affection they give us. We know that a dog is more than "just a pet" or "just a dog" - they're part of the family! We hope to provide [insightful and fun blog posts](http://www.puppy-snuggles.com/blog/) to help you and your loved one get the most out of life!
