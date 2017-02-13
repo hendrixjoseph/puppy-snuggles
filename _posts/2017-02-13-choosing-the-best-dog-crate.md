@@ -43,7 +43,7 @@ The biggest advantage to plastic dog crates is that they're excellent for transp
 #### Soft-Sided Dog Crates
 
 [![Soft-Sided Dog Crate](/images/dog-crates/soft-sided-dog-crate.jpg "Soft-Sided Dog Crate")
-shop soft-sided dog crates*](https://www.amazon.com/gp/search?ie=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=b67b4822d7c30c477b06587600287add&camp=1789&creative=9325&index=pets&keywords=Soft-Sided%20Dog%20Crates)
+*shop soft-sided dog crates*](https://www.amazon.com/gp/search?ie=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=b67b4822d7c30c477b06587600287add&camp=1789&creative=9325&index=pets&keywords=Soft-Sided%20Dog%20Crates)
 
 These dog crates are mostly fabric, except for the frame, which is typically metal. The only advantage to these dog crates is that they're lightweight and easily collapsible. Honestly, I don't suggest these dog crates because they're almost impossible to clean and pretty much any dog could force its way out - leaving the dog crate damaged and unusable.
 
