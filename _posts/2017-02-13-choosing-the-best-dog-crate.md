@@ -27,7 +27,7 @@ This might be the most confusing criteria when choosing what crate to buy, espec
 #### Wire Dog Crates
 
 [![Wire Dog Crate](/images/dog-crates/wire-dog-crate.jpg "Wire Dog Crate")
-*shop wire dog crates*](https://www.amazon.com/gp/search?ie=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=d924a56c4353ca163cf6d5a93adab1a3&camp=1789&creative=9325&index=pets&keywords=Wire%20Dog%20Crates)
+*shop wire dog crates*](http://amzn.to/2l2nJ2P)
 
 These dog crates are made of thick wire and should have a plastic tray on the bottom. This tray should slide out to allow for easy cleaning. If you get one of these, make sure it's easily collapsible. Also, they often come with a divider that can be used to reduce the usable space for when your dog is a puppy - saving money in the long run!
 
