@@ -8,6 +8,8 @@ keywords: [dog, treat, toy, dog treat, dog toy, favorite dog toy, favorite dog t
 image: images/covers/2017-02-21-my-four-favorite-dog-treats-and-dog-toys.png
 ---
 
+Every dog deserves to have a favorite dog toy and a favorite dog treat. I know mine do. Here is a list of my four favorite dog treats and dog toys.
+
 ### [Classic Kong dog toy](http://amzn.to/2kIhS5A)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B0002AR0I8&asins=B0002AR0I8&linkId=5a01a982d0af85532ec5170e1be78f98&show_border=true&link_opens_in_new_window=true"></iframe>
