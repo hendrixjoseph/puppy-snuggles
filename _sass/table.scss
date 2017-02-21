@@ -4,7 +4,13 @@ table {
   text-shadow: none;
   
   thead {
-    background: linear-gradient(to bottom, #cccccc 0%,#c8c8c8 50%,#cccccc 100%);
+    tr {
+      background: linear-gradient(to bottom, #cccccc 0%,#c8c8c8 50%,#cccccc 100%);
+    }
+    
+    td {
+      padding: 2px;
+    }
   }
   
   tbody  {
