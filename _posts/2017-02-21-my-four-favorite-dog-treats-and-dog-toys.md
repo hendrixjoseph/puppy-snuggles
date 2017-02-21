@@ -44,7 +44,7 @@ Oh - I've managed to stick these dog treats in both the remove Red Barn Filled B
 
 These aren't quite as healthy as the Milk Bones, but let's face it, like human food, the healthiest isn't always the tastiest. These dog treats aren't bad for your dog, they simply have more calories and fewer vitamins and minerals than the milk bones.
 
-Some dogs, like my pit/lab mix, will eat about anything, so she's happy with Milk Bones. Others, such as my Cockapoo, are a little pickier, so sometimes you have to reward them with a tastier treat.
+Some dogs, like my pit/lab mix, will eat about anything, so she's happy with Milk Bones. Others, such as [my Cockapoo](https://teespring.com/i-love-my-cockapoo-2017), are a little pickier, so sometimes you have to reward them with a tastier treat.
 
 One thing that's great about Pupperoni dog treats is that you don't have to give your dog the entire treat, especially if it's one of the larger ones. They're easy to break apart so one treat can become many! Make sure to keep the bag seals so they don't harden and become stale.
 
