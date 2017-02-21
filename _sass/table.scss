@@ -1,18 +1,19 @@
 table {
   thead {
-    
+    background: linear-gradient(to bottom, #cccccc 0%,#c8c8c8 50%,#cccccc 100%);
   }
   
   tbody  {
     tr:nth-child(even) {
-      background: #CCC
+      background: #cccccc
     }
     
     tr:nth-child(odd) {
-      background: #FFF
+      background: #c8c8c8
     }
     
     td {
+      padding: 2px;
       text-align: left;
     }
   }
