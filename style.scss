@@ -2,6 +2,7 @@
 ---
 
 @import "jekyll-theme-tactile";
+@import "table";
 
 @mixin mobile {
   @media screen and (max-width: 1000px) {
