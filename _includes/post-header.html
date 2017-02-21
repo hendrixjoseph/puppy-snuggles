@@ -13,7 +13,7 @@
 </span>
 </div>
 <div class="post-tags">
-{% assign tags = page.tags | sort %}{% for tag in tags %}<span>{{ tag }}</span>{% endfor %}
+{% if include.post.tags %}{% assign tags = include.post.tags | sort %}{% for tag in tags %}<span>{{ tag }}</span>{% endfor %}{% endif %}
 </div>
 </div>
 <hr class="post-info" />
