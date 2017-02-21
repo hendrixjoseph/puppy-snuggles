@@ -15,8 +15,9 @@ permalink: /sitemap/
 
 ## Posts
 
-{% for post in site.posts %}
-* {{ post.date | date: "%B %e, %Y" }}: [{{ post.title }}]({{ post.url }}){% endfor %}
+| Date | Title | Tags |
+|-------|--------|{% for post in site.posts %}
+| {{ post.date | date: "%B %e, %Y" }} | [{{ post.title }}]({{ post.url }}) | {% assign tags = post.tags | sort %}{% for tag in tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %} |{% endfor %}
 
 ## Tags
 
