@@ -1,5 +1,19 @@
 table {
-  thead th {
-    text-align: left;
+  thead {
+    
+  }
+  
+  tbody  {
+    tr:nth-child(even) {
+      background: #CCC
+    }
+    
+    tr:nth-child(odd) {
+      background: #FFF
+    }
+    
+    td {
+      text-align: left;
+    }
   }
 }
