@@ -12,6 +12,8 @@
 </a>{% endif %}{% endif %}
 </span>
 </div>
-<div class="post-tags"></div>
+<div class="post-tags">
+{% assign tags = page.tags | sort %}{% for tag in tags %}<span>{{ tag }}</span>{% endfor %}
+</div>
 </div>
 <hr class="post-info" />
