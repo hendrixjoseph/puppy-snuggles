@@ -1,0 +1,19 @@
+@mixin mobile {
+  @media screen and (max-width: 1000px) {
+    @content;
+  }
+}
+
+.mobile-hide {
+	@include mobile {
+		display: none;
+	}
+}
+
+.mobile-only {
+	display: none;
+	
+	@include mobile {
+		display: inherit;
+	}
+}
