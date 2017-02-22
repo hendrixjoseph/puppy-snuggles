@@ -11,6 +11,7 @@ permalink: /sitemap/
 * [Privacy Policy]({{ site.url }}/privacy/)
 * [Sitemap (this page)]({{ site.url }}/sitemap/)
 * [Sitemap.xml]({{ site.url }}/sitemap.xml)
+* [RSS Feed({{ site.url }}/rss.xml)
 * [robots.txt]({{ site.url }}/robots.txt)
 
 ## Blog Posts
