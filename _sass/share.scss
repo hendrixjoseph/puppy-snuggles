@@ -8,28 +8,25 @@
 
 .share {
 	display: inline-block;
-	width: 14%;
+	width: 15%;
 	padding: 0.25em 0 0.25em 0.5em;
+	color: #FFFFFF;
 }
 
 .share.facebook {
 	background-color: #3B5998;
-	color: #FFFFFF;
 }
 
 .share.twitter {
 	background-color: #1DA1F2;
-	color: #FFFFFF;
 }
 
 .share.pinterest {
 	background-color: #AA2529;
-	color: #FFFFFF;
 }
 
 .share.googleplus {
 	background-color: #DB4437;
-	color: #FFFFFF;
 }
 
 .share.reddit {
@@ -41,7 +38,6 @@
 
 .share.stumbleupon {
 	background-color: #EB4823;
-	color: #FFFFFF;
 }
 
 .share:hover {
