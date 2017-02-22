@@ -13,7 +13,7 @@ permalink: /sitemap/
 * [Sitemap.xml]({{ site.url }}/sitemap.xml)
 * [robots.txt]({{ site.url }}/robots.txt)
 
-## Posts
+## Blog Posts
 
 | Date | Title | Tags |
 |-------|--------|{% for post in site.posts %}
@@ -21,6 +21,6 @@ permalink: /sitemap/
 
 ## Tags
 
-## Pages
+## Blog Pages (Page 1, Page 2, etc.)
 
 ## 404s
