@@ -16,6 +16,6 @@ h2 {
 
 {% for tee in site.data.teespring %}
 ## [{{ tee.title }}]({{ tee.link }})
-{% include twitter-facebook-share.html url=tee.link text=tee.title width="100%" %}
+{% include twitter-facebook-share.html url=tee.link text=tee.title width="500px" %}
 [![{{ tee.title }}]({{ tee.image }} "{{ tee.title }}")]({{ tee.link }})
 {% endfor %}
