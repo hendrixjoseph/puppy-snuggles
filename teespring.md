@@ -4,7 +4,15 @@ title: Puppy Snuggles T-Shirts
 permalink: /tshirts/
 ---
 
-<style>h2{ text-align: center; } .entry img{ max-width: 500px; }</style>
+<style>
+h2 {
+  text-align: center;
+} 
+
+#main-content img { 
+  max-width: 500px; 
+  margin: 0 auto;  
+}</style>
 
 {% for tee in site.data.teespring %}
 ## [{{ tee.title }}]({{ tee.link }})
