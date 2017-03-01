@@ -8,7 +8,9 @@ keywords: [what vaccines does my new puppy need, vaccine, dog vaccine, puppy vac
 image: images/covers/2017-03-01-what-vaccines-does-my-new-puppy-need.png
 ---
 
-When you first adopt a puppy, there are many things you must do. One of which is to find a veterinarian to look him or her over to see how healthy he or she is. You will also need your veterinarian to start your new puppy's vaccination schedule. 
+When you first adopt a puppy, there are many things you must do. One of which is to find a veterinarian to look him or her over to see how healthy he or she is. You will also need your veterinarian to start your new puppy's vaccination schedule.
+
+***Note:*** *Always trust and seek the advice of your veterinarian before a random internet source.*
 
 ### What is a vaccine?
 
@@ -54,8 +56,6 @@ As such, many states and jurisdictions require that dogs receive a rabies vaccin
 
 ### Additional sources
 
-[First-Year Puppy Vaccinations; A Complete Guide](http://www.akc.org/content/health/articles/puppy-shots-complete-guide/)
-
-[Bringing Your Pet Home &gt; Exams, Vaccinations, Etc.](http://woodmandriveanimalhospital.com/veterinary_topics/c_309_exams_vaccinations_etc.html)
-
-[Dog-related diseases of concern in Ohio](https://www.odh.ohio.gov/en/odhprograms/bid/zdp/animals/dogs)
+* [First-Year Puppy Vaccinations; A Complete Guide](http://www.akc.org/content/health/articles/puppy-shots-complete-guide/)
+* [Bringing Your Pet Home &gt; Exams, Vaccinations, Etc.](http://woodmandriveanimalhospital.com/veterinary_topics/c_309_exams_vaccinations_etc.html)
+* [Dog-related diseases of concern in Ohio](https://www.odh.ohio.gov/en/odhprograms/bid/zdp/animals/dogs)
