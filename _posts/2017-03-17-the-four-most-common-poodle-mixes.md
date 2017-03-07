@@ -28,10 +28,10 @@ The Labradoodle is mixed with a [Labrador Retriever](https://en.wikipedia.org/wi
 
 ### [Goldendoodle](https://en.wikipedia.org/wiki/Goldendoodle)
 
-Goldendoodles are mixed with [Golden Retrievers](https://en.wikipedia.org/wiki/Golden_Retriever) and were a natural choice after Labradoodles since they are both retrievers. The name Goldendoodle is a reflection on the name labradoodle.
-
 ![goldendoodle](/images/poodle-mixes/goldendoodle.jpg)
 *[image source](https://en.wikipedia.org/wiki/File:Golden_Doodle_Standing_%28HD%29.jpg)*
+
+Goldendoodles are mixed with [Golden Retrievers](https://en.wikipedia.org/wiki/Golden_Retriever) and were a natural choice after Labradoodles since they are both retrievers. The name Goldendoodle is a reflection on the name labradoodle.
 
 ### [Schnoodle](https://en.wikipedia.org/wiki/Schnoodle)
 
