@@ -8,7 +8,10 @@ keywords: [most common poodle mixes, common poodle mixes, poodle mixes, poodle c
 image: images/covers/2017-02-17-the-four-most-common-poodle-mixes.png
 ---
 
-Poodle crossbreeds have become increasingly popular in the past couple of decades. A few of these poodle mixes, such as the cockapoo, [have existed since the 1950s](https://books.google.com/ngrams/graph?content=Cockapoo%2CGoldendoodle%2CLabradoodle%2CSchnoodle&case_insensitive=on&year_start=1900&year_end=2020&corpus=15&smoothing=3&share=&direct_url=t4%3B%2CCockapoo%3B%2Cc0%3B%2Cs0%3B%3Bcockapoo%3B%2Cc0%3B%3BCockapoo%3B%2Cc0%3B.t1%3B%2CGoldendoodle%3B%2Cc0%3B.t4%3B%2CLabradoodle%3B%2Cc0%3B%2Cs0%3B%3BLabradoodle%3B%2Cc0%3B%3Blabradoodle%3B%2Cc0%3B.t4%3B%2CSchnoodle%3B%2Cc0%3B%2Cs0%3B%3BSchnoodle%3B%2Cc0%3B%3Bschnoodle%3B%2Cc0). Others are much more recent.
+Poodle crossbreeds have become increasingly popular in the past couple of decades. A few of these poodle mixes, such as the cockapoo, have existed since the 1950s. Others are much more recent.
+
+![Google Ngram](/images/poodle-mixes/google-ngram.png)
+*[Google Ngram](https://books.google.com/ngrams/graph?content=Cockapoo%2CGoldendoodle%2CLabradoodle%2CSchnoodle&case_insensitive=on&year_start=1900&year_end=2020&corpus=15&smoothing=3&share=&direct_url=t4%3B%2CCockapoo%3B%2Cc0%3B%2Cs0%3B%3Bcockapoo%3B%2Cc0%3B%3BCockapoo%3B%2Cc0%3B.t1%3B%2CGoldendoodle%3B%2Cc0%3B.t4%3B%2CLabradoodle%3B%2Cc0%3B%2Cs0%3B%3BLabradoodle%3B%2Cc0%3B%3Blabradoodle%3B%2Cc0%3B.t4%3B%2CSchnoodle%3B%2Cc0%3B%2Cs0%3B%3BSchnoodle%3B%2Cc0%3B%3Bschnoodle%3B%2Cc0) showing the popularity of the four most common poodle mixes*
 
 The appeal of poodle mixes is that they often get the non-shedding, somewhat hypoallergenic trait of poodles and the temperament of the other breed. Their name is a portmanteau of poodle and the mixed breed. Some people suggest the name depends on which breed is the father and which is the mother (for instance, cockapoo versus spoodle), however, the breeds people bring home are often not a first generation mix.
 
