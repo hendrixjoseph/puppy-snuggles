@@ -6,8 +6,16 @@ layout: bottom-ad
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 <link itemprop="mainEntityOfPage" href="{{ site.url }}{{ page.url }}" />
-<meta itemprop="image" content="{{ site.url }}{{ page.image }}" />
-<meta itemprop="publisher" content="{{ site.name }}" />
+<span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="{{ site.url }}{{ page.image }}">
+<meta itemprop="width" content="1200"><meta itemprop="height" content="630">
+</span>
+<span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="{{ site.url }}/favicon.ico">
+<meta itemprop="width" content="16"><meta itemprop="height" content="16">
+</span><meta itemprop="name" content="{{ site.name }}">
+</span>
 {% include post-header.html %}
 {% include share.html %}
 <div class="post-body" itemprop="articleBody">
