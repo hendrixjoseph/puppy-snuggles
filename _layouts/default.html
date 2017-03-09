@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head itemscope itemtype="http://schema.org/{% if page.layout == 'post' or layout.layout == 'post' %}BlogPosting{% else %}WebSite{% endif %}">
+  <head itemscope itemtype="http://schema.org/WebSite">
 	<title itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 	{% include meta/meta.html %}
 	{% include meta/opengraph.html %}
@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="{{ site.url }}/css/font-awesome/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
   </head>
-  <body>
+  <body {% if page.layout == 'post' or layout.layout == 'post' %}itemtype="http://schema.org/BlogPosting"{% endif %}>
   {% include analytics.html %}
   <div id="container">
   <div class="inner">
