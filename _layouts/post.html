@@ -4,7 +4,8 @@ layout: bottom-ad
 
 {% include facebook.html %}
 
-<article class="post">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<link itemprop="mainEntityOfPage" href="{{ site.url }}{{ page.url }}" />
 {% include post-header.html %}
 {% include share.html %}
 <div class="post-body" itemprop="articleBody">
