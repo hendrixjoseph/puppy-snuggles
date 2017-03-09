@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head itemscope itemtype="{% if page.layout == 'post' or layout.layout == 'post' %}{% else %}http://schema.org/WebSite{% endif %}">
+  <head itemscope itemtype="http://schema.org/{% if page.layout == 'post' or layout.layout == 'post' %}BlogPosting{% else %}WebSite{% endif %}">
 	<title itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 	{% include meta/meta.html %}
 	{% include meta/opengraph.html %}
