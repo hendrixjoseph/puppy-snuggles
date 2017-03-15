@@ -47,7 +47,7 @@ Important [minerals your dog needs](http://www.petmd.com/dog/nutrition/evr_dg_mi
 13. Sulfur
 14. Zinc
 
-Before you head to the dog vitamin aisle at your local pet store or [browse Amazon for supplements](http://amzn.to/2m1r6Ld), keep in mind that too much of any one of these vitamins and minerals can hurt your dog just as bad as not having enough. Chances are, as stated in the intro paragraph, your dog already gets enough from the dog food you give him every day.
+Before you head to the dog vitamin aisle at your local pet store or [browse Amazon for supplements](http://amzn.to/2m1r6Ld), keep in mind that *too much* of any one of these vitamins and minerals can hurt your dog just as bad as not having enough. Chances are, as stated in the intro paragraph, your dog already gets enough from the dog food you give him every day.
 
 ### When Should I Give My Dog Vitamin and Mineral Supplements?
 
@@ -73,5 +73,5 @@ Here are some of the varieties of Purina One:
 
 ### Additional Sources
 
-[Does My Puppy Need Vitamins](https://www.banfield.com/pet-healthcare/additional-resources/ask-a-vet/does-my-puppy-need-vitamins)
-[Raw Diets For Dogs: Getting Enough Vitamins And Minerals](http://www.dogsnaturallymagazine.com/raw-diets-for-dogs-getting-enough-vitamins-and-minerals/)
+* [Does My Puppy Need Vitamins](https://www.banfield.com/pet-healthcare/additional-resources/ask-a-vet/does-my-puppy-need-vitamins)
+* [Raw Diets For Dogs: Getting Enough Vitamins And Minerals](http://www.dogsnaturallymagazine.com/raw-diets-for-dogs-getting-enough-vitamins-and-minerals/)
