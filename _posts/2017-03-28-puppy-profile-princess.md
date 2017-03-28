@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puppy Profile&colon; Princess
+title: "Puppy Profile: Princess"
 author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [puppy profile]
