@@ -34,7 +34,7 @@ My brother and I had just moved into a house I inherited. He knew someone who's 
 I chose her because she was the smallest of her litter.
 
 
-![Baby Princess](/images/puppy-profile/princess/young-princess.jpg)
+![Young Princess](/images/puppy-profile/princess/young-princess.jpg)
 *Princess not quite full grown yet.*
 
 ### How'd she get her name?
