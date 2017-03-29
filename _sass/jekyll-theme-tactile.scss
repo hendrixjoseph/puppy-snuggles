@@ -56,7 +56,7 @@ body {
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background: #e7e7e7 url(https://hendrixjoseph.github.io/puppy-snuggles/images/body-bg.png) 0 0 repeat;
+  background: #e7e7e7 url(http://www.puppy-snuggles.com/images/body-bg.png) 0 0 repeat;
 }
 
 a {
@@ -89,7 +89,6 @@ header h2 {
 
 #container {
   min-height: 595px;
-  background: transparent url(https://hendrixjoseph.github.io/puppy-snuggles/images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
@@ -155,19 +154,6 @@ a.button span {
   padding-left: 50px;
 }
 
-#download-zip span {
-  background: transparent url(/images/zip-icon.png) 12px 50% no-repeat;
-}
-#download-tar-gz span {
-  background: transparent url(/images/tar-gz-icon.png) 12px 50% no-repeat;
-}
-#view-on-github span {
-  background: transparent url(/images/octocat-icon.png) 12px 50% no-repeat;
-}
-#view-on-github {
-  margin-right: 0;
-}
-
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
@@ -207,7 +193,7 @@ hr {
   padding-bottom: 1em;
   margin-top: 1em;
   line-height: 1px;
-  background: transparent url('https://hendrixjoseph.github.io/puppy-snuggles/images/hr.png') 50% 0 no-repeat;
+  background: transparent url('http://www.puppy-snuggles.com/puppy-snuggles/images/hr.png') 50% 0 no-repeat;
   border: none;
 }
 
@@ -319,7 +305,7 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
-  background: transparent url('https://hendrixjoseph.github.io/puppy-snuggles/images/hr.png') 0 0 no-repeat;
+  background: transparent url('http://www.puppy-snuggles.com/hr.png') 0 0 no-repeat;
 }
 
 footer a {
