@@ -8,22 +8,22 @@ keywords: [dog, puppy, dog quote, dog quotes]
 image: images/covers/2017-03-31-my-top-10-dog-quotes.jpg
 ---
 
-> Why does watching a dog be a dog fill one with happiness? *- Jonathan Safran*
+> 1 Why does watching a dog be a dog fill one with happiness? *- Jonathan Safran*
 
-> A dog is the only thing on earth that loves you more than he loves himself. *- Josh Billings*
+> 2 A dog is the only thing on earth that loves you more than he loves himself. *- Josh Billings*
 
-> Dogs are not our whole life, but they make our lives whole. *- Roger Caras*
+> 3 Dogs are not our whole life, but they make our lives whole. *- Roger Caras*
 
-> Happiness is a warm puppy. *- Charles M. Schulz*
+> 4 Happiness is a warm puppy. *- Charles M. Schulz*
 
-> There is no psychiatrist in the world like a puppy licking your face. *- Ben Williams*
+> 5 There is no psychiatrist in the world like a puppy licking your face. *- Ben Williams*
 
-> Love me, love my dog. *- George Chapman*
+> 6 Love me, love my dog. *- George Chapman*
 
-> The greatest fear dogs know is the fear that you will not come back when you go out the door without them. *- Stanley Coren*
+> 7 The greatest fear dogs know is the fear that you will not come back when you go out the door without them. *- Stanley Coren*
 
-> Dogs’ lives are too short. Their only fault, really. *- Agnes Sligh Turnbull*
+> 8 Dogs’ lives are too short. Their only fault, really. *- Agnes Sligh Turnbull*
 
-> Dogs are my favorite people. *- Richard Dean Anderson*
+> 9 Dogs are my favorite people. *- Richard Dean Anderson*
 
-> If I could be half the person my dog is, I’d be twice the human I am. *- Charles Yu*
+> 10 If I could be half the person my dog is, I’d be twice the human I am. *- Charles Yu*
