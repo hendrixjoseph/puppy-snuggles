@@ -5,7 +5,7 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [dog, puppy, dog quote, dog quotes]
-image: images/puppy-profile/princess/happy-princess.jpg
+image: images/covers/2017-03-31-my-top-10-dog-quotes.jpg
 ---
 
 > Why does watching a dog be a dog fill one with happiness? *- Jonathan Safran*
