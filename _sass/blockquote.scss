@@ -11,10 +11,17 @@ q:before, q:after {
 blockquote {
   padding: 0 0 0 30px;
   margin-bottom: 20px;
-  border-left: 10px solid #e9e9e9;
-}
 
-blockquote em {
-  display: block;
-  margin-left: 2em;
+  strong {
+    float: left;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+  }
+
+  em {
+    display: block;
+    margin-left: 2em;
+  }
 }
