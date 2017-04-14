@@ -26,9 +26,10 @@ figure img:hover {
 
 <ul>
 {% for tee in site.data.tshirts %}
-<li itemscope itemtype="http://schema.org/Product"><a itemprop="url" href="{{ tee.link }}">
+<li itemscope itemtype="http://schema.org/Product"><a itemprop="url" content="{{ tee.link }}" href="{{ tee.link }}">
+<meta itemprop="availability" itemtype="http://schema.org/ItemAvailability" content="http://schema.org/InStock" />
 <figure>
-<img itemprop="image" src="{{ tee.image }}" alt="{{ tee.title }}" />
+<img itemprop="image" content={{ tee.image }}" src="{{ tee.image }}" alt="{{ tee.title }}" />
 <figcaption>
 <div itemprop="name">{{ tee.title }}</div>
 <div><span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
