@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-*Revised February 8, 2017.*
+*Revised April 17, 2017.*
 
 ## Google Analytics
 
@@ -18,8 +18,16 @@ If you wish to know more or even opt out, view [Google's privacy policy](http://
 
 I run Google Adsense mainly to know how to use Adsense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
 
+### Amazon Affiliate
+
+This site participates in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/help/operating/agreement), an affiliate advertising program designed to provide a means for this site to earn fees by linking to Amazon.com and affiliated sites.
+
 ## Social Media
 
 ### Comments
 
 The comment section underneath most of the posts is Facebook's comment plugin. To post comments requires a Facebook account and adherence to [Facebook's Data Policy](https://www.facebook.com/policy.php).
+
+### Share
+
+Each post currently has five share links: Facebook, Twitter, Pinterest, Google+, Reddit, and StumbleUpon. Sharing a post requires an account with the associated service as well as adherence to their privacy policies.
