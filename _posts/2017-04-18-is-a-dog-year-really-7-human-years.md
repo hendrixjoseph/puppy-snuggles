@@ -45,7 +45,7 @@ I've created this calculator for you to mess around with. You can edit the snaps
   <td><input id="human-maturity" type="number" value="18" min="0" required /></td>
 </tr><tr>
   <td>senior</td>
-  <td><input id="dog-senior" type="number" value="8" onchange='$("dog-maturity").attr({"max" : $(this),val();});' required /></td>
+  <td><input id="dog-senior" type="number" value="8" required /></td>
   <td><input id="human-senior" type="number" value="55" required /></td>
 </tr><tr>
   <td>death</td>
@@ -62,6 +62,10 @@ I've created this calculator for you to mess around with. You can edit the snaps
 
 <script>
 $(document).ready(function(){
+  $("#dog-senior").change(function(){
+    $("dog-maturity").attr({"max" : $(this).val();});
+  });
+
   $("#update").click(function(){
     var dm = parseFloat($("#dog-maturity").val());
     var hm = parseFloat($("#human-maturity").val());
