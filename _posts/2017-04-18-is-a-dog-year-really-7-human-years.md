@@ -61,7 +61,7 @@ I've created this calculator for you to mess around with. You can edit the snaps
 
 <style>
 table tr td input {
-  max-width: 6em;
+  width: 6em;
 }
 </style>
 
