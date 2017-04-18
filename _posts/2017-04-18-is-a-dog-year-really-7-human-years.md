@@ -63,7 +63,7 @@ I've created this calculator for you to mess around with. You can edit the snaps
 <script>
 $(document).ready(function(){
   $("#dog-senior").change(function(){
-    $("dog-maturity").attr({"max" : $(this).val()});
+    $("dog-maturity").attr({"max" : $("#dog-senior").val()});
   });
 
   $("#update").click(function(){
