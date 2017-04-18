@@ -41,11 +41,11 @@ I've created this calculator for you to mess around with. You can edit the snaps
 <tr><th>snapshot</th><th>dog age</th><th>human age</th></tr>
 <tr>
   <td>maturity</td>
-  <td><input id="dog-maturity" type="number" value="1" required /></td>
-  <td><input id="human-maturity" type="number" value="18" required /></td>
+  <td><input id="dog-maturity" type="number" value="1" min="0" max="8" required /></td>
+  <td><input id="human-maturity" type="number" value="18" min="0" required /></td>
 </tr><tr>
   <td>senior</td>
-  <td><input id="dog-senior" type="number" value="8" required /></td>
+  <td><input id="dog-senior" type="number" value="8" onchange='$("dog-maturity").attr({"max" : $(this),val();});' required /></td>
   <td><input id="human-senior" type="number" value="55" required /></td>
 </tr><tr>
   <td>death</td>
