@@ -59,6 +59,11 @@ I've created this calculator for you to mess around with. You can edit the snaps
 </table>
 <button id="update" type="button">Calculate!</button> 
 
+<style>
+table tr td input {
+  max-width: 6em;
+}
+</style>
 
 <script>
 $(document).ready(function(){
