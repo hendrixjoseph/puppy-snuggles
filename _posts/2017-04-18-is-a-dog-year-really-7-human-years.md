@@ -45,12 +45,12 @@ I've created this calculator for you to mess around with. You can edit the snaps
   <td><input id="human-maturity" type="number" value="18" min="0" max="55" required /></td>
 </tr><tr>
   <td>senior</td>
-  <td><input id="dog-senior" type="number" value="8" required /></td>
-  <td><input id="human-senior" type="number" value="55" required /></td>
+  <td><input id="dog-senior" type="number" value="8" min="1" max="10" required /></td>
+  <td><input id="human-senior" type="number" value="55" min="18" max="70" required /></td>
 </tr><tr>
   <td>death</td>
-  <td><input id="dog-death" type="number" value="10" required /></td>
-  <td><input id="human-death" type="number" value="70" required /></td>
+  <td><input id="dog-death" type="number" value="10" min="8" required /></td>
+  <td><input id="human-death" type="number" value="70" min="55" required /></td>
 </tr><tr>
   <td>age</td>
   <td><input id="dog-age" type="number" value="3" required /></td>
@@ -62,13 +62,31 @@ I've created this calculator for you to mess around with. You can edit the snaps
 
 <script>
 $(document).ready(function(){
+  $("#dog-maturity").change(function(){
+    $("#dog-senior").attr({"min" : $(this).val()});
+  }
+  
+  $("#human-maturity").change(function(){
+    $("#human-senior").attr({"min" : $(this).val()});
+  }
+
   $("#dog-senior").change(function(){
     $("#dog-maturity").attr({"max" : $(this).val()});
+    $("#dog-death").attr({"min" : $(this).val()});
   });
   
   $("#human-senior").change(function(){
     $("#human-maturity").attr({"max" : $(this).val()});
+    $("#human-death").attr({"min" : $(this).val()});
   });
+  
+  $("#dog-death").change(function(){
+    $("#dog-senior").attr({"max" : $(this).val()});
+  }
+  
+  $("#human-death").change(function(){
+    $("#human-senior").attr({"max" : $(this).val()});
+  }
 
   $("#update").click(function(){
     var dm = parseFloat($("#dog-maturity").val());
