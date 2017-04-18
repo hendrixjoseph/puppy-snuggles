@@ -38,7 +38,7 @@ Using these snapshots, I'd guess that a 3-year old dog is about 28 human years.
 I've created this calculator for you to mess around with. You can edit the snapshot comparisons and see how it affects a dog's age in human years:
 
 <table>
-<th><td>snapshot</td><td>dog age</td><td>human age</td></th>
+<tr><th>snapshot</th><th>dog age</th><th>human age</th></tr>
 <tr>
   <td>maturity</td>
   <td><input id="dog-maturity" type="number" value="1" required /></td>
