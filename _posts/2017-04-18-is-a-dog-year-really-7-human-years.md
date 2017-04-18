@@ -63,13 +63,13 @@ I've created this calculator for you to mess around with. You can edit the snaps
 <script>
 $(document).ready(function(){
   $("#update").click(function(){
-    var dm = $("#dog-maturity").val();
-    var hm = $("#human-maturity").val();
-    var ds = $("#dog-senior").val();
-    var hs = $("#human-senior").val();
-    var dd = $("#dog-death").val();
-    var hd = $("#human-death").val();
-    var da = $("#dog-age").val();
+    var dm = parseFloat($("#dog-maturity").val());
+    var hm = parseFloat($("#human-maturity").val());
+    var ds = parseFloat($("#dog-senior").val());
+    var hs = parseFloat($("#human-senior").val());
+    var dd = parseFloat($("#dog-death").val());
+    var hd = parseFloat($("#human-death").val());
+    var da = parseFloat($("#dog-age").val());
     var ha = 0;
     
     if(da <= dm) {
