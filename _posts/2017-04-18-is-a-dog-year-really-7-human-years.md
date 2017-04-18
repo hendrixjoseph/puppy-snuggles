@@ -81,6 +81,6 @@ $(document).ready(function(){
     }
     
     $("#human-age").val(ha);
-  }
+  });
 });
 </script>
