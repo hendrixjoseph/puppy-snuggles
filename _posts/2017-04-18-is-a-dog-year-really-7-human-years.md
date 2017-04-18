@@ -5,7 +5,7 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: []
 keywords: [is a dog year 7 human years, is a dog year seven human years, dog year, human year, human]
-image:
+image: images/covers/2017-04-18-is-a-dog-year-really-7-human-years.png
 jquery: true
 ---
 
@@ -64,11 +64,11 @@ I've created this calculator for you to mess around with. You can edit the snaps
 $(document).ready(function(){
   $("#dog-maturity").change(function(){
     $("#dog-senior").attr({"min" : $(this).val()});
-  }
+  });
   
   $("#human-maturity").change(function(){
     $("#human-senior").attr({"min" : $(this).val()});
-  }
+  });
 
   $("#dog-senior").change(function(){
     $("#dog-maturity").attr({"max" : $(this).val()});
@@ -82,11 +82,11 @@ $(document).ready(function(){
   
   $("#dog-death").change(function(){
     $("#dog-senior").attr({"max" : $(this).val()});
-  }
+  });
   
   $("#human-death").change(function(){
     $("#human-senior").attr({"max" : $(this).val()});
-  }
+  });
 
   $("#update").click(function(){
     var dm = parseFloat($("#dog-maturity").val());
