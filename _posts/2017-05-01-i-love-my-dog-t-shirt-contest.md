@@ -14,7 +14,7 @@ So what is the prize and how do you get a chance to win? The prize is the follow
 
 To enter, go to the following link:
 
-> https://giveaway.amazon.com/p/2a19b773d120adc6
+> [https://giveaway.amazon.com/p/2a19b773d120adc6](https://giveaway.amazon.com/p/2a19b773d120adc6)
 
 You'll have to follow my Twitter page [*Puppy Snuggles*](https://twitter.com/puppy_snuggles). You should be able to enter even if you're already following me. Just follow the instructions in the above link.
 
