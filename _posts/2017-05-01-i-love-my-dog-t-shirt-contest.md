@@ -3,6 +3,8 @@ layout: post
 title: I Love My Dog T-Shirt Contest
 author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
+tags: [contest]
+keywords: [giveaway, Amazon, Amazon Giveaway, prize, i love my dog, t-shirt, i love my dog t-shirt]
 image: images/covers/2017-05-01-i-love-my-dog-t-shirt-contest.jpg
 ---
 
