@@ -22,4 +22,4 @@ This giveaway started May 1, 2017 3:13 PM PDT and ends May 6, 2017 11:59 PM PDT.
 
 The official rules for Amazon Giveaway can be found at https://giveaway.amazon.com/rules.
 
-If you want to see other t-shirts I've designed, I have a [Puppy Snuggles t-shirt shop](http://www.puppy-snuggles.com/tshirts/) and a [t-shirt shop on my GitHub Blog](http://hendrixjoseph.github.io/t-shirts/).
+If you want to see other t-shirts I've designed, I have a [Puppy Snuggles t-shirt shop](http://www.puppy-snuggles.com/tshirts/) and a [t-shirt shop on my GitHub blog](http://hendrixjoseph.github.io/t-shirts/).
