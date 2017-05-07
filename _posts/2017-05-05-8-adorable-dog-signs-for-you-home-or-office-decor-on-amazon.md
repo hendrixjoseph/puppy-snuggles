@@ -12,7 +12,7 @@ I love dogs - and I love expressing my love for dogs. Here are eight adorable do
 
 ### I Work Hard So My Dog Can Have a Better Life
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B00CJFA4C8&asins=B00CJFA4C8&linkId=2136eca4bf4669173e608feac0e4d35f&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:240px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B00CJFA4C8&asins=B00CJFA4C8&linkId=2136eca4bf4669173e608feac0e4d35f&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### Dogs Welcome People Tolerated
 
@@ -42,4 +42,5 @@ I love dogs - and I love expressing my love for dogs. Here are eight adorable do
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B01DOPWNDE&asins=B01DOPWNDE&linkId=76ad143123e76df6a8375442f9a7cbc2&show_border=true&link_opens_in_new_window=true"></iframe>
 
-Which on is your favorite?
+
+Which one is your favorite?
