@@ -12,7 +12,7 @@ I love dogs - and I love expressing my love for dogs. Here are eight adorable do
 
 ### I Work Hard So My Dog Can Have a Better Life
 
-<iframe style="width:240px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B00CJFA4C8&asins=B00CJFA4C8&linkId=2136eca4bf4669173e608feac0e4d35f&show_border=true&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/Primitives-Kathy-Wood-Better-5-Inch/dp/B00CJFA4C8/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=48f544af386978326d287578175b2f59" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CJFA4C8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B00CJFA4C8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### Dogs Welcome People Tolerated
 
