@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 5 Pictures of Hidden Dogs (Can you find all 5?)
+title: 5 Pictures of Hidden Dogs
 author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [pictures of hidden dogs, pictures of hiding dogs, hidden dogs, hiding dogs, hiding, hidden]
 image: images/hiding/hidden-dog-1.jpg
+excerpt: Can you find all 5?
 ---
 
 Here are five images of dogs showing their incredible hiding skills. Can you find each dog in the image?
