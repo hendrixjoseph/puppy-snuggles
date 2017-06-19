@@ -5,6 +5,7 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [top dog names, popular dog names, dog names, female dog names, male dog names]
+image: images/covers/niko.jpg
 ---
 
 Ever wonder how common your dog's name is? Unlike human names, there's not as complete a list (for instance, [the US Social Security website](https://www.ssa.gov/oact/babynames/) contains a list of popular baby names). However, there are a couple of sources.
