@@ -7,9 +7,9 @@ tags: [list]
 keywords: [top dog names, popular dog names, dog names, female dog names, male dog names]
 ---
 
-Ever wonder how common your dog's name is? Unlike human names, there's as complete a list (for instance, [the US Social Security website](https://www.ssa.gov/oact/babynames/) contains a list of popular names). However, there are a couple of sources.
+Ever wonder how common your dog's name is? Unlike human names, there's not as complete a list (for instance, [the US Social Security website](https://www.ssa.gov/oact/babynames/) contains a list of popular baby names). However, there are a couple of sources.
 
-For instance, [Rover.com published a list last November](https://www.rover.com/blog/100-most-popular-male-female-dog-names-2016/) of the 100 most popular (or should I say "pupular?") dog names they had in their database. 
+For instance, [Rover.com published a list last November](https://www.rover.com/blog/100-most-popular-male-female-dog-names-2016/) of the 100 most popular (or should I say "**pup**ular?") dog names they had in their database. 
 
 ### Top five male dog names from Rover.com
 
