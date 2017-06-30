@@ -18,7 +18,7 @@
 <div class="post-tags">
 {% if include.post.tags %}{% assign tags = include.post.tags | sort %}{% endif %}
 {% if page.tags %}{% assign tags = page.tags | sort %}{% endif %}
-{% if tags %}{% for tag in tags %}<span>{{ tag }}</span>{% endfor %}{% endif %}
+{% if tags %}<span>{% for tag in tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}
 </div>
 </div>
 <hr class="post-info" />
