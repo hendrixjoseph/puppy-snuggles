@@ -21,7 +21,7 @@
 		<span class="mobile-hide full-name">twitter</span>
 	</div>
 </a>
-<a href="http://pinterest.com/pin/create/link/?url={{ url }}{% if text %}&description={{ text | url_encode }}{% endif %}&image_url={% site.url %}{% page.image %}" target="_blank">
+<a href="http://pinterest.com/pin/create/link/?url={{ url }}{% if text %}&description={{ text | url_encode }}{% endif %}&image_url={{ site.url }}{{ page.image }}" target="_blank">
 	<div class="share pinterest">
 		<i class="fa fa-pinterest-p" aria-hidden="true"></i>
 		<span class="mobile-hide full-name">pinterest</span>
