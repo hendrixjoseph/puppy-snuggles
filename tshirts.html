@@ -26,7 +26,7 @@ figure img:hover {
 
 <ul>
 {% for tee in site.data.tshirts %}
-<li itemscope itemtype="http://schema.org/Product"><a href="https://www.amazon.com/{{ tee.asin }}?tag=puppysnuggles-20">
+<li itemscope itemtype="http://schema.org/Product"><a href="https://www.amazon.com/dp/{{ tee.asin }}?tag=puppysnuggles-20">
 <figure>
 <img src="{{ site.url }}/images/tshirts/{{ tee.image }}" alt="{{ tee.title }}" />
 <figcaption>
