@@ -14,7 +14,7 @@ Keep in mind that fruit is often high in sugar, so you don't necessarily want to
 
 Finally, being that there are perhaps thousands of different fruits, this list is by no way exhaustive.
 
-![What Fruit Can a Dog Eat? Infographic](/images/pitbull/what-fruit-can-a-dog-eat-infographic.png "What Fruit Can a Dog Eat? Infographic")
+![What Fruit Can a Dog Eat? Infographic](/images/infographic/what-fruit-can-a-dog-eat-infographic.png "What Fruit Can a Dog Eat? Infographic")
 
 Yes:
 * apples
