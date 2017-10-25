@@ -67,7 +67,7 @@ figcaption {
 
 <ul>
 {% for product in site.data.amazon-products %}
-<a href="https://www.amazon.com/{{ product.asin }}?tag=puppy-post-list-20"><li>
+<a href="https://www.amazon.com/dp/{{ product.asin }}?tag=puppy-post-list-20"><li>
 <figure>
 <div class="affliate-image" style="background-image: url({{ site.url }}/images/product/{{ product.image }});"></div>
 <figcaption>
