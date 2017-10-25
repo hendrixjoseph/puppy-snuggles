@@ -69,11 +69,11 @@ figcaption {
 {% for post in site.posts %}
 <a href="{{ site.url }}{{ post.url }}"><li>
 <figure>
-<div class="post-image" style="background-image: url({{ site.url }}/{{ post.image }})"></div>
+<div class="post-image" style="background-image: url({{ site.url }}/{{ post.path | replace_first: '_posts','images\covers\small' | replace: '.md','.png' }}{{ post.image }})"></div>
 <figcaption>
 <h3>{{ post.title }}</h3>
 <span>{{ post.date | date: "%B %e, %Y" }}</span>
-<div>{{ post.path | replace_first: '_posts','images\covers\small' | replace: '.md','.png' }}{{ post.excerpt | strip_html }}</div>
+<div>{{ post.image }}{{ post.excerpt | strip_html }}</div>
 </figcaption>
 </figure>
 </li></a>{% capture modulo %}{{ forloop.index | modulo:5 }}{% endcapture %}
