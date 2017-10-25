@@ -46,10 +46,19 @@ ul a {
 	text-shadow: 0 1px 0 rgba(255,255,255,0.8);
 }
 
+.affliate-image,
 .post-image {
 	width: 100%;
 	height: 100px;
 	background-size: 100%;
+}
+
+.post-image {
+	background-size: 100%;
+}
+
+.affliate-image {
+ 	background-repeat: repeat-x;
 }
 	
 figcaption {
@@ -72,7 +81,7 @@ figcaption {
 {% if modulo == '0' %}
 <a href="https://www.amazon.com/{{ site.data.amazon-products[0].asin }}?tag=puppy-post-list-20"><li>
 <figure>
-<div class="post-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[0].image }}); background-repeat: repeat-x;"></div>
+<div class="affliate-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[0].image }});"></div>
 <figcaption>
 <h3>{{ site.data.amazon-products[0].name }}</h3>
 <span>This is an affiliate link.</span>
