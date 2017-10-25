@@ -33,6 +33,11 @@ li:hover {
 h3 {
 	margin: 0;
 	font-size: 1em;
+	display: inline-block;
+}
+	
+h3 + span {
+	font-size: 0.8em;	
 }
 	
 ul a {
@@ -59,7 +64,7 @@ figcaption {
 <figcaption>
 <h3>{{ post.title }}</h3>
 <span>{{ post.date | date: "%B %e, %Y" }}</span>
-<div>{{ post.excerpt }}</div>
+<div>{{ post.excerpt | strip_html }}</div>
 </figcaption>
 </figure>
 </li></a>
