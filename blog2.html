@@ -69,7 +69,7 @@ figcaption {
 {% for post in site.posts %}
 <a href="{{ site.url }}{{ post.url }}"><li>
 <figure>
-<div class="post-image" style="background-image: url({{ site.url }}/{{ post.path | replace_first: '_posts','images\covers\small' | replace: '.md','.png' }})"></div>
+<div class="post-image" style="background-image: url({{ site.url }}/{{ post.path | replace_first: '_posts','images/covers/small' | replace: '.md','.png'}})"></div>
 <figcaption>
 <h3>{{ post.title }}</h3>
 <span>{{ post.date | date: "%B %e, %Y" }}</span>
