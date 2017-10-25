@@ -5,7 +5,7 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [what fruit can a dog eat, dog, fruit]
-image: images/pitbull/what-fruit-can-a-dog-eat-infographic.png
+image: images/infographic/what-fruit-can-a-dog-eat-infographic.png
 ---
 
 Your dog probably watches you intently whenever you eat, no matter what you eat. This normally raises the question what human food can a dog eat? In this blog post, I identify some common fruits that are okay for a dog to eat - and some fruits that are dangerous.
