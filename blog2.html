@@ -68,6 +68,17 @@ figcaption {
 <div>{{ post.excerpt | strip_html }}</div>
 </figcaption>
 </figure>
+</li></a>{% capture modulo %}{{ forloop.index0 | mod:5 }}{% endcapture %}
+{% if modulo == '0' %}
+<a href="{{ post.url }}"><li>
+<figure>
+<div class="post-image" style="background-image: url({{ site.url }}/images/covers/2017-05-05-8-adorable-dog-signs-for-you-home-or-office-decor-on-amazon.jpg
+)"></div>
+<figcaption>
+<h3>Amazon Affiliate link</h3>
+<div>Buy x at amazon</div>
+</figcaption>
+</figure>
 </li></a>
-{% endfor %}
+{% endif %}{% endfor %}
 </ul>
