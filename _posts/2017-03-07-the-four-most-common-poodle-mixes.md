@@ -5,7 +5,7 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [most common poodle mixes, common poodle mixes, poodle mixes, poodle crossbreed, cockapoo, labradoodle, goldendoodle, schnoodle, poodle]
-image: images/covers/2017-03-17-the-four-most-common-poodle-mixes.png
+image: images/covers/2017-03-07-the-four-most-common-poodle-mixes.png
 ---
 
 Poodle crossbreeds have become increasingly popular in the past couple of decades. A few of these poodle mixes, such as the cockapoo, have existed since the 1950s. Others are much more recent.
