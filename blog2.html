@@ -17,13 +17,13 @@ li {
 	margin: 1em;
 }
 li:hover {
-	opacity: 0.8;
+	 transform: scale(1.1);
 }
 </style>
 
 <ul>
 {% for post in site.posts %}
-<li><a href="{{ post.url }}">
+<a href="{{ post.url }}"><li>
 <figure>
 <img src="{{ site.url }}/{{ post.image }}" alt="{{ post.title }}" />
 <figcaption>
@@ -32,6 +32,6 @@ li:hover {
 <div>{{ post.excerpt }}</div>
 </figcaption>
 </figure>
-</a></li>
+</li></a>
 {% endfor %}
 </ul>
