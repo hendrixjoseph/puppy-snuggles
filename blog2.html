@@ -78,13 +78,13 @@ figcaption {
 </figure>
 </li></a>{% capture modulo %}{{ forloop.index | modulo:5 }}{% endcapture %}
 {% if modulo == '0' %}
-<a href="https://www.amazon.com/{{ site.data.amazon-products[productindex].asin }}?tag=puppy-post-list-20"><li>
+<a href="https://www.amazon.com/{{ site.data.amazon-products[{% increment productindex %}].asin }}?tag=puppy-post-list-20"><li>
 <figure>
-<div class="affliate-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[productindex].image }});"></div>
+<div class="affliate-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[{% increment productindex %}].image }});"></div>
 <figcaption>
-<h3>{{ site.data.amazon-products[productindex].name }}</h3>
+<h3>{{ site.data.amazon-products[{% increment productindex %}].name }}</h3>
 <span>This is an affiliate link.</span>
-<div>Purchase {{ site.data.amazon-products[productindex].name }} on Amazon</div>
+<div>Purchase {{ site.data.amazon-products[{% increment productindex %}].name }} on Amazon</div>
 </figcaption>
 </figure>
 </li></a>
