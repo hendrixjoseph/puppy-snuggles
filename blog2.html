@@ -1,0 +1,42 @@
+---
+layout: bottom-ad
+title: Puppy Snuggles Blog
+permalink: /blog2/
+---
+
+{% for post in site.posts %}
+{% include post-header.html post=post %}
+<div class="post-body">{{ post.excerpt }}</div>
+{% endfor %}
+
+<style>
+.page h1, h2 {
+	text-align: center;
+}
+ul {
+	list-style: none;
+	text-align: center;
+}
+li {
+	display: inline-block;
+	margin: 1em;
+}
+li:hover {
+	opacity: 0.8;
+}
+</style>
+
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ include.post.url }}">
+<figure>
+<img src="{{ post.image }}" alt="{{ post.title }}" />
+<figcaption>
+<div>{{ post.title }}</div>
+<div>{{ post.date }}</div>
+<div>{{ post.excerpt }}</div>
+</figcaption>
+</figure>
+</a></li>
+{% endfor %}
+</ul>
