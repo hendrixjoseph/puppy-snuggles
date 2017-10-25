@@ -72,11 +72,11 @@ figcaption {
 {% if modulo == '0' %}
 <a href="https://www.amazon.com/{{ site.data.amazon-products[0].asin }}?tag=puppy-post-list-20"><li>
 <figure>
-<div class="post-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[0].image }})"></div>
+<div class="post-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[0].image }}); background-repeat: repeat-x;"></div>
 <figcaption>
 <h3>{{ site.data.amazon-products[0].name }}</h3>
 <span>This is an affiliate link.</span>
-<div>Purchase on Amazon</div>
+<div>Purchase {{ site.data.amazon-products[0].name }} on Amazon</div>
 </figcaption>
 </figure>
 </li></a>
