@@ -87,6 +87,6 @@ figcaption {
 <div>Purchase {{ site.data.amazon-products[productindex].name }} on Amazon</div>
 </figcaption>
 </figure>
-</li></a>{% assign productindex = productindex | plus:1 | modulo:2  %}
+</li></a>{% assign productindex = productindex | plus:1 | modulo:site.data.amazon-products.size  %}
 {% endif %}{% endfor %}
 </ul>
