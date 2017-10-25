@@ -70,7 +70,7 @@ figcaption {
 </figure>
 </li></a>{% capture modulo %}{{ forloop.index | modulo:5 }}{% endcapture %}
 {% if modulo == '0' %}
-<a href="https://www.amazon.com/"><li>
+<a href="https://www.amazon.com/{{ site.data.amazon-products[0].asin }}?tag=puppy-post-list-20"><li>
 <figure>
 <div class="post-image" style="background-image: url({{ site.url }}/images/covers/2017-05-05-8-adorable-dog-signs-for-you-home-or-office-decor-on-amazon.jpg
 )"></div>
