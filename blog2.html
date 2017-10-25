@@ -68,7 +68,7 @@ figcaption {
 <div>{{ post.excerpt | strip_html }}</div>
 </figcaption>
 </figure>
-</li></a>{% capture modulo %}{{ forloop.index0 | mod:5 }}{% endcapture %}
+</li></a>{% capture modulo %}{{ forloop.index0 | modulo:5 }}{% endcapture %}
 {% if modulo == '0' %}
 <a href="{{ post.url }}"><li>
 <figure>
