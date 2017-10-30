@@ -6,7 +6,7 @@
 	
 	@include mobile {
 		position: initial;
-		width: 178px;
+		width: 90%;
 		margin: 0 auto;
 	}
 }
@@ -21,6 +21,7 @@
 	@include mobile {
 		display: inline-block;
 		width: 16%;
+		padding: 0;
 	}
 }
 
