@@ -6,6 +6,8 @@
 	
 	@include mobile {
 		position: initial;
+		width: 178px;
+		margin: 0 auto;
 	}
 }
 
@@ -18,7 +20,7 @@
 	
 	@include mobile {
 		display: inline-block;
-		width: 1.5em;
+		width: 16%;
 	}
 }
 
