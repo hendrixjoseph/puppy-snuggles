@@ -1,5 +1,5 @@
 ---
-layout: bottom-ad
+layout: default
 title: Privacy Policy
 permalink: /privacy/
 ---
