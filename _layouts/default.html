@@ -18,11 +18,12 @@
   {% include facebook.html %}
   {% include analytics.html %}
   {% include header.html %}
-	
-  <section id="main-content">
+  <div id="main-content">
   {% include google/adsense.html %}
+  <section>
   {{ content }}
-  </section>	
+  </section>
+  </div>
 	
   {% include footer.html %}
   {% include scroll-popup.html %}
