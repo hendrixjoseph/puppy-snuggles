@@ -78,15 +78,6 @@ figcaption {
 </figure>
 </li></a>{% capture modulo %}{{ forloop.index | modulo:5 }}{% endcapture %}
 {% if modulo == '0' %}
-<a href="https://www.amazon.com/dp/{{ site.data.amazon-products[productindex].asin }}?tag=puppy-post-list-20"><li>
-<figure>
-<div class="affliate-image" style="background-image: url({{ site.url }}/images/product/{{ site.data.amazon-products[productindex].image }});"></div>
-<figcaption>
-<h3>{{ site.data.amazon-products[productindex].name }}</h3>
-<span>This is an affiliate link.</span>
-<div>Purchase {{ site.data.amazon-products[productindex].name }} on Amazon</div>
-</figcaption>
-</figure>
-</li></a>{% assign productindex = productindex | plus:1 | modulo:site.data.amazon-products.size  %}
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fe913423-d70d-4f28-ad73-7b4ba799d944"></script>
 {% endif %}{% endfor %}
 </ul>
