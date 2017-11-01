@@ -10,7 +10,7 @@ image: images/thanksgiving/TraditionalThanksgiving.jpg
 
 For most Americans, the end of November marks a time for family get-togethers and indulging in plenty of food. Many of us would love to share in the Thanksgiving festivities with our four-legged family members but are unsure which foods exactly are safe for our dogs.
 
-![/images/thanksgiving/TraditionalThanksgiving.jpg](A Traditional Thanksgiving Feast)
+![A Traditional Thanksgiving Feast](/images/thanksgiving/TraditionalThanksgiving.jpg)
 *source [en.wikipedia.org/wiki/File:TraditionalThanksgiving.jpg](https://en.wikipedia.org/wiki/File:TraditionalThanksgiving.jpg)*
 
 ### Can I feed my dog turkey?
@@ -29,7 +29,7 @@ Yes, your dog can eat sweet potatoes, assuming you aren't including the usual co
 
 ### Can I feed my dog pumpkin pie?
 
-![/images/thanksgiving/Pumpkin-Pie-Slice.jpg](A slice of pumpkin pie)
+![A slice of pumpkin pie](/images/thanksgiving/Pumpkin-Pie-Slice.jpg)
 *source [en.wikipedia.org/wiki/File:Pumpkin-Pie-Whole-Slice.jpg](https://en.wikipedia.org/wiki/File:Pumpkin-Pie-Whole-Slice.jpg)*
 
 No - even though pumpkin itself is perfectly healthy for your dog, pumpkin pie simply has too much sugar for a dog to handle. Don't stress if she was able to sneak a bite of the high-sugar pie - she'll probably just have a stomach ache accompanies with irregular bowel movements. Keep an eye for vomiting, however.
