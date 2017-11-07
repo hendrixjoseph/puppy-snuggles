@@ -16,32 +16,31 @@ I love dogs - and I love expressing my love for dogs. Here are eight adorable do
 
 ### Dogs Welcome People Tolerated
 
-<a href="https://www.amazon.com/SJT94125-Welcome-People-Tolerated-plaque/dp/B00PD8ZCCU/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=c4cefe4025ed00ef4739bd934d606fba" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PD8ZCCU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B00PD8ZCCU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include amazon/native-ad.html title="Dogs Welcome People Tolerated" asin="B00PD8ZCCU" %}
 
 ### All you need is love and a dog
 
-<a href="https://www.amazon.com/Primitives-Kathy-Box-Sign-Need/dp/B004MRX2ZM/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=85445bbfc1fdb8f2ff9c65b8dd8d4d00" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004MRX2ZM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B004MRX2ZM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include amazon/native-ad.html title="All you need is love and a dog" asin="B004MRX2ZM" %}
 
 ### Beware of Dog Kisses
 
-<a href="https://www.amazon.com/Primitives-Kathy-Sign-3-Inch-Kisses/dp/B007RPZXFI/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=b9c9e1236f29abade6679b8e31b06d3f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RPZXFI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B007RPZXFI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include amazon/native-ad.html title="Beware of Dog Kisses" asin="B007RPZXFI" %}
 
 ### Dogs Leave Paw Prints on Your Heart Forever
 
-<a href="https://www.amazon.com/Primitives-Kathy-3-Inch-4-Inch-Prints/dp/B00864B7JU/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=2a4eab06ae1d1c1cf8ab09368d8a3b61" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00864B7JU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B00864B7JU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include amazon/native-ad.html title="Dogs Leave Paw Prints on Your Heart Forever" asin="B00864B7JU" %}
 
 ### Life is Better When I'm With My Dog
 
-<a href="https://www.amazon.com/Primitives-Kathy-Square-Sign-4-Inch/dp/B00DN6GZZC/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=3ad2c9941487a4138b1ddb2f0cbe5131" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DN6GZZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B00DN6GZZC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include amazon/native-ad.html title="Life is Better When I'm With My Dog" asin="B00DN6GZZC" %}
 
 ### A House Is Not a Home Without a Dog
 
-<a href="https://www.amazon.com/House-Home-Without-Wood-Plaque-sign/dp/B00CSRJ1BM/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=c4eb31aa8df1357e0c2a93749463422e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CSRJ1BM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B00CSRJ1BM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include amazon/native-ad.html title="A House Is Not a Home Without a Dog" asin="B00CSRJ1BM" %}
 
 ### Love is Sloppy Kisses & a Wagging Tail
 
-<a href="https://www.amazon.com/Barnyard-Designs-Wagging-Vintage-Country/dp/B01DOPWNDE/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=67b1505a336a1361e92c79bed62323f3" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DOPWNDE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B01DOPWNDE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+{% include amazon/native-ad.html title="Love is Sloppy Kisses & a Wagging Tail" asin="B01DOPWNDE" %}
 
 
 Which one is your favorite?
