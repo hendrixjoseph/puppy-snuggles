@@ -12,20 +12,7 @@ I love dogs - and I love expressing my love for dogs. Here are eight adorable do
 
 ### I Work Hard So My Dog Can Have a Better Life
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "puppy-post-list-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "I Work Hard So My Dog Can Have a Better Life";
-amzn_assoc_linkid = "ed0908073ada6b3a1390942db5f3d743";
-amzn_assoc_asins = "B00CJFA4C8";
-amzn_assoc_size = "300xauto";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+{% include amazon/native-ad.html title="I Work Hard So My Dog Can Have a Better Life" asin="B00CJFA4C8" %}
 
 ### Dogs Welcome People Tolerated
 
