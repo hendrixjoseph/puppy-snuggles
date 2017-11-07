@@ -12,7 +12,20 @@ I love dogs - and I love expressing my love for dogs. Here are eight adorable do
 
 ### I Work Hard So My Dog Can Have a Better Life
 
-<a href="https://www.amazon.com/Primitives-Kathy-Wood-Better-5-Inch/dp/B00CJFA4C8/ref=as_li_ss_il?&linkCode=li3&tag=puppysnuggles-20&linkId=48f544af386978326d287578175b2f59" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CJFA4C8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=puppysnuggles-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=puppysnuggles-20&l=li3&o=1&a=B00CJFA4C8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "puppy-post-list-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "I Work Hard So My Dog Can Have a Better Life";
+amzn_assoc_linkid = "ed0908073ada6b3a1390942db5f3d743";
+amzn_assoc_asins = "B00CJFA4C8";
+amzn_assoc_size = "300xauto";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ### Dogs Welcome People Tolerated
 
