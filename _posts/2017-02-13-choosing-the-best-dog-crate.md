@@ -27,30 +27,38 @@ This might be the most confusing criteria when choosing what crate to buy, espec
 #### Wire Dog Crates
 
 [![Wire Dog Crate](/images/dog-crates/wire-dog-crate.jpg "Wire Dog Crate")
-*shop wire dog crates*](http://amzn.to/2l2nJ2P)
+*shop wire dog crates*](https://www.amazon.com/gp/search?index=pets&keywords=Wire%20Dog%20Crates&tag=puppysnuggles-20)
+
+{% include amazon/native-ad.html title="Wire Dog Crates" asin="B000QFT1RC,B00QAVNWSK,B0002AT3M4,B005VVWBVY" %}
 
 These dog crates are made of thick wire and should have a plastic tray on the bottom. This tray should slide out to allow for easy cleaning. If you get one of these, make sure it's easily collapsible. Also, they often come with a divider that can be used to reduce the usable space for when your dog is a puppy - saving money in the long run!
 
-These are what use. I highly either [MidWest iCrates](https://www.amazon.com/gp/search/ref=sr_nr_p_6_1?fst=as%3Aoff&rh=n%3A2619533011%2Ck%3Adog+crates%2Cp_89%3AMidWest+Homes+for+Pets%2Cp_6%3AATVPDKIKX0DER&keywords=dog+crates&ie=UTF8&qid=1446064993&rnid=2661622011&_encoding=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=ebcb617b2fc65a97fa2a91b46fb1fb19&camp=1789&creative=9325) or [Amazon Basics](https://www.amazon.com/AmazonBasics-Double-Door-Folding-Metal-Crate/dp/B00QAVNYGK/ref=sr_1_2?s=pet-supplies&ie=UTF8&qid=1487019337&sr=1-2&keywords=Amazon+Basics+wire+dog+crate&_encoding=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=773b1b719aabbd4ad32781700250e6f3&camp=1789&creative=9325).
+These are what use. I highly either [MidWest iCrates](https://www.amazon.com/gp/search?fst=as%3Aoff&rh=n%3A2619533011%2Ck%3Adog+crates%2Cp_89%3AMidWest+Homes+for+Pets%2Cp_6%3AATVPDKIKX0DER&keywords=dog+crates&qid=1446064993&rnid=2661622011&_encoding=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=ebcb617b2fc65a97fa2a91b46fb1fb19&camp=1789&creative=9325) or [Amazon Basics](https://www.amazon.com/AmazonBasics-Double-Door-Folding-Metal-Crate/dp/B00QAVNYGK/?tag=puppysnuggles-20).
 
 #### Plastic Dog Crates
 
 [![Plastic Dog Crate](/images/dog-crates/plastic-dog-crate.jpg "Plastic Dog Crate")
-*shop plastic dog crates*](https://www.amazon.com/gp/search?ie=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=511a286c1e7c78b2e4bc3e053fdb2f18&camp=1789&creative=9325&index=pets&keywords=Plastic%20Dog%20Crates)
+*shop plastic dog crates*](https://www.amazon.com/gp/search?tag=puppysnuggles-20&index=pets&keywords=Plastic%20Dog%20Crates)
+
+{% include amazon/native-ad.html title="Plastic Dog Crates" asin="B00OP6SVJW,B01BLS0TVE,B003E77OG4,B0062JFGFC" %}
 
 The biggest advantage to plastic dog crates is that they're excellent for transporting the dog. They also provide a more secure location for the dog, which is good for a skittish dog. Because of this, you can't see the dog well in this kind of crate. Another advantage to this dog crate is that it's easily cleanable should your dog have an accident, and it will help keep any... accidental material from getting on your floor or wall (or ceiling).
 
 #### Soft-Sided Dog Crates
 
 [![Soft-Sided Dog Crate](/images/dog-crates/soft-sided-dog-crate.jpg "Soft-Sided Dog Crate")
-*shop soft-sided dog crates*](https://www.amazon.com/gp/search?ie=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=b67b4822d7c30c477b06587600287add&camp=1789&creative=9325&index=pets&keywords=Soft-Sided%20Dog%20Crates)
+*shop soft-sided dog crates*](https://www.amazon.com/gp/search?tag=puppysnuggles-20&index=pets&keywords=Soft-Sided%20Dog%20Crates)
+
+{% include amazon/native-ad.html title="Soft-Sided Dog Crates" asin="B073R8CJJ7,B004ABH1LG,B01EWNATZQ,B01IDJA27U,B06XZZJ8XZ" %}
 
 These dog crates are mostly fabric, except for the frame, which is typically metal. The only advantage to these dog crates is that they're lightweight and easily collapsible. Honestly, I don't suggest these dog crates because they're almost impossible to clean and pretty much any dog could force its way out - leaving the dog crate damaged and unusable.
 
 #### Designer Dog Crates
 
 [![Designer Dog Crate](/images/dog-crates/designer-dog-crate.jpg "Designer Dog Crate")
-*shop designer dog crates*](https://www.amazon.com/gp/search?ie=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=5eeff44c520252325444f76065ce1fcb&camp=1789&creative=9325&index=pets&keywords=Designer%20Dog%20Crates)
+*shop designer dog crates*](https://www.amazon.com/gp/search?tag=puppysnuggles-20&index=pets&keywords=Designer%20Dog%20Crates)
+
+{% include amazon/native-ad.html title="Designer Dog Crates" asin="B005CQRR3U,B006TWQ8E0,B0149FXX3M,B0046ESM0G" %}
 
 These dog crates are essentially a piece of furniture. They're meant to complement the style of your house, rather than "sticking out like a sore thumb" like the previous four structures would. The biggest cons for these dog crates are it's not easily transportable or collapsible, heavier than most, and more expensive.
 
@@ -58,6 +66,6 @@ These dog crates are essentially a piece of furniture. They're meant to compleme
 
 ### Recommendations
 
-I highly recommend [MidWest iCrate wire dog crates](https://www.amazon.com/gp/search/ref=sr_nr_p_6_1?fst=as%3Aoff&rh=n%3A2619533011%2Ck%3Adog+crates%2Cp_89%3AMidWest+Homes+for+Pets%2Cp_6%3AATVPDKIKX0DER&keywords=dog+crates&ie=UTF8&qid=1446064993&rnid=2661622011&_encoding=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=ebcb617b2fc65a97fa2a91b46fb1fb19&camp=1789&creative=9325), as you can easily set them up and collapse them. I recently bought an [Amazon Basics wire dog crate](https://www.amazon.com/AmazonBasics-Double-Door-Folding-Metal-Crate/dp/B00QAVNYGK/ref=sr_1_2?s=pet-supplies&ie=UTF8&qid=1487019337&sr=1-2&keywords=Amazon+Basics+wire+dog+crate&_encoding=UTF8&tag=puppysnuggles-20&linkCode=ur2&linkId=773b1b719aabbd4ad32781700250e6f3&camp=1789&creative=9325), which is very similar to the iCrates. Both have held up extremely well.
+I highly recommend [MidWest iCrate wire dog crates](https://www.amazon.com/gp/search/?fst=as%3Aoff&rh=n%3A2619533011%2Ck%3Adog+crates%2Cp_89%3AMidWest+Homes+for+Pets%2Cp_6%3AATVPDKIKX0DER&keywords=dog+crates&qid=1446064993&rnid=2661622011&tag=puppysnuggles-20), as you can easily set them up and collapse them. I recently bought an [Amazon Basics wire dog crate](https://www.amazon.com/AmazonBasics-Double-Door-Folding-Metal-Crate/dp/B00QAVNYGK/ref=sr_1_2?s=pet-supplies&qid=1487019337&sr=1-2&keywords=Amazon+Basics+wire+dog+crate&tag=puppysnuggles-20), which is very similar to the iCrates. Both have held up extremely well.
 
 *Images on this blog post came from Amazon.com*
