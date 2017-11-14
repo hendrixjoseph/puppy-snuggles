@@ -1,0 +1,41 @@
+.comments {
+  form {
+    width: inherit;
+  }
+  
+  h3 {
+   text-align: left; 
+  }
+  
+  h3.comment-author {
+    margin: 0.5em 0 0 0;
+    height: 20px;
+  }
+
+  .comment-date a {
+    font-size: small;
+    color: black;
+    font-weight: 700;
+  }
+
+  .comment-body {
+
+  }
+
+  #post-new-comment {
+    label textarea, label input, button {
+      display: block;
+      margin-bottom: 1em;
+    }
+
+    .comment-body textarea {
+      width: 100%
+    }
+
+    label input {
+      max-width: 25em;
+      width: 40%;
+      min-width: 10em;
+    }
+  }
+}
