@@ -10,17 +10,17 @@ image: images/covers/2017-02-21-my-four-favorite-dog-treats-and-dog-toys.png
 
 Every dog deserves to have a favorite dog toy and a favorite dog treat. I know mine do. Here is a list of my four favorite dog treats and dog toys.
 
-### [Classic Kong dog toy](http://amzn.to/2kIhS5A)
+### [Classic Kong dog toy](https://www.amazon.com/KONG-Classic-Dog-Toy-Large/dp/B0002AR0I8/?tag=puppy-post-list-20)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B0002AR0I8&asins=B0002AR0I8&linkId=5a01a982d0af85532ec5170e1be78f98&show_border=true&link_opens_in_new_window=true"></iframe>
 
 This is my favorite - partly because of how indestructible they are, partly because I love how they [started out as suspension parts to a VW Bus](https://www.kongcompany.com/the-world-of-kong/the-kong-story/).
 
-Keep in mind there are two strengths of the Kong. Kong color codes these two: [the Classic Kong is red](http://amzn.to/2kIhS5A) while the stronger [Extreme Kong is black](http://amzn.to/2lCVMkj). My dog can destroy the Classic Kong, so I have to take any red Kongs she "borrows" from her friends.
+Keep in mind there are two strengths of the Kong. Kong color codes these two: [the Classic Kong is red](https://www.amazon.com/KONG-Classic-Dog-Toy-Large/dp/B0002AR0I8/?tag=puppy-post-list-20) while the stronger [Extreme Kong is black](https://www.amazon.com/KONG-Extreme-Dog-Large-Black/dp/B0002AR0II/?tag=puppy-post-list-20). My dog can destroy the Classic Kong, so I have to take any red Kongs she "borrows" from her friends.
 
 What's awesome about these dog toys is that they're hollow with a hole on the bottom. This means you can put dog treats in them, which will help keep any dog occupied for a long time. Kong actually sells treats made for this reason.
 
-### [Red Barn Filled Bone](http://amzn.to/2m8RL4P)
+### [Red Barn Filled Bone](https://www.amazon.com/gp/product/B000633Y40/?tag=puppy-post-list-20)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B000633Y40&asins=B000633Y40&linkId=628ab5e09351181c1a8c44964e3fcdc4&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -28,7 +28,7 @@ Is it a dog toy or dog treat? In either case, these hollow bones are filled with
 
 The only thing I would caution is not to allow your dog to consume these unsupervised. It is bone, after all, which can splinter.
 
-### [Milk Bones dog treats](http://amzn.to/2lISSLs)
+### [Milk Bones dog treats](https://www.amazon.com/Milk-Bone-Original-Treats-Medium-10-Pound/dp/B000I82DTU/?tag=puppy-post-list-20)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B000I82DTU&asins=B000I82DTU&linkId=5f523abf740e65ab4771ca667ec0e6b0&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -38,7 +38,7 @@ The crunchy texture helps clean your dog's teeth which supposedly freshens his o
 
 Oh - I've managed to stick these dog treats in both the remove Red Barn Filled Bones and Classic Kong!
 
-### [Pupperoni dog treats]()
+### [Pupperoni dog treats](https://www.amazon.com/gp/product/B001EQ5KCW/?tag=puppy-post-list-20)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=puppysnuggles-20&marketplace=amazon&region=US&placement=B001EQ5KCW&asins=B001EQ5KCW&linkId=7ea02beab24b1239a4e4ec7957c01687&show_border=true&link_opens_in_new_window=true"></iframe>
 
