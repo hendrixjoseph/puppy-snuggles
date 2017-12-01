@@ -10,7 +10,7 @@ image: images/princess-versus-door/at-the-vet-large.jpg
 
 Dogs bark. They go woof woof, bow wow. At least in English. But what is the onomatopoeia for the sound a dog barks in other languages? Here is a list of "woof woof" in 61 languages:
 
- | Language | | Onomatopoeia
+&nbsp; | Language | Onomatopoeia
 --- | --- | ---
 1 | Lebanese | haw-haw
 2 | Nigerian (Calabar area) | wai-wai
