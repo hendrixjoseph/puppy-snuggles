@@ -5,7 +5,7 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [dog barks in other languages, dog onomatopoeia in other languages, woof, bark]
-image: images/princess-versus-door/at-the-vet-large.jpg
+image: images/infographic/woof-woof-in-61-languages.png
 ---
 
 Dogs bark. They go woof woof, bow wow. At least in English. But what is the onomatopoeia for the sound a dog barks in other languages? Here is a list of "woof woof" in 61 languages:
