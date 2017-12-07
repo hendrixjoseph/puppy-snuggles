@@ -45,8 +45,8 @@ h2.main + h2 {
 <h2 class="main">Most recent blogs post</h2>
 
 <article class="post">
-{% include post-header.html post=site.posts[0] %}
-<div class="sample entry">{{ site.posts[0].excerpt }}</div>     
+{% include post-header.html post=site.posts.first %}
+<div class="sample entry">{{ site.posts.first.excerpt }}</div>     
 </article>
 
 <div class="content">
