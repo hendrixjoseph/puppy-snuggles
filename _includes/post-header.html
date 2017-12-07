@@ -5,12 +5,12 @@
 <div class="author-and-date">
 <span itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}" class="date">{{ post.date | date: "%B %e, %Y" }}</span>
 <meta itemprop="dateModified" content="{% if post.updated %}{{ post.updated | date: "%Y-%m-%d" }}{% else %}{{ post.date | date: "%Y-%m-%d" }}{% endif %}" />
-{% if post.author %}<span>by {% if post.author-url %}
-<a href="{{ post.author-url }}">{% endif %}
+{% if post.author %}<span>by {% if post.author-url %}{% unless include.post %}
+<a href="{{ post.author-url }}">{% endunless %}{% endif %}
 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
 <span itemprop="name">{{ post.author }}</span>
 </span>
-{% if post.author-url %}</a>{% endif %}{% endif %}
+{% if post.author-url %}{% unless include.post %}</a>{% endunless %}{% endif %}{% endif %}
 </span>
 </div>
 <div class="post-tags">
