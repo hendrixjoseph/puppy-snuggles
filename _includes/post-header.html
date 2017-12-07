@@ -1,20 +1,33 @@
-{% if include.post %}{% assign title = include.post.title %}{% else %}{% assign title = page.title %}{% endif %}
+{% if include.post %}
+{% assign title = include.post.title %}
+{% assign date = include.post.date %}
+{% if include.post.updated %}{% assign updated = include.post.updated %}{% else %}{% assign updated = include.post.date %}{% endif %}
+{% assign author = include.post.author %}
+{% assign author-url = include.post.author-url %}
+{% assign tags = include.post.tags | sort %}
+{% else %}
+{% assign title = page.post.title %}
+{% assign date = page.post.date %}
+{% if page.post.updated %}{% assign updated = page.post.updated %}{% else %}{% assign updated = page.post.date %}{% endif %}
+{% assign author = page.post.author %}
+{% assign author-url = page.post.author-url %}
+{% assign tags = page.post.tags | sort %}
+{% endif %}
 <h2 itemprop="headline">{{ title }}</h2>
 <hr class="post-info" />
 <div class="post-info">
 <div class="author-and-date">
-<span itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}" class="date">{{ post.date | date: "%B %e, %Y" }}</span>
-<meta itemprop="dateModified" content="{% if post.updated %}{{ post.updated | date: "%Y-%m-%d" }}{% else %}{{ post.date | date: "%Y-%m-%d" }}{% endif %}" />
-{% if post.author %}<span>by {% if post.author-url %}{% unless include.post %}
-<a href="{{ post.author-url }}">{% endunless %}{% endif %}
+<span itemprop="datePublished" content="{{ date | date: "%Y-%m-%d" }}" class="date">{{ date | date: "%B %e, %Y" }}</span>
+<meta itemprop="dateModified" content="{{ updated | date: "%Y-%m-%d" }}" />
+{% if author %}<span>by {% if author-url %}{% unless include.post %}
+<a href="{{ author-url }}">{% endunless %}{% endif %}
 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-<span itemprop="name">{{ post.author }}</span>
+<span itemprop="name">{{ author }}</span>
 </span>
-{% if post.author-url %}{% unless include.post %}</a>{% endunless %}{% endif %}{% endif %}
+{% if author-url %}{% unless include.post %}</a>{% endunless %}{% endif %}{% endif %}
 </span>
 </div>
 <div class="post-tags">
-{% if post.tags %}{% assign tags = include.post.tags | sort %}{% endif %}
 {% if tags %}<span>{% for tag in tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}
 </div>
 </div>
