@@ -44,7 +44,7 @@ h2.main + h2 {
 
 <h2 class="main">Most recent blogs post</h2>
 
-<a href="{{ site.posts.first.url }}">
+<a href="{{ site.posts.first.url }}" style="color: inherit;">
 <article class="post" style="margin: 2em;">
 {% include post-header.html post=site.posts.first %}
 <div class="sample entry">{{ site.posts.first.excerpt }}</div>     
