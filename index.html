@@ -42,6 +42,13 @@ h2.main + h2 {
 
 <h2 class="main">If you can answer "yes" to any of these, then Puppy Snuggles is the place for you!</h2>
 
+<h2 class="main">Most recent blogs post</h2>
+
+<article class="post">
+{% include post-header.html post=site.posts[0] %}
+<div class="sample entry">{{ site.posts[0].excerpt }}</div>     
+</article>
+
 <div class="content">
 <div><i class="main-fa fa fa-shopping-bag" aria-hidden="true"></i>Shop for <a href="/shop/">pet supplies</a> or check out our <a href="http://www.puppy-snuggles.com/tshirts/">cute tees</a>!</div>
 <div><a href="http://www.puppy-snuggles.com/blog/"><i class="main-fa fa fa-commenting-o" aria-hidden="true"></i>Comment on our blog posts!</a></div>
