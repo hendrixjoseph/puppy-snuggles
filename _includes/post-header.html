@@ -4,7 +4,7 @@
 <div class="post-info">
 <div class="author-and-date">
 <span itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}" class="date">{{ post.date | date: "%B %e, %Y" }}</span>
-<meta itemprop="dateModified" content="{% if post.updated %}{{ post.updated }}{{ post.updated }}{% else %}{{ post.date | date: "%Y-%m-%d" }}{% endif %}" />
+<meta itemprop="dateModified" content="{% if post.updated %}{{ post.updated | date: "%Y-%m-%d" }}{% else %}{{ post.date | date: "%Y-%m-%d" }}{% endif %}" />
 {% if post.author %}<span>by {% if post.author-url %}
 <a href="{{ post.author-url }}">{% endif %}
 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
