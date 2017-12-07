@@ -44,10 +44,12 @@ h2.main + h2 {
 
 <h2 class="main">Most recent blogs post</h2>
 
-<article class="post">
+<a href="{{ site.posts.first.post.url }}">
+<article class="post" style="margin: 2em;">
 {% include post-header.html post=site.posts.first %}
 <div class="sample entry">{{ site.posts.first.excerpt }}</div>     
 </article>
+</a>
 
 <div class="content">
 <div><i class="main-fa fa fa-shopping-bag" aria-hidden="true"></i>Shop for <a href="/shop/">pet supplies</a> or check out our <a href="http://www.puppy-snuggles.com/tshirts/">cute tees</a>!</div>
