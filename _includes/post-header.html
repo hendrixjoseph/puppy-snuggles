@@ -6,12 +6,12 @@
 {% assign author-url = include.post.author-url %}
 {% assign tags = include.post.tags | sort %}
 {% else %}
-{% assign title = page.post.title %}
-{% assign date = page.post.date %}
-{% if page.post.updated %}{% assign updated = page.post.updated %}{% else %}{% assign updated = page.post.date %}{% endif %}
-{% assign author = page.post.author %}
-{% assign author-url = page.post.author-url %}
-{% assign tags = page.post.tags | sort %}
+{% assign title = page.title %}
+{% assign date = page.date %}
+{% if page.updated %}{% assign updated = page.updated %}{% else %}{% assign updated = page.date %}{% endif %}
+{% assign author = page.author %}
+{% assign author-url = page.author-url %}
+{% assign tags = page.tags | sort %}
 {% endif %}
 <h2 itemprop="headline">{{ title }}</h2>
 <hr class="post-info" />
