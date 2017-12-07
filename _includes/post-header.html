@@ -1,4 +1,4 @@
-{% if include.post %}{% assign post = include.post %}{% else %}{% assign post = site.posts.first %}{% endif %}
+{% if include.post %}{% assign post = include.post %}{% else %}{% endif %}
 <h2 itemprop="headline">{{ post.title }}</h2>
 <hr class="post-info" />
 <div class="post-info">
