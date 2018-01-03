@@ -12,11 +12,11 @@ It's been a fun first year here at Puppy Snuggles. While we only published 20 bl
 To recap 2017, here are the top five Puppy Snuggles posts of 2017, based on page views in Google Analytics:
 
 <ol reversed>
-<li>[Choosing the Best Dog Crate](http://www.puppy-snuggles.com/blog/choosing-the-best-dog-crate/) published on February 13th with 190 views.</li>
-<li>[My Four Favorite Dog Treats and Dog Toys](http://www.puppy-snuggles.com/blog/my-four-favorite-dog-treats-and-dog-toys/) published on February 21st with 235 views.</li>
-<li>[The 10 Best Dog Costumes for Halloween 2017](http://www.puppy-snuggles.com/blog/the-10-best-dog-costumes-for-halloween-2017/) published on October 2nd with 238 views.</li>
-<li>[The Four Most Common Poodle Mixes](http://www.puppy-snuggles.com/blog/the-four-most-common-poodle-mixes/) published on September 20th with 879 views.</li>
-<li>[My Top 10 Dog Quotes](http://www.puppy-snuggles.com/blog/my-top-10-dog-quotes/) published on March 31st with 1,662 views.</li>
+<li><a href="http://www.puppy-snuggles.com/blog/choosing-the-best-dog-crate/">Choosing the Best Dog Crate</a> published on February 13th with 190 views.</li>
+<li><a href="http://www.puppy-snuggles.com/blog/my-four-favorite-dog-treats-and-dog-toys/">My Four Favorite Dog Treats and Dog Toys</a> published on February 21st with 235 views.</li>
+<li><a href="http://www.puppy-snuggles.com/blog/the-10-best-dog-costumes-for-halloween-2017/">The 10 Best Dog Costumes for Halloween 2017</a> published on October 2nd with 238 views.</li>
+<li><a href="http://www.puppy-snuggles.com/blog/the-four-most-common-poodle-mixes/">The Four Most Common Poodle Mixes</a> published on September 20th with 879 views.</li>
+<li><a href="http://www.puppy-snuggles.com/blog/my-top-10-dog-quotes/">My Top 10 Dog Quotes</a> published on March 31st with 1,662 views.</li>
 </ol>
 
 Not surprisingly the post with the most views was published earlier in the year since the earlier posts are published the more time people have to view them. It's nice to see two posts published in the latter half of the year in this list, though.
