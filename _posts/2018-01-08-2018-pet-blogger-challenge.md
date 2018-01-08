@@ -5,9 +5,13 @@ author: Joe Hendrix
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [blog, web blog, blog post, post, pet, pet blogger]
+image: images/covers/2018-01-08-2018-pet-blogger-challenge.jpg
 ---
 
 The [***Pet Blogger Challange***](https://blog.gopetfriendly.com/8th-annual-pet-blogger-challenge-coming-january-6th-7th-and-8th/) is a set of questions by [the Go Pet Friendly blog](https://blog.gopetfriendly.com/) for bloggers to answer over the weekend of January 6th, 7th, & 8th. While this is the 8th annual Pet Blogger Challenge there, this is my first.
+
+![My dog Princess](/images/covers/2018-01-08-2018-pet-blogger-challenge.png)
+*My dog [Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/)*
 
 Here are the questions and my answers:
 
