@@ -13,7 +13,7 @@ navlinks:
   - text: Facebook
     url: facebook/
   - text: Shop
-    url: https://www.amazon.com/shop/puppy_snuggles
+    url: shop/
   - text: T-shirts
     url: tshirts/
     
@@ -53,6 +53,7 @@ sass:
 
 # Use the following plug-ins
 gems:
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
