@@ -1,5 +1,5 @@
 {% if include.post %}{% assign title = include.post.title %}{% assign date = include.post.date %}{% if include.post.updated %}{% assign updated = include.post.updated %}{% else %}{% assign updated = include.post.date %}{% endif %}{% assign author = include.post.author %}{% assign author-url = include.post.author-url %}{% assign tags = include.post.tags | sort %}{% else %}{% assign title = page.title %}{% assign date = page.date %}{% if page.updated %}{% assign updated = page.updated %}{% else %}{% assign updated = page.date %}{% endif %}{% assign author = page.author %}{% assign author-url = page.author-url %}{% assign tags = page.tags | sort %}{% endif %}
-<h2 itemprop="headline">{{ title }}</h2>
+<h1 itemprop="headline">{{ title }}</h1>
 <hr class="post-info" />
 <div class="post-info">
 <div class="author-and-date">
