@@ -69,7 +69,7 @@ header {
   width: 100%;
 }
 
-header h1 {
+header #blog-name {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
@@ -78,7 +78,7 @@ header h1 {
   display: inline-block;
 }
 
-header h2 {
+header .site-description {
   font-size: 24px;
   font-weight: normal;
   line-height: 1.3;
@@ -183,11 +183,11 @@ form {
 
 /* GENERAL ELEMENT TYPE STYLES */
 
-h1 {
+h1, #blog-name {
   font-size: 30px;
 }
 
-h2 {
+h2, .site-description {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
