@@ -6,8 +6,8 @@ permalink: /sitemap/
 
 ## Top Level
 
-* [Front Page](/index.html){% for navlink in site.navlinks %}{% unless navlink.text == 'Shop' %}
-* [{{ navlink.text }}]({{ site.url }}/{{ navlink.url }}){% endunless %}{% endfor %}
+* [Front Page](/index.html){% for navlink in site.navlinks %}
+* [{{ navlink.text }}]({{ site.url }}/{{ navlink.url }}){% endfor %}
 * [Privacy Policy]({{ site.url }}/privacy/)
 * [Sitemap (this page)]({{ site.url }}/sitemap/)
 * [Sitemap.xml]({{ site.url }}/sitemap.xml)
