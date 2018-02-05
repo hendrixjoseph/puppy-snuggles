@@ -17,6 +17,17 @@ navlinks:
   - text: T-shirts
     url: tshirts/
     
+frontpagelinks:
+  - title: Blog
+    url: blog/
+    img: images/blog.jpg 
+  - title: Shop
+    url: shop/
+    img: images/shop.jpg    
+  - title: T-shirts
+    url: tshirts/
+    img: images/t-shirts.jpg
+    
 keywords:
   - puppy
   - puppies
