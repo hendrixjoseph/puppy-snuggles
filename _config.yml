@@ -19,14 +19,14 @@ navlinks:
     
 frontpagelinks:
   - title: Blog
-    url: blog/
-    img: images/t-shirts.png 
+    url: /blog/
+    img: /images/t-shirts.png 
   - title: Shop
-    url: shop/
-    img: images/t-shirts.png    
+    url: /shop/
+    img: /images/t-shirts.png    
   - title: T-shirts
-    url: tshirts/
-    img: images/t-shirts.png
+    url: /tshirts/
+    img: /images/t-shirts.png
     
 keywords:
   - puppy
