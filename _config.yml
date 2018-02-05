@@ -8,10 +8,6 @@ description: for those who love snuggling with puppies!
 navlinks:
   - text: Blog
     url: blog/
-  - text: Twitter
-    url: twitter/
-  - text: Facebook
-    url: facebook/
   - text: Shop
     url: shop/
   - text: T-shirts
@@ -20,7 +16,7 @@ navlinks:
 frontpagelinks:
   - title: Blog
     url: /blog/
-    img: /images/t-shirts.png 
+    img: /images/blog.png 
   - title: Shop
     url: /shop/
     img: /images/t-shirts.png    
