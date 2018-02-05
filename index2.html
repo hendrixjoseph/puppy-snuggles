@@ -26,11 +26,14 @@ ul {
 ul li {
 	display: inline-block;
 	margin: 1em;
-	width: 25%;
-	min-width: 289px;
 	overflow: hidden;
 	padding: 0;
 	
+}
+	
+ul.font-page-links li {
+	width: 25%;
+	min-width: 289px;	
 }
 	
 li:hover {
@@ -72,7 +75,7 @@ figure {
 
 <h2 class="main">Do you enjoy snuggling with your puppy?</h2>
 
-<ul>
+<ul class="font-page-links">
 {% for link in site.frontpagelinks %}
 <a href="{{ site.url }}{{ link.url }}"><li>
 <figure>
