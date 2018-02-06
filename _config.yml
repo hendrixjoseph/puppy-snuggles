@@ -19,7 +19,7 @@ frontpagelinks:
     img: /images/blog.png 
   - title: Shop
     url: /shop/
-    img: /images/t-shirts.png    
+    img: /images/shop.png    
   - title: T-shirts
     url: /tshirts/
     img: /images/t-shirts.png
