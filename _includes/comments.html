@@ -21,7 +21,7 @@
   {% endfor %}
 {% endif %}
 
-{% comment %}
+
 <h3>Leave a Reply</h3>
 <form id="post-new-comment" method="post" action="https://api.staticman.net/v2/entry/hendrixjoseph/puppy-snuggles/master/comments">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
@@ -33,6 +33,5 @@
   <button type="submit">Post comment</button>
   <em>Note that comments won't appear until approved.</em>
 </form>
-{% endcomment %}
-***Commenting temporarily disabled.***
+{% comment %}***Commenting temporarily disabled.***{% endcomment %}
 </div>
