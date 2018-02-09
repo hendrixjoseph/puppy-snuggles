@@ -26,7 +26,7 @@
 <form id="post-new-comment" method="post" action="https://api.staticman.net/v2/entry/hendrixjoseph/puppy-snuggles/master/comments">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
   <input name="options[slug]" type="hidden" value="{% if include.slug %}{{ include.slug }}{% else %}{{ page.slug }}{% endif %}">
-  <label class="comment-body">Comment (required)<textarea name="fields[message]" required="required" aria-required="true"></textarea></label>  
+  <label class="comment-body">Comment (required)<textarea name="fields[msg]" required="required" aria-required="true"></textarea></label>  
   <label class="comment-author">Name (required)<input name="fields[name]" id="name"  required="required" aria-required="true" type="text"></label>
   <label class="comment-url">Email (required, always hashed, never used nor published)<input name="fields[email]" id="email"  required="required" aria-required="true" type="email"></label>
   <label class="comment-email">Website (optional)<input name="fields[url]" id="url"  type="url"></label>  
