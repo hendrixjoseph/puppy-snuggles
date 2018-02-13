@@ -12,7 +12,7 @@ I'm about to be a dad, and there's plenty of things I'm excited and nervous abou
 
 We have two dogs. [Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/) is a 60-pound dog that is [half-pit](http://www.puppy-snuggles.com/blog/the-four-most-common-pit-bull-dog-breeds/), half golden, and all love. Niko is a 20-pound excitable [cockapoo](http://www.puppy-snuggles.com/blog/the-four-most-common-poodle-mixes/). The thought of introducing our baby to our two dogs, and what it will be like living with a baby and two dogs, brings a lot of questions and concerns to the front of my mind: will our dogs accept our baby? What will they think of this little human? Will they understand he's a baby? Will they be protective of the baby? Will they, heaven forbid, try to hurt our baby?
 
-![Stick figure drawing of a mom, dad, baby, and two dogs.](/images/covers/2018-02-13-concerns-i-have-about-introcucing-our-newborn-baby-to-our-dogs.png)
+![Stick figure drawing of a mom, dad, baby, and two dogs.](/images/covers/2018-02-13-concerns-i-have-about-introducing-our-newborn-baby-to-our-dogs.png)
 
 ## Princess
 
