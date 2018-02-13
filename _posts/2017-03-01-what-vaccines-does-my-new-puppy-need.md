@@ -46,7 +46,7 @@ Symptoms of [canine distemper](https://en.wikipedia.org/wiki/Canine_distemper) i
 
 #### Rabies
 
-This is the disease that got [Old Yeller](https://en.wikipedia.org/wiki/Old_Yeller). [Rabies]( https://en.wikipedia.org/wiki/Rabies) is transmittable to humans and is normally fatal. Only a handful of people have survived rabies - [a Google search](https://www.google.com/search?q=list+of+people+who+survived+rabies) suggests that [three people had survived as of 2008](http://www.foxnews.com/story/2008/11/17/boy-15-becomes-1-only-3-known-rabies-survivors-worldwide.html), and by [2016 that number had risen only to 16](https://rabiesalliance.org/media/news/could-more-people-survive-rabies).
+This is the disease that got [Old Yeller](https://en.wikipedia.org/wiki/Old_Yeller). [Rabies]( https://en.wikipedia.org/wiki/Rabies) is transmittable to humans and is normally fatal. Only a handful of people have survived rabies - [a Google search](https://www.google.com/search?q=list+of+people+who+survived+rabies) suggests that [three people had survived as of 2008](http://www.foxnews.com/story/2008/11/17/boy-15-becomes-1-only-3-known-rabies-survivors-worldwide.html), and by [2016 that number had risen only to 16](https://rabiesalliance.org/resource/could-more-people-survive-rabies).
 
 As such, many states and jurisdictions require that dogs receive a rabies vaccine. Often there is an additional tag the dog must wear that shows the rabies vaccine was given.
 
