@@ -10,7 +10,7 @@ image: images/puppy-profile/princess/happy-princess.jpg
 
 Today I'd like to introduce my current dog and first dog I adopted as an adult: Princess!
 
-![Princess Swimming](/images/puppy-profile/princess/happy-princess.jpg)
+![Happy Princess](/images/puppy-profile/princess/happy-princess.jpg)
 *Princess*
 
 ### Breed
