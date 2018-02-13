@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concerns I Have About Introcucing Our Newborn Baby to Our Dogs
+title: Concerns I Have About Introducing Our Newborn Baby to Our Dogs
 author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [conversation]
