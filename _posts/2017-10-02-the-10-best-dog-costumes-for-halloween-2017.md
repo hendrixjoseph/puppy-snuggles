@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 10 Best Dog Costumes for Halloween 2017
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [halloween, dog costumes, dog costumes, costumes, costume]

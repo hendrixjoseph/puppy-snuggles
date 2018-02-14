@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Adorable Dog Signs for you Home or Office Decor on Amazon
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [love, dogs, love dogs, dog signs, home decor, office decor]

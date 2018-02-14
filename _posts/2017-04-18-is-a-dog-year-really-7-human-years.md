@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is a "Dog Year" Really 7 "Human Years?"
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [discussion]
 keywords: [is a dog year 7 human years, is a dog year seven human years, dog year, human year, human]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanksgiving Holiday Food Dangers for Your Dog
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [thanksgiving holiday, thanksgiving food, thanksgiving, holiday, food]

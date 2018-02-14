@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Puppy Profile: Princess"
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [puppy profile]
 keywords: [pit bull, half golden retriever]

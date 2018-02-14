@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Dog Names
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [top dog names, popular dog names, dog names, female dog names, male dog names]

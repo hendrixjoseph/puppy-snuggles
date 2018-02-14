@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Pet Blogger Challenge
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [blog, web blog, blog post, post, pet, pet blogger]

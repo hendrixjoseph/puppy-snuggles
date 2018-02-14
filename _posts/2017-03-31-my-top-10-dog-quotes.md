@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top 10 Dog Quotes
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [dog, puppy, dog quote, dog quotes]

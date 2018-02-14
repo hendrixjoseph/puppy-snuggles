@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Woof woof in 61 Languages
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [dog barks in other languages, dog onomatopoeia in other languages, woof, bark]

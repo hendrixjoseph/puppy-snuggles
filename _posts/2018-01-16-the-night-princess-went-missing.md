@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Night Princess Went Missing
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [story]
 keywords: [missing, craigslist, lost dog, found dog, scary story]

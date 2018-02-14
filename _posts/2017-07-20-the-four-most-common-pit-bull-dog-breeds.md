@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Four Most Common Pit Bull Dog Breeds
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [most common pit bull dog breeds, most common pit bull dogs, most common pit bull breeds, most common pit bulls, pit bulls, pit bull terrier, bull terrier, american pit bull terrier, american staffordshire terrier, american bully, staffordshire bull terrier]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Vaccines Does My New Puppy Need?
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [new puppy]
 keywords: [what vaccines does my new puppy need, vaccine, dog vaccine, puppy vaccine]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Feed Your Puppy Peanut Butter?
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [buying guide, nutrition]
 keywords: [peanut butter, xylitol]

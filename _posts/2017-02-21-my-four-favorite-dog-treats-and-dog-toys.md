@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Four Favorite Dog Treats and Dog Toys
-author: Joe Hendrix
+author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [buying guide]
 keywords: [dog, treat, toy, dog treat, dog toy, favorite dog toy, favorite dog treat, kong, classic kong, extreme kong, milk bone, pupperoni, bone, filled bone, red barn filled bone]
