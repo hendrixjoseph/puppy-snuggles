@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 {% if site.data.comments[page.slug] %}{% assign comments = site.data.comments[page.slug] | sort %}
->>>>>>> 550a98b3ac8a028ee1dce4f284a25d665f67544b
 <section id="comments" class="comments">
 {% if site.data.comments[page.slug] %}{% assign comments = site.data.comments[page.slug] | sort %}
 	<h3>{{ comments | size }} comment{% if comments.size > 1 %}s{% endif %} for <em>{{ page.title }}</em></h3>
@@ -18,7 +15,4 @@
 {% endif %}
 <h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3>
 {% include comments/form.html slug=slug %}
-<<<<<<< HEAD
 </section>
-=======
->>>>>>> 550a98b3ac8a028ee1dce4f284a25d665f67544b
