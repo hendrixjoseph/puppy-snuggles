@@ -1,45 +1,61 @@
-.comments {
-  background: #f2f2f2;
-  padding: 20px;
-  
-  form {
-    width: inherit;
+section.comments {
+  article.comment-body {
+    border: none;
+    box-shadow: none;
     padding: 0;
   }
   
-  h3 {
-   text-align: left; 
+  .comment-list {
+    list-style-type: none;
+
+    img.avatar {
+      float: left;
+      height: 80px;
+      width: 80px;
+      margin: 0 10px 10px 0px;
+    }
+    
+    .author-name {
+      color: #303030;
+      font-size: 20px;
+      font-weight: bold;
+    }
+	
+	a .author-name {
+	  color: #d5000d;
+	}
+
+    time {
+      font-size: small;
+      color: black;
+      font-weight: 700;
+    }
+
+    .comment-content {
+      clear: left;
+    }
   }
   
-  h3.comment-author {
-    margin: 0.5em 0 0 0;
-    height: 20px;
+  .comment-list.top {
+    padding: 0;
   }
 
-  .comment-date a {
-    font-size: small;
-    color: black;
-    font-weight: 700;
+  .comment-list.top > li {
+    padding: 1em;
+    margin-bottom: 1em;
   }
+}
 
-  .comment-body {
-
-  }
-
-  #post-new-comment {
-    label textarea, label input, button {
+.new-comment {
+  label, textarea, input, button {
       display: block;
-      margin-bottom: 1em;
-    }
-
-    .comment-body textarea {
-      width: 100%
-    }
-
-    label input {
-      max-width: 25em;
-      width: 40%;
-      min-width: 10em;
-    }
+  }
+  
+  textarea, input {
+    width: 100%;
+  }
+  
+  input {
+    max-width: 25em;
   }
 }
