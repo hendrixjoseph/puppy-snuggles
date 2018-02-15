@@ -38,12 +38,8 @@
 }
 
 .share-block a:hover {
-	.fa {
-		display: none;	
-	}
-	
 	.full-name {
-		display: inherit;
+		display: inline-block;
 	}
 }
 
