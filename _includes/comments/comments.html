@@ -1,17 +1,5 @@
 {% if site.data.comments[page.slug] %}{% assign comments = site.data.comments[slug] | sort %}
-<section id="comments" class="comments">
-	<h3>{{ comments | size }} comment{% if comments.size > 1 %}s{% endif %} for <em>{{ page.title }}</em></h3>
-	<ul class="comment-list top">
-	{% for comment in comments %}
-		<li id="comment-{{ comment[1].date }}" class="comment">
-		<article class="comment-body" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
-			
-			<div class="comment-content">{{ comment[1].message | markdownify }}</div>
-		</article>		
-		</li>
-	{% endfor %}
-	</ul>
-</section>
+
 {% endif %}
 
 <h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3>
