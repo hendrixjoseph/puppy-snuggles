@@ -29,7 +29,7 @@
 	width: 100%;
 	
 	@include mobile {
-		width: initial;
+		width: 16%;
 	}
 }
 
@@ -72,4 +72,8 @@
 
 .share:hover {
 	transform: scale(1.1);
+	
+	@include mobile {
+		transform: none;
+	}
 }
