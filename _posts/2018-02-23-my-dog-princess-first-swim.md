@@ -18,6 +18,22 @@ In addition to hiking, my wife and I enjoy other outdoorsy things. Things like c
 
 At this point, Princess had never been swimming. I didn't even know if she knew how to swim! So naturally, I was a bit concerned - I didn't want her to fall off the canoe and drown!
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "puppysnuggles-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Dog Life Jackets";
+amzn_assoc_default_search_phrase = "dog life jacket";
+amzn_assoc_default_category = "PetSupplies";
+amzn_assoc_linkid = "9e0627f7e1ec4638d4003d0e26ffe4f6";
+amzn_assoc_default_browse_node = "2619533011";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 So I drove down to the local pet store and bought her a [doggy life jacket](https://www.amazon.com/s/?url=search-alias%3Dpets&field-keywords=dog+life+jacket&tag=puppysnuggles-20). On top of making it safer for it, she looked super cute in it. She gets lots of comments every time she wears it!
 
 In hindsight, she probably doesn't really need the doggy life jacket. Not only can she swim, she's a super swimmer and absolutely loves the water!
