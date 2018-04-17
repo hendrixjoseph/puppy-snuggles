@@ -5,7 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [conversation]
 keywords: []
-image: images/princess-swim/all-of-us-in-the-canoe.jpg
+image: images/three-dogs/lobi.png
 ---
 
 Has anyone ever had something you've loved your entire life?
@@ -18,7 +18,7 @@ With that in mind, I want to talk about the three major dogs I've had in my life
 
 The first dog in my life was Lobi. He was a German Shepherd and was probably as old as I was. I really liked just being around him, either lying next to him or even directly on him.
 
-![Lobi](/images/three-dog/lobi.png)
+![Lobi](/images/three-dogs/lobi.png)
 *Lobi*
 
 It's odd, but the thing I remember most about him was his death. He probably died around the year 1990, while I had barely begun elementary school. My two older brothers and I had to dig his grave in the backyard, and I still remember how hard the Ohio clay ground was. I remember everyone standing around his grave with someone reading a Bible verse while his casket was in the grave.
@@ -31,7 +31,7 @@ Us three boys wrote on his gravestone a memorial. Since I didn't really know how
 
 The second dog in my life was Ranger. He, too, was a German Shepherd. We got him after my mother remarried and had my little brother, but before she had my little sister. He was actually a birthday present for my step-dad's 35th birthday in March of 1994.
 
-![Ranger](/images/three-dog/ranger.png)
+![Ranger](/images/three-dogs/ranger.png)
 *Ranger*
 
 We lived on a five-acre lot, and while Ranger spent time both indoors and outdoors, he seemed to venture far off in his time outside. I remember calling him to come inside, and after a few minutes, you could hear the jingle of his collar in the distance. After a few more minutes of hearing the jingle of his collar get closer and closer, he'd finally make it to the door and come inside.
@@ -42,7 +42,7 @@ He lived for about eleven years.
 
 The third and present dog in my life is [Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/). Unlike the first two dogs, Princess is not a purebred. Instead, she is an "accident" from a pit bull and a golden retriever spending a little too much time together. She's been a lot different than the previous two dogs. For starters, she's the first dog that's been my responsibility. She's the first dog I got as an adult.
 
-![Princess](/images/three-dog/princess.png)
+![Princess](/images/three-dogs/princess.png)
 *Princess*
 
 As far as how I got her. My brother and I had been living together in an apartment after he came home from the army. After our great-grandmother passed away, we inherited her house and moved into it. My brother looked at me one day and asked if I wanted to get a dog.
