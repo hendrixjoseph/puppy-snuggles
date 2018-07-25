@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [conversation]
 keywords: [dog swim, dog swimming, canoeing, dog canoeing]
+hashtags: [swimmingdogs, swimmingpups, dogsoftwitter]
 image: images/princess-swim/all-of-us-in-the-canoe.jpg
 ---
 
