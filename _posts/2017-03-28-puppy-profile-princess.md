@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [puppy profile]
 keywords: [pit bull, half golden retriever]
+hashtags: [puppy, dog, dogsoftwitter]
 image: images/puppy-profile/princess/happy-princess.jpg
 ---
 
