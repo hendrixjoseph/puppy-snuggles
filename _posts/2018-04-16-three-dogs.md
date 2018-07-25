@@ -4,7 +4,8 @@ title: Three Dogs
 author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [conversation]
-keywords: []
+keywords: [love, dogs]
+hashtags: [dogs, dogsoftwitter, love]
 image: images/three-dogs/lobi.png
 ---
 
