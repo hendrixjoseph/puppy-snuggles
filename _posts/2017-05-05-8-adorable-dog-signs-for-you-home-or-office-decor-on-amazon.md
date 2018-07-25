@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [love, dogs, love dogs, dog signs, home decor, office decor]
+hashtags: [homedecor, officedecor, dogstuff]
 image: images/covers/2017-05-05-8-adorable-dog-signs-for-you-home-or-office-decor-on-amazon.jpg
 ---
 
