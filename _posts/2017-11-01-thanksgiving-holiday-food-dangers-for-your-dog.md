@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [thanksgiving holiday, thanksgiving food, thanksgiving, holiday, food]
+hashtags: [thanksgiving, turkey, dogs]
 image: images/thanksgiving/TraditionalThanksgiving.jpg
 ---
 
