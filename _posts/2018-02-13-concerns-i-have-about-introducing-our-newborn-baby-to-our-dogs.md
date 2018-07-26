@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [conversation]
 keywords: [newborn baby, baby, introducing our newborn baby to our dogs, introducing a newborn baby to dogs]
+hashtags: [dogsandbabies, dogs]
 image: images/covers/2018-02-13-concerns-i-have-about-introducing-our-newborn-baby-to-our-dogs.png
 ---
 
