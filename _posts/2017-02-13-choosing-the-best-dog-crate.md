@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [buying guide]
 keywords: [dog, crate, cage, kennel, dog cage, dog crate, dog kennel, best dog crate, choosing the best dog crate]
+hashtags: [dogcrates, dogs]
 image: images/covers/2017-02-13-choosing-the-best-dog-crate.png
 ---
 
