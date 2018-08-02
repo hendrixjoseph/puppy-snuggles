@@ -8,4 +8,4 @@
 {% if page.image %}<meta property="og:image" content="{{ site.url }}/{{ page.image }}" />{% endif %}
 <meta property="og:url" content="{{ site.url }}{% unless page.url == '/index.html' %}{{ page.url }}{% endunless %}" />
 <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.name }}{% endif %}" />
-<meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | xml_escape }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | xml_escape }}{% else %}{{ site.description }}{% endif %}" />
