@@ -5,6 +5,7 @@ author: JoeHx
 author-url: http://hendrixjoseph.github.io
 tags: [list]
 keywords: [pictures of hidden dogs, pictures of hiding dogs, hidden dogs, hiding dogs, hiding, hidden]
+hashtags: [hiddendogs, dogs, dogsoftwitter]
 image: images/hiding/hidden-dog-1.jpg
 excerpt: Can you find all 5?
 ---
