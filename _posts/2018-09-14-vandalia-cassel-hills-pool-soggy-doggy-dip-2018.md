@@ -14,7 +14,7 @@ Cassel Hills Pool's Soggy Doggy Dip is affordable - only $5 per dog. Humans are 
 
 Cassel Hills Pool is large, z-shaped public pool operated by the city of Vandalia. The area is also fenced-in, so we didn't have to worry about our dogs running off. There is also plenty of grassy area for our dogs to do their business when they needed to. The entry to the pool is through separate male/female shower rooms you'd expect to see at a public pool, although for the Soggy Doggy Dip everyone entered through the female shower room.
 
-My wife and I have two dogs - Princess, a pit bull/golden retriever mix who absolutely loves swimming, and Niko, a cockapoo who isn't so sure about the water.
+My wife and I have two dogs - [Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/), a pit bull/golden retriever mix who absolutely loves swimming, and Niko, a cockapoo who isn't so sure about the water.
 
 As soon as we entered the pool area and Princess immediately wanted to swim in the pool. Unfortunately for her, we had to sign in first, and she did not like waiting in line while in view of the pool - she whined the whole time.
 
