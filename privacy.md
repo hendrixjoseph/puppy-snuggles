@@ -12,7 +12,7 @@ I use Google Analytics to determine site traffic, sources of said traffic, and u
 
 I also have demographics enabled on Google Analytics, which only tells me aggregated information on users' age, gender, and interests.
 
-If you wish to know more or even opt out, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
+If you wish to know more or even opt out, view [Google's privacy policy](https://www.google.com/intl/en/policies/privacy/).
 
 ## Facebook Pixel
 
@@ -24,7 +24,7 @@ View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for mo
 
 ### Goodle Adsense / Adwords
 
-I run Google Adsense mainly to know how to use Adsense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
+I run Google Adsense mainly to know how to use Adsense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](https://www.google.com/intl/en/policies/privacy/).
 
 ### Amazon Affiliate
 
