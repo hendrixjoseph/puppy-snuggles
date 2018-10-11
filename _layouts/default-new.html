@@ -55,10 +55,14 @@
   }
 
   header nav {
-	font-size: large;
+	font-size: 40px;
 
 	width: 100%;
 	text-align: center;
+  }
+  
+  header nav a {
+	border: 1px solid black;
   }
 
   section {
@@ -77,7 +81,7 @@
 </a>
 <span class="social-links">{% for sociallink in site.sociallinks %}<a href="{{ sociallink.url }}"><i class="{{ sociallink.icon }}" style="color: {{ sociallink.color | replace: '\#', '#' }};" aria-hidden="true"></i></a>{% endfor %}</span>
 <nav>
-{% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% unless forloop.last %} | {% endunless %}{% endfor %}
+{% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% endfor %}
 </nav>
 </header>
 
