@@ -22,8 +22,7 @@
   }
   
   header {
-	background-image: url('https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg');
-	padding: 10px;
+
   }
   
   header #blog-name {
@@ -33,21 +32,23 @@
 	line-height: 1.2; 
 	color: #303030; 
 	letter-spacing: -1px; 
-	display: inline-block;
+	position: absolute;
   }
   
   header .social-links {
 	font-size: xx-large;
 	position: absolute;
 	right: 0;
+	margin: 10px 30px;
+	position: absolute;
   }
   
   header .social-links a {
-	margin: 10px;
+	margin: 5px;
   }
   
   header nav {
-  
+	position: absolute;
   }
   
   section {
@@ -60,6 +61,7 @@
   </style>
   
   <header>
+  <img src="https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg" />
 	<a href="{{ site.baseurl }}/">
 <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span id="blog-name" itemprop="name">{{ site.name }}</span></span>
 </a>
