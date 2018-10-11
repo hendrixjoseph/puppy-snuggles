@@ -12,18 +12,21 @@ navlinks:
     url: shop/
   - text: T-shirts
     url: tshirts/
-    
+
 frontpagelinks:
   - title: Blog
     url: /blog/
-    img: /images/blog.png 
+    img: /images/blog.png
+    description: This is the blog.
   - title: Shop
     url: /shop/
-    img: /images/shop.png    
+    img: /images/shop.png
+    description: Shop all things for your pup - from treats to beds to cages and more!
   - title: T-shirts
     url: /tshirts/
     img: /images/t-shirts.png
-    
+    description: Wear the coolest dog-related t-shirts, sweatshirts, and hoodies!
+
 keywords:
   - puppy
   - puppies
@@ -34,7 +37,7 @@ keywords:
   - snuggle
   - snuggles
   - puppy snuggles
-  
+
 sociallinks:
     - what: Facebook
       url: https://www.puppy-snuggles.com/facebook/
@@ -56,7 +59,7 @@ sociallinks:
       url: https://www.puppy-snuggles.com/feed.xml
       icon: fas fa-rss
       color: orange
-    
+
 fb-app-id: 380905068954806
 twitter: Puppy_Snuggles
 
