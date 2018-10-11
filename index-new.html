@@ -9,7 +9,7 @@ permalink: /indexnew/
   <a href="{{ link.url }}"><img src="{{ site.url }}{{ link.img }}" alt="{{ link.title }}" /></a>
   <span>
     <a href="{{ link.url }}"><h2>{{ link.title }}</h2></a>
-    <p>{{ link.description }}{% if link.title == blog %}</p>
+    <p>{{ link.description }}{% if link.title == "Blog" %}</p>
     <p>The most recent post is <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>!{% endif %}</p>
   </span>
 </div>
