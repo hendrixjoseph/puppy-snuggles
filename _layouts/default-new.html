@@ -58,7 +58,7 @@
 
   header nav {
 		font-size: 40px;
-		padding-left: 5px;
+		padding-bottom: 5px;
     display: inline-block;
   }
   
@@ -66,13 +66,21 @@
 		margin: 10px;
 		text-decoration: none;
 		border-right: 1px solid whitesmoke;
-		padding: 3px 10px 1px 10px;
+		padding: 5px 30px 5px 10px;
   }
 	
   header .search {
 	  font-size: 40px;
     right: 0;
     position: absolute;
+  }
+  
+  header .search input {
+    padding: 5px;
+  }
+  
+  header .search a {
+    padding: 0 10px;
   }
 
   section {
@@ -112,7 +120,7 @@
      margin-bottom: 5px;
   }
 	  
-  header nav a, header .search, footer, footer a {
+  header nav a, header .search a, footer, footer a {
 	  color: whitesmoke;  
   }
 </style>
@@ -127,7 +135,7 @@
 {% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% endfor %}
 </nav>
 <span class="search">
-  <input type="text" name="search" placeholder="search" size="50" />
+  <input type="text" name="search" placeholder="search puppy snuggles" size="50" />
   <a href="https://www.google.com/search?q=site%3Apuppy-snuggles.com"><i class="fas fa-search" aria-hidden="true"></i></a>
 </span>
 </header>
