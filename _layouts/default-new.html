@@ -15,55 +15,63 @@
 	<!-- link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" / -->
   </head>
   <body>
-  
+
   <style>
   body {
 	margin: 0;
   }
-  
+
   header {
 
   }
-  
+
   header img {
 	width: 100%;
   }
-  
+
   header #blog-name {
 	font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
-	font-size: 48px;
-	font-weight: 900; 
-	line-height: 1.2; 
-	color: #303030; 
-	letter-spacing: -1px; 
+	font-size: 100px;
+	font-weight: 900;
+	line-height: 1.2;
+	color: #303030;
+	letter-spacing: -1px;
+
 	position: absolute;
+	top: 0;
   }
-  
+
   header .social-links {
 	font-size: xx-large;
-	position: absolute;
-	right: 0;
 	margin: 10px 30px;
-	position: absolute;
+
+	position: fixed;
+	right: 0;
+	top: 0;
   }
-  
+
   header .social-links a {
 	margin: 5px;
   }
-  
+
   header nav {
+	font-size: large;
+
+	width: 100%;
+	text-align: center;
 	position: absolute;
+	bottom: 0;
   }
-  
+
   section {
      margin: 8px;
   }
-  
+
   footer {
-  
+
   }
   </style>
-  
+
   <header>
   <img src="https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg" />
 	<a href="{{ site.baseurl }}/">
@@ -79,7 +87,7 @@
   {{ content }}
   </section>
   </div>
-	
+
   <footer>
 	<div>&copy; 2018 <a href="https://hendrixjoseph.github.io/">Joseph Hendrix</a></div>
 	<div style="font-size: 0.75em"><a href="{{ site.url }}/privacy/">Privacy Policy</a> - <a href="{{ site.url }}/sitemap/">Sitemap</a></div>
