@@ -7,7 +7,7 @@ permalink: /indexnew/
 {% for link in site.frontpagelinks %}
 <div>
   <a href="{{ link.url }}"><img src="{{ site.url }}{{ link.img }}" alt="{{ link.title }}" /></a>
-  <span><a href="{{ link.url }}"><h2>{{ link.title }}</h2></a>Description</span>
+  <span><a href="{{ link.url }}"><h2>{{ link.title }}</h2></a>{{ link.description }}</span>
 </div>
 {% endfor %}
 </div>
