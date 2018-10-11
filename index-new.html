@@ -3,4 +3,11 @@ layout: default-new
 permalink: /indexnew/
 ---
 
-new index!
+<div class="font-page-links">
+{% for link in site.frontpagelinks %}
+<div>
+  <img src="{{ site.url }}{{ link.img }}" alt="{{ link.title }}" />
+  <span>{{ link.title }}</span>
+</div>
+{% endfor %}
+</div>
