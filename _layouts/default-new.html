@@ -144,10 +144,10 @@
 <nav><a href="{{ site.url }}"><i class="fas fa-home" aria-hidden="true"></i></a>
 {% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% endfor %}
 </nav>
-<span class="search">
+<form class="search" action="https://www.google.com/search" target="_blank" method="GET">
   <input type="text" name="search" placeholder="search puppy snuggles" size="50" />
-  <a href="https://www.google.com/search?q=site%3Apuppy-snuggles.com"><i class="fas fa-search" aria-hidden="true"></i></a>
-</span>
+  <button type="submit" value="Submit"><i class="fas fa-search" aria-hidden="true"></i></button>
+</form>
   </header>
 
   <section>
