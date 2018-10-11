@@ -34,6 +34,23 @@ keywords:
   - snuggle
   - snuggles
   - puppy snuggles
+  
+sociallinks:
+    - what: Facebook
+      url: https://www.puppy-snuggles.com/facebook/
+      icon: fa-facebook-square
+    - what: Instagram
+      url: https://www.puppy-snuggles.com/instagram/
+      icon: fa-instagram
+    - what: Pinterest
+      url: https://www.puppy-snuggles.com/pinterest/
+      icon: fa-pinterest-square
+    - what: Twitter
+      url: https://www.puppy-snuggles.com/twitter/
+      icon: fa-twitter-square
+    - what: RSS
+      url: https://www.puppy-snuggles.com/feed.xml
+      icon: fa-rss
     
 fb-app-id: 380905068954806
 twitter: Puppy_Snuggles
