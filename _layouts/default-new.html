@@ -16,9 +16,30 @@
   </head>
   <body>
   
-  <header style="background-image: url('https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg');">
+  <style>
+  header {
+	background-image: url('https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg');
+	padding: 10px;
+  }
+  
+  header #blog-name {
+	font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+	font-size: 48px;
+	font-weight: 900; 
+	line-height: 1.2; 
+	color: #303030; 
+	letter-spacing: -1px; 
+	display: inline-block;
+  }
+  
+  header .social-links {
+  
+  }
+  </style>
+  
+  <header>
 	<a href="{{ site.baseurl }}/">
-<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span id="blog-name" style="font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 48px; font-weight: 900; line-height: 1.2; color: #303030; letter-spacing: -1px; display: inline-block;" itemprop="name">{{ site.name }}</span></span>
+<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span id="blog-name" itemprop="name">{{ site.name }}</span></span>
 </a>
 <span class="social-links">{% for sociallink in site.sociallinks %}<a href="{{ sociallink.url }}"><i class="main-fa {{ sociallink.icon }}" style="color: {{ sociallink.color }};" aria-hidden="true"></i></a>{% endfor %}</span>
 <nav>
