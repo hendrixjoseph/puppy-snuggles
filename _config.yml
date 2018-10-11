@@ -38,19 +38,24 @@ keywords:
 sociallinks:
     - what: Facebook
       url: https://www.puppy-snuggles.com/facebook/
-      icon: fa-facebook-square
+      icon: fab fa-facebook-square
+      color: #3B5998
     - what: Instagram
       url: https://www.puppy-snuggles.com/instagram/
-      icon: fa-instagram
+      icon: fab fa-instagram
+      color: #e4405f
     - what: Pinterest
       url: https://www.puppy-snuggles.com/pinterest/
-      icon: fa-pinterest-square
+      icon: fab fa-pinterest-square
+      color: #C92228
     - what: Twitter
       url: https://www.puppy-snuggles.com/twitter/
-      icon: fa-twitter-square
+      icon: fab fa-twitter-square
+      color: #1DA1F2
     - what: RSS
       url: https://www.puppy-snuggles.com/feed.xml
-      icon: fa-rss
+      icon: fas fa-rss
+      color: orange
     
 fb-app-id: 380905068954806
 twitter: Puppy_Snuggles
