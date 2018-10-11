@@ -19,8 +19,14 @@
 <style>
   body {
     margin: 0;
+    padding: 0;
     height: 100%;
     background: whitesmoke;
+  }
+  
+  .container {
+    min-height:100%;
+    position:relative;
   }
 
   header, footer {
@@ -84,7 +90,8 @@
   }
 
   section {
-     margin: 8px;     
+    margin: 8px;
+    padding-bottom: 60px;
   }
 	  
   section .front-page-links {
@@ -113,6 +120,7 @@
 	  text-align: center;
 	  position: absolute;
     bottom: 0;
+    height: 60px;
     width: 100%;	
   }
   
@@ -125,6 +133,7 @@
   }
 </style>
 
+<div class="container">
   <header>
   <img src="https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg" />
 	<a href="{{ site.baseurl }}/">
@@ -149,6 +158,7 @@
 	<div>&copy; 2018 <a href="https://hendrixjoseph.github.io/">Joseph Hendrix</a></div>
 	<div style="font-size: 0.75em"><a href="{{ site.url }}/privacy/">Privacy Policy</a> - <a href="{{ site.url }}/sitemap/">Sitemap</a></div>
 	</footer>
+  </div>
   <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9f3e6fd9-f23f-4f8d-9b39-937fb11c51cb"></script>
   </body>
 </html>
