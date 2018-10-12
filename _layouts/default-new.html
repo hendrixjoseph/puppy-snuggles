@@ -21,16 +21,21 @@
     margin: 0;
     padding: 0;
     height: 100%;
+  }
+  
+  body, header .search, header .search button {
+    color: black;
     background: whitesmoke;
+  }
+  
+  header nav a, header .search button, footer, footer a {
+	  color: whitesmoke;
+    background: black;
   }
   
   .container {
     min-height:100%;
     position:relative;
-  }
-
-  header, footer {
-	  background: black;
   }
 
   header img {
@@ -76,14 +81,21 @@
   }
 	
   header .search {
-	  font-size: 40px;
-    right: 0;
+	  font-size: 40px;    
     display: inline-block;
+    border-radius: 10px;
     position: absolute;
+    right: 10px;
+  }
+  
+  header .search span {
+    
   }
   
   header .search input {
     padding: 5px;
+    border: none;
+    font-size: 20px;
   }
   
   header .search button {
@@ -139,10 +151,6 @@
   footer div {
      margin-bottom: 5px;
   }
-	  
-  header nav a, header .search button, footer, footer a {
-	  color: whitesmoke;  
-  }
 </style>
 
 <div class="container">
@@ -157,7 +165,7 @@
 </nav>
 <form class="search" name="searchform" action="https://www.google.com/search" target="_blank" method="GET" onsubmit="document.searchform.q.value = document.searchform.searchfield.value + ' site:puppy-snuggles.com';">
   <input type="hidden" name="q" />
-  <input type="search" required name="searchfield" placeholder="search puppy snuggles" size="50" />
+  <span><input type="search" required name="searchfield" placeholder="search puppy snuggles" size="50" /></span>
   <button type="submit" value="Submit"><i class="fas fa-search" aria-hidden="true"></i></button>
 </form>
   </header>
