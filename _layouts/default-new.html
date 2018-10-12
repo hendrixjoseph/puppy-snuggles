@@ -30,7 +30,7 @@
     background: whitesmoke;
   }
   
-  header, header nav a, footer, footer a {
+  header, header .blog-name header nav a, footer, footer a {
 	  color: whitesmoke;
     background: black;
   }
@@ -49,7 +49,6 @@
     font-size: 100px;
     font-weight: 900;
     line-height: 1.2;
-    color: #303030;
     letter-spacing: -1px;
 
     position: absolute;
@@ -162,7 +161,7 @@
   <header>
   <img src="https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg" />
 	<a href="{{ site.baseurl }}/">
-<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span id="blog-name" itemprop="name">{{ site.name }}</span></span>
+<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span class="blog-name" itemprop="name">{{ site.name }}</span></span>
 </a>
 <span class="social-links">{% for sociallink in site.sociallinks %}<a href="{{ sociallink.url }}"><i class="{{ sociallink.icon }}" style="color: {{ sociallink.color | replace: '\#', '#' }};" aria-hidden="true"></i></a>{% endfor %}</span>
 <nav><a href="{{ site.url }}"><i class="fas fa-home" aria-hidden="true"></i></a>
