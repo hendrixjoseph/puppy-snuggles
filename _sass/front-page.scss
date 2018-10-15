@@ -1,0 +1,27 @@
+section {  
+  .front-page-links { 
+    div {
+      max-width: 825px;
+      margin: 25px auto;
+    }
+
+    img, span  {
+      display: inline-block;
+    }
+
+    img {
+      width: 289px;
+      height: 289px;
+    }
+
+    h2 {
+      margin: 0;
+    }
+    
+    span {
+      vertical-align: top;
+      padding: 10px;
+      max-width: 500px;
+    }
+  }
+}
