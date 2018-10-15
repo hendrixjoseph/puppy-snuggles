@@ -156,6 +156,24 @@
   footer div {
      margin-bottom: 5px;
   }
+	
+	@media only screen and (max-width: 600px) {
+    header {
+      text-align: center;
+    }
+    
+    header .social-links {
+        position: initial;
+    }
+    
+    header .search {
+     display: none; 
+    }
+    
+    section .front-page-links {
+      text-align: center;
+    }
+	}
 </style>
 {% include facebook.html %}
 {% include google/analytics.html %}
