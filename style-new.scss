@@ -15,10 +15,13 @@
 @import "comments";
 
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-	
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
 body {
-    margin: 0;
-    padding: 0;
     height: 100%;
 }
   
