@@ -1,18 +1,18 @@
 ---
 ---
 
+@mixin mobile {
+  @media screen and (max-width: 600px) {
+    @content;
+  }
+}
+
 @import "blockquote";
 @import "share";
 @import "table";
 @import "comments";
 
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-
-@mixin mobile {
-  @media screen and (max-width: 600px) {
-    @content;
-  }
-}
 	
 body {
     margin: 0;
