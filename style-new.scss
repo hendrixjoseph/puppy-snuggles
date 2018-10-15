@@ -7,6 +7,12 @@
 @import "comments";
 
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
+@mixin mobile {
+  @media screen and (max-width: 600px) {
+    @content;
+  }
+}
 	
 body {
     margin: 0;
@@ -146,7 +152,7 @@ footer {
   }
 }
 	
-@media only screen and (max-width: 600px) {
+@include mobile {
   header {
     text-align: center;
     
