@@ -4,68 +4,7 @@ title: Puppy Snuggles Blog
 permalink: /blognew/
 ---
 
-<style>
-#container, .inner {
-	max-width: 100%;
-	width: 100%
-}
-
-ul {
-	list-style: none;
-	text-align: center;
-	margin: 0 auto;
-}
-	
-ul li {
-	display: inline-block;
-	margin: 1em;
-	width: 300px;
-	height: 200px;
-	overflow: hidden;
-	padding: 0;
-	
-}
-	
-li:hover {
-	 transform: scale(1.1);
-}
-	
-h3 {
-	margin: 0;
-	font-size: 1em;
-	display: inline;
-}
-	
-h3 + span {
-	font-size: 0.8em;
-	white-space: nowrap;
-}
-	
-ul a {
-	color: #6d6d6d;
-	text-shadow: 0 1px 0 rgba(255,255,255,0.8);
-}
-
-.affliate-image,
-.post-image {
-	width: 100%;
-	height: 100px;
-}
-
-.post-image {
-	background-size: 100%;
-}
-
-.affliate-image {
- 	background-repeat: repeat-x;
-}
-	
-figcaption {
-	text-align: left;
-}	
-</style>
-
-<ul>{% assign productindex = 0 %}
+<ul class="post-list">{% assign productindex = 0 %}
 {% for post in site.posts %}
 <a href="{{ site.url }}{{ post.url }}"><li>
 <figure>
