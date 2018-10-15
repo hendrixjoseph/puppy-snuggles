@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head itemscope itemtype="http://schema.org/WebSite">
+<head itemscope itemtype="http://schema.org/WebSite">
 	<title itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 	{% include meta/meta.html %}
 	{% include meta/opengraph.html %}
@@ -8,13 +8,13 @@
 	<meta name="p:domain_verify" content="cf6d37065b804cce85a94cda40120ee1"/>
 	<link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
 	<link rel="icon" href="/favicon.ico?" type="image/x-icon">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 	<link rel="stylesheet" href="{{ site.url }}/css/font-awesome/fontawesome.css" />
 	<link rel="stylesheet" href="{{ site.url }}/css/font-awesome/brands.css" />
 	<link rel="stylesheet" href="{{ site.url }}/css/font-awesome/solid.css" />
 	<!-- link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" / -->
-  </head>
-  <body>
+</head>
+<body>
 
 <style>
 	@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
@@ -157,33 +157,18 @@
      margin-bottom: 5px;
   }
 </style>
-
+{% include facebook.html %}
+{% include google/analytics.html %}
 <div class="container">
-  <header>
-  <img src="https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg" />
-	<a href="{{ site.baseurl }}/">
-<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span class="blog-name" itemprop="name">{{ site.name }}</span></span>
-</a>
-<span class="social-links">{% for sociallink in site.sociallinks %}<a href="{{ sociallink.url }}"><i class="{{ sociallink.icon }}" style="color: {{ sociallink.color | replace: '\#', '#' }};" aria-hidden="true"></i></a>{% endfor %}</span>
-<nav><a href="{{ site.url }}"><i class="fas fa-home" aria-hidden="true"></i></a>
-{% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% endfor %}
-</nav>
-<form class="search" name="searchform" action="https://www.google.com/search" target="_blank" method="GET" onsubmit="document.searchform.q.value = document.searchform.searchfield.value + ' site:puppy-snuggles.com';">
-  <input type="hidden" name="q" />
-  <span><input type="search" required name="searchfield" placeholder="search puppy snuggles" size="50" /></span>
-  <button type="submit" value="Submit"><i class="fas fa-search" aria-hidden="true"></i></button>
-</form>
-  </header>
+{% include header-new.html %}
+{% include google/adsense.html %}
+<section>
+{{ content }}
+</section>
 
-  <section>
-  {{ content }}
-  </section>
+{% include footer-new.html %}
+</div>
 
-  <footer>
-	<div>&copy; 2018 <a href="https://hendrixjoseph.github.io/">Joseph Hendrix</a></div>
-	<div style="font-size: 0.75em"><a href="{{ site.url }}/privacy/">Privacy Policy</a> - <a href="{{ site.url }}/sitemap/">Sitemap</a></div>
-	</footer>
-  </div>
-  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9f3e6fd9-f23f-4f8d-9b39-937fb11c51cb"></script>
-  </body>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9f3e6fd9-f23f-4f8d-9b39-937fb11c51cb"></script>
+</body>
 </html>
