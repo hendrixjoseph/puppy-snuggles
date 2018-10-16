@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: info-page
 title: Sitemap
 permalink: /sitemap/
 ---
