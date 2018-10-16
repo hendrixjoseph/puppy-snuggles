@@ -1,111 +1,20 @@
 ---
 layout: default
-image: images/covers/index.png
+image: https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg
 ---
 
-<style>
-h2.main {
-	margin: 0;
-	text-align: center;
-	font-variant: small-caps;
-	background-color: lightblue;
-}
-	
-#container, .inner {
-	max-width: 100%;
-	width: 100%
-}
-	
-ul {
-	list-style: none;
-	text-align: center;
-	margin: 0 auto;
-}
-	
-ul li {
-	display: inline-block;
-	margin: 1em;
-	overflow: hidden;
-	padding: 0;
-	
-}
-	
-ul.font-page-links li {
-	width: 25%;
-	min-width: 289px;	
-}
-	
-li:hover {
-	 transform: scale(1.1);
-}
-	
-h3 {
-	margin: 0;
-	font-size: 1em;
-	display: inline;
-}
-		
-ul a {
-	color: #6d6d6d;
-	text-shadow: 0 1px 0 rgba(255,255,255,0.8);
-}
-	
-figure {
-	background-color: lightblue;
-	width: 289px;
-	margin: 0 auto;
-	padding-bottom: 6px;
-	}
-	
-.content {
-	text-align: center;
-}
-  
-.content div {
-	  margin: 1em;  
-}
-	
-.main-fa {
-	display: block;
-	font-size: 55px;
-	color: black;
-}
-</style>
-
-<h2 class="main">Do you enjoy snuggling with your puppy?</h2>
-
-<ul class="font-page-links">
+<div class="front-page-links">
 {% for link in site.frontpagelinks %}
-<a href="{{ site.url }}{{ link.url }}"><li>
-<figure>
-<img src="{{ site.url }}{{ link.img }}" alt="{{ link.title }}" />
-<figcaption>
-<h3>{{ link.title }}</h3>
-</figcaption>
-</figure>
-</li></a>
+<div>
+  <a href="{{ link.url }}"><img src="{{ site.url }}{{ link.img }}" alt="{{ link.title }}" /></a>
+  <span>
+    <a href="{{ link.url }}"><h2>{{ link.title }}</h2></a>
+    <p>{{ link.description }}{% if link.title == "Blog" %}</p>
+    <p>The most recent post is <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>!{% endif %}</p>
+  </span>
+</div>
 {% endfor %}
-</ul>
-
-<h2 class="main">Puppy Snuggles just published...</h2>
-
-<a href="{{ site.posts.first.url }}" style="color: inherit;">
-<article class="post" style="width: 75%; margin: 1em auto;">
-{% include post-header.html post=site.posts.first %}
-<div class="sample entry">{{ site.posts.first.excerpt }}</div>     
-</article>
-</a>
-
-<h2 class="main">Check us out on social media!</h2>
-
-<ul class="content">
-<li><a href="https://www.puppy-snuggles.com/blog/"><i class="main-fa fas fa-comment-alt" aria-hidden="true"></i>Comment on our blog posts!</a></li>
-<li><a href="https://www.puppy-snuggles.com/facebook/"><i class="main-fa fab fa-facebook-square" style="color: #3B5998;" aria-hidden="true"></i>Be sure to like us on Facebook!</a></li>
-<li><a href="https://www.puppy-snuggles.com/instagram/"><i class="main-fa fab fa-instagram" style="color: #e4405f;" aria-hidden="true"></i>Follow us on Instagram!</a></li>	
-<li><a href="https://www.puppy-snuggles.com/pinterest/"><i class="main-fa fab fa-pinterest-square" style="color: #C92228;" aria-hidden="true"></i>Check us out on Pinterest!</a></li>
-<li><a href="https://www.puppy-snuggles.com/twitter/"><i class="main-fa fab fa-twitter-square" style="color: #1DA1F2;" aria-hidden="true"></i>And don't forget to follow us on Twitter!</a></li>
-</ul>
-
 <div style="margin: 0 auto; max-width: 750px;">
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=034be2ed-b5e7-4a0d-9060-70acfdcbe9ea"></script>
+</div>
 </div>
