@@ -10,19 +10,19 @@ navlinks:
     url: blog/
   - text: Shop
     url: shop/
-  - text: T-shirts
+  - text: T-Shirts
     url: tshirts/
 
 frontpagelinks:
   - title: Blog
     url: /blog/
     img: /images/blog.png
-    description: This is the blog.
+    description: Here on the blog section of Puppy Snuggles, I talk about all things dogs - from personal stories to product reviews, and everything in between! Come and join the fun!
   - title: Shop
     url: /shop/
     img: /images/shop.png
     description: Shop all things for your pup - from treats to beds to cages and more!
-  - title: T-shirts
+  - title: T-Shirts
     url: /tshirts/
     img: /images/t-shirts.png
     description: Wear the coolest dog-related t-shirts, sweatshirts, and hoodies!
