@@ -7,6 +7,15 @@
   }
 }
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+ padding: 16px 0;
+}
+
 @import "front-page";
 @import "blog-index-page";
 @import "blockquote";
@@ -15,11 +24,6 @@
 @import "comments";
 
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
-
-* {
-  padding: 0;
-  margin: 0;
-}
 
 body {
     height: 100%;
