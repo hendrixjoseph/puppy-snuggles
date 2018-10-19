@@ -5,6 +5,7 @@ section {
     
     h1 {
       font-size: 30px;
+      padding: 0.5em 0;
     }
     
     .post-info {
@@ -20,6 +21,16 @@ section {
       .post-tags {
         float: right;
       }
+    }
+  
+    img {
+      margin: 0 auto;
+      display: block; 
+    }
+
+    img + em {
+      text-align: center;
+      display: block;
     }
   }
 }
