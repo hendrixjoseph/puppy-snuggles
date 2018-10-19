@@ -1,0 +1,25 @@
+section {
+  article {
+    max-width: 750px;
+    margin: 0 auto;
+    
+    h1 {
+      font-size: 30px;
+    }
+    
+    .post-info {
+      font-size: 90%;
+      padding: 0.5em 0;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+    
+      .author-and-date {
+        display: inline-block;
+      }
+    
+      .post-tags {
+        float: right;
+      }
+    }
+  }
+}
