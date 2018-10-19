@@ -10,7 +10,7 @@ section {
     
     .post-info {
       font-size: 90%;
-      padding: 0.5em 0;
+      padding: 0.5em;
       border-top: 1px solid black;
       border-bottom: 1px solid black;
     
@@ -21,6 +21,10 @@ section {
       .post-tags {
         float: right;
       }
+    }
+    
+    p {
+      line-height: 1.5;
     }
   
     img {
