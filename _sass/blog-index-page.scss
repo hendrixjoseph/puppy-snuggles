@@ -3,13 +3,18 @@ section {
     list-style: none;
     text-align: center;
     margin: 0 auto;
-
+    padding: 0;
+       
     li {
       display: inline-block;
       margin: 1em;
       width: 300px;
       height: 200px;
       overflow: hidden;
+      
+      @include mobile {
+        margin: 1em 0;
+      }
     }
 
     h3 {
