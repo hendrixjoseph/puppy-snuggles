@@ -37,7 +37,8 @@ section {
   
     img {
       margin: 0 auto;
-      display: block; 
+      display: block;
+      max-width: 100%;
     }
 
     img + em {
