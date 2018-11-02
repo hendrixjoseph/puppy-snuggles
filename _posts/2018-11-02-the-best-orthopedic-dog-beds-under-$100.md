@@ -107,7 +107,7 @@ Note that only right now as I write this, only the small is under $100.
 Here's all the above orthopedic dog beds in all the available sizes  in a summary table:
 
 name | reviews | score | size | dimension | square feet | thickness
---- | ---: | ---: |  ---: |  ---: |  ---: |  ---:
+--- | --- | --- |  --- |  --- |  --- |  ---
 [BarksBar Gray Orthopedic Dog Bed](https://www.amazon.com/BarksBar-Gray-Orthopedic-Dog-Bed/dp/B01HJ1ICLQ/?tag=puppy-post-list-20) | 2,760 | 4.6 | Medium | 32" x 22" | 4.9 | 10"
 [BarksBar Gray Orthopedic Dog Bed](https://www.amazon.com/BarksBar-Gray-Orthopedic-Dog-Bed/dp/B01HJ1ICLQ/?tag=puppy-post-list-20) | 2,760 | 4.6 | Large | 40" x 30" | 8.3 | 10"
 [Milliard Premium Orthopedic Memory Foam Dog Bed](https://www.amazon.com/Milliard-Premium-Orthopedic-Memory-Foam-Dog-Bed/dp/B009SPQ5S4/?tag=puppy-post-list-20) | 2,599 | 4.6 | Small | 24" x 18" | 3 | 4"
