@@ -6,10 +6,6 @@ table {
     tr {
       background: linear-gradient(to bottom, #cccccc 0%,#c8c8c8 50%,#cccccc 100%);
     }
-    
-    td {
-      padding: 2px;
-    }
   }
   
   tbody  {
@@ -20,10 +16,11 @@ table {
     tr:nth-child(odd) {
       background: white;
     }
-    
-    td {
-      padding: 2px;
-      text-align: left;
+  }
+  
+  thead, tbody {
+    th, td {
+       padding: 1em 0.5em;
     }
   }
 }
