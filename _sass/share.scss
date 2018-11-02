@@ -4,6 +4,7 @@
 	bottom: 10px;
 	white-space: nowrap;
 	overflow: visible;
+	z-index: -1;
 	
 	@include mobile {
 		position: initial;
