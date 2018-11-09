@@ -1,5 +1,5 @@
 <div class="comment-author vcard">
-  <img alt="avatar for {{ include.comment.name }}" src="https://www.gravatar.com/avatar/{{ comment[1].email }}" class="avatar avatar-80 photo" height="80" width="80">
+  <img alt="avatar for {{ include.comment.name | replace: '"', '&quot;' }}" src="https://www.gravatar.com/avatar/{{ comment[1].email }}" class="avatar avatar-80 photo" height="80" width="80">
   {% if include.comment.url %}{% unless include.comment.url == blank %}<a target="_blank"  rel="external nofollow" href="{{ include.comment.url }}">{% endunless %}{% endif %}
   <span class="author-name">{{ include.comment.name }}</span>
   {% if include.comment.url %}{% unless include.comment.url == blank %}</a>{% endunless %}{% endif %}
