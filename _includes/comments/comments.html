@@ -1,5 +1,5 @@
 <section id="comments" class="comments">
-{% if site.data.comments[page.slug] %}{% assign comments = site.data.comments[page.slug] | sort %}
+{% assign slug = page.slug | replace: '$', '' %}{% if site.data.comments[slug] %}{% assign comments = site.data.comments[slug] | sort %}
 	<h3>{{ comments | size }} comment{% if comments.size > 1 %}s{% endif %} for <em>{{ page.title }}</em></h3>
 	<ul class="comment-list top">
 	{% for comment in comments %}
