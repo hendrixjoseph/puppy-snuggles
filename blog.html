@@ -18,20 +18,7 @@ permalink: /blog/
 </li></a>{% capture modulo %}{{ forloop.index | modulo:5 }}{% endcapture %}
 {% if modulo == '0' %}
 <li>
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "puppy-post-list-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "{{ site.data.amazon-products[productindex].name }}";
-amzn_assoc_linkid = "ed0908073ada6b3a1390942db5f3d743";
-amzn_assoc_asins = "{{ site.data.amazon-products[productindex].asin }}";
-amzn_assoc_size = "300xauto";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 </li>{% assign productindex = productindex | plus:1 | modulo:site.data.amazon-products.size  %}
 {% endif %}{% endfor %}
 </ul>
