@@ -12,7 +12,7 @@ Just for fun, I've decided to run a little giveaway contest. This contest is adm
 
 So what is the prize and how do you get a chance to win? The prize is the following t-shirt I designed:
 
-[![I Love My Dog T-Shirt](https://www.puppy-snuggles.com/images/covers/2017-05-01-i-love-my-dog-t-shirt-contest.jpg)](https://www.amazon.com/dp/B06XJD5S56/?tag=puppysnuggles-20)
+[![I Love My Dog T-Shirt](https://www.puppy-snuggles.com/images/covers/2017-05-01-i-love-my-dog-t-shirt-contest.jpg)](https://www.amazon.com/dp/B06XJD5S56/)
 
 To enter, go to the following link:
 
