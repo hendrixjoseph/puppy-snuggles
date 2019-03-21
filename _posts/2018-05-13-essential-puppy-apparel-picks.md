@@ -18,7 +18,7 @@ Where can you purchase Puppy Apparel? Since it's popularity has increased in the
 
 Check out:
 
-* [Amazon](https://www.amazon.com/b/?node=2975313011)
+* [Amazon](https://www.amazon.com/b/?node=2975313011&tag=puppysnuggles-20)
 * [PoshPuppyBoutique](https://www.poshpuppyboutique.com/Dog_Apparel_s/4.htm)
 * [PetsAtHome](http://www.petsathome.com/)
 * [UrbanPup](https://www.urbanpup.com/)
