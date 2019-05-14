@@ -11,7 +11,7 @@ image: images/peanut-butter/princess.jpg
 For the most part, yes, peanut butter is a safe treat for your puppy ***in moderation***. However, a few brands of peanut butter contain an artificial sweetener known as [xylitol](https://en.wikipedia.org/wiki/Xylitol) that can make your puppy sick or even kill her!
 
 ![Niko enjoying a spoonful of peanut butter.](/images/peanut-butter/niko.jpg "Niko enjoying a spoonful of peanut butter.")
-*Niko enjoying a spoonful of peanut butter.*
+*[Niko](https://www.puppy-snuggles.com/blog/puppy-profile-niko/) enjoying a spoonful of peanut butter.*
 
 ### What brands of peanut butter are safe?
 
