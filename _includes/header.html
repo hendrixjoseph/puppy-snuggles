@@ -1,9 +1,20 @@
 <header>
-<a href="{{ site.baseurl }}/">
-<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span id="blog-name" itemprop="name">{{ site.name }}</span></span>
-</a>
-<span class="site-description">{{ site.description }}</span>
-<nav>
-{% for navlink in site.navlinks %}<a href="{% unless navlink.url contains "://" %}{{ site.url }}/{% endunless %}{{ navlink.url }}">{{ navlink.text }}</a>{% unless forloop.last %} | {% endunless %}{% endfor %}
-</nav>
+  <img src="{% if page.mainimage %}{{ page.mainimage }}{% else %}https://www.puppy-snuggles.com/images/family-snuggling-with-dog.jpg{% endif %}" />
+	<a href="{{ site.baseurl }}/">
+    <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span class="blog-name" itemprop="name">
+      {{ site.name }}
+    </span></span>
+  </a>
+  <span class="social-links">
+    {% for sociallink in site.sociallinks %}<a href="{{ sociallink.url }}"><i class="{{ sociallink.icon }}" style="color: {{ sociallink.color | replace: '\#', '#' }};" aria-hidden="true"></i></a>{% endfor %}
+  </span>
+  <nav>
+    <a href="{{ site.url }}"><i class="fas fa-home" aria-hidden="true"></i></a>
+    {% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% endfor %}
+  </nav>
+  <form class="search" name="searchform" action="https://www.google.com/search" target="_blank" method="GET" onsubmit="document.searchform.q.value = document.searchform.searchfield.value + ' site:puppy-snuggles.com';">
+    <input type="hidden" name="q" />
+    <span><input type="search" required name="searchfield" placeholder="search puppy snuggles" size="20" /></span>
+    <button type="submit" value="Submit"><i class="fas fa-search" aria-hidden="true"></i></button>
+  </form>
 </header>
