@@ -2,7 +2,7 @@
 layout: post
 title: The Best Orthopedic Dog Beds Under $100
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [orthopedic dog beds, dog beds]
 hashtags: [dogbed, dogbeds]

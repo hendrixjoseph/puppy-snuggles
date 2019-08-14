@@ -2,7 +2,7 @@
 layout: post
 title: Concerns I Have About Introducing Our Newborn Baby to Our Dogs
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [newborn baby, baby, introducing our newborn baby to our dogs, introducing a newborn baby to dogs]
 hashtags: [dogsandbabies, dogs]

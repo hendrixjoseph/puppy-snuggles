@@ -2,7 +2,7 @@
 layout: post
 title: Vandalia Cassel Hills Pool Soggy Doggy Dip 2018
 author: JoeHx
-author-url: https://hendrixjoseph.github.io/
+author-url: https://www.joehxblog.com//
 tags: [story]
 keywords: [dog swim, soggy doggy, soggy doggy dip, vandalia cassel hills pool, cassel hills pool]
 image: images/soggy-doggy-dip/2018/princess-swimming.jpg

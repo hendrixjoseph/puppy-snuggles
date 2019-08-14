@@ -2,7 +2,7 @@
 layout: post
 title: What Fruit Can a Dog Eat?
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [what fruit can a dog eat, dog, fruit]
 image: images/infographic/what-fruit-can-a-dog-eat-infographic.png

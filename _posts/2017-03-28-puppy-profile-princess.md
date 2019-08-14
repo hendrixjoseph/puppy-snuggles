@@ -2,7 +2,7 @@
 layout: post
 title: "Puppy Profile: Princess"
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [puppy profile]
 keywords: [pit bull, half golden retriever]
 hashtags: [puppy, dog, dogsoftwitter]

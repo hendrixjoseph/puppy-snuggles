@@ -2,7 +2,7 @@
 layout: post
 title: Three Dogs
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [love, dogs]
 hashtags: [dogs, dogsoftwitter, love]

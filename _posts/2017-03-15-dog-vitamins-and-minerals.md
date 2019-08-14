@@ -2,7 +2,7 @@
 layout: post
 title: Dog Vitamins and Minerals
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [buying guide]
 keywords: [dog vitamins and minerals, dog vitamins and minerals, dog minerals, what vitamins and minerals do dogs need, what vitamins do dogs need, what minerals do dogs need, vitamins for dogs, minerals for dogs, vitamins and minerals for dogs]
 image: images/covers/2017-03-15-dog-vitamins-and-minerals.png

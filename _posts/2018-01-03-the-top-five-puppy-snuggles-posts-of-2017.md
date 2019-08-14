@@ -2,7 +2,7 @@
 layout: post
 title: The Top Five Puppy Snuggles Posts of 2017
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [blog, web blog, blog post, post, Google Analytics]
 image: images/covers/2018-01-03-the-top-five-puppy-snuggles-posts-of-2017.png

@@ -2,7 +2,7 @@
 layout: post
 title: 5 Pictures of Hidden Dogs
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [pictures of hidden dogs, pictures of hiding dogs, hidden dogs, hiding dogs, hiding, hidden]
 hashtags: [hiddendogs, dogs, dogsoftwitter]

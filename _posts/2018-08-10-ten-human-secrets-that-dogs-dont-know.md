@@ -2,7 +2,7 @@
 layout: post
 title: Ten Human Secrets That Dogs Don’t Know
 author: JoeHx
-author-url: https://hendrixjoseph.github.io/
+author-url: https://www.joehxblog.com//
 tags: [list]
 keywords: [human secrets]
 image: images/bulldog-resting-on-floor.jpg

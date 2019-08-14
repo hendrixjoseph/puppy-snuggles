@@ -2,7 +2,7 @@
 layout: post
 title: Top Dog Names
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [top dog names, popular dog names, dog names, female dog names, male dog names]
 image: images/covers/niko.jpg

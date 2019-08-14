@@ -2,7 +2,7 @@
 layout: post
 title: My Top 10 Dog Quotes
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [dog, puppy, dog quote, dog quotes]
 image: images/covers/2017-03-31-my-top-10-dog-quotes.jpg

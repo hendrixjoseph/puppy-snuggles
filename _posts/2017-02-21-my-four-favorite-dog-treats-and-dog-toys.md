@@ -2,7 +2,7 @@
 layout: post
 title: My Four Favorite Dog Treats and Dog Toys
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [buying guide]
 keywords: [dog, treat, toy, dog treat, dog toy, favorite dog toy, favorite dog treat, kong, classic kong, extreme kong, milk bone, pupperoni, bone, filled bone, red barn filled bone]
 hashtags: [dogtreats, dogtoys, dogs]

@@ -2,7 +2,7 @@
 layout: post
 title: Choosing the Best Dog Crate
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [buying guide]
 keywords: [dog, crate, cage, kennel, dog cage, dog crate, dog kennel, best dog crate, choosing the best dog crate]
 hashtags: [dogcrates, dogs]

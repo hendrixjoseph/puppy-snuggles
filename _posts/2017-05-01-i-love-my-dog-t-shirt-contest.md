@@ -2,7 +2,7 @@
 layout: post
 title: I Love My Dog T-Shirt Contest
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [contest]
 keywords: [giveaway, Amazon, Amazon Giveaway, prize, i love my dog, t-shirt, i love my dog t-shirt]
 image: images/covers/2017-05-01-i-love-my-dog-t-shirt-contest.jpg
@@ -24,4 +24,4 @@ This giveaway started May 1, 2017 3:13 PM PDT and ends May 6, 2017 11:59 PM PDT.
 
 The official rules for Amazon Giveaway can be found at https://giveaway.amazon.com/rules.
 
-If you want to see other t-shirts I've designed, I have a [Puppy Snuggles t-shirt shop](https://www.puppy-snuggles.com/tshirts/) and a [t-shirt shop on my GitHub blog](https://hendrixjoseph.github.io/t-shirts/).
+If you want to see other t-shirts I've designed, I have a [Puppy Snuggles t-shirt shop](https://www.puppy-snuggles.com/tshirts/) and a [t-shirt shop on my GitHub blog](https://www.joehxblog.com//t-shirts/).

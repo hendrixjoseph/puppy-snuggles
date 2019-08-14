@@ -2,7 +2,7 @@
 layout: post
 title: Princess versus the Sliding Glass Door
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [story]
 keywords: [glass door, sliding glass door, door]
 image: images/princess-versus-door/at-the-vet-large.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: I Wrote Another Book (The Adventures of Niko)
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [book, ebook]
 hashtags: [ebook, childrensbook]

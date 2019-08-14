@@ -2,7 +2,7 @@
 layout: post
 title: The Four Most Common Poodle Mixes
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [most common poodle mixes, common poodle mixes, poodle mixes, poodle crossbreed, cockapoo, labradoodle, goldendoodle, schnoodle, poodle]
 image: images/covers/2017-03-07-the-four-most-common-poodle-mixes.png

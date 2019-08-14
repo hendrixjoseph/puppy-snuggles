@@ -2,7 +2,7 @@
 layout: post
 title: 2019's First Trip to the Montgomery County Bark Park
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [story]
 keywords: [montgomery county bark park, bark park, park]
 image: images/montgomery-county-bark-park/2019/bark-park-sign.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: 2018 Pet Blogger Challenge
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [blog, web blog, blog post, post, pet, pet blogger]
 image: images/covers/2018-01-08-2018-pet-blogger-challenge.jpg

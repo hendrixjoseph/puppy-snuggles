@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Puppy Snuggles
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 image: images/covers/2017-02-08-introducing-puppy-snuggles.png
 ---
 

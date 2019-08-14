@@ -2,7 +2,7 @@
 layout: post
 title: 39 Ways To Show Your Dog You Love Them
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [dog, love]
 ---

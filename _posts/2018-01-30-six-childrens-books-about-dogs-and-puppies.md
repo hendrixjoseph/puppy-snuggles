@@ -2,7 +2,7 @@
 layout: post
 title: Six Children's Books About Dogs and Puppies
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [book, books, children's books, kid's books, children's books about dogs, children's books about puppies, kid's books about dogs, kid's books about puppies]
 image: images/books/children-books-facebook-cover.png

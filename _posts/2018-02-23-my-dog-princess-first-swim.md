@@ -2,7 +2,7 @@
 layout: post
 title: My Dog Princess's First Swim
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [dog swim, dog swimming, canoeing, dog canoeing]
 hashtags: [swimmingdogs, swimmingpups, dogsoftwitter]

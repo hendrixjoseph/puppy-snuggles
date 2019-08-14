@@ -2,7 +2,7 @@
 layout: post
 title: I Wrote A Book (The Adventures of Princess)
 author: JoeHx
-author-url: http://hendrixjoseph.github.io
+author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [book, ebook]
 hashtags: [ebook, childrensbook]
