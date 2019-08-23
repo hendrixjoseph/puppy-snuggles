@@ -2,7 +2,7 @@
 /master/comments">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
   <input name="options[slug]" type="hidden" value="{{ include.slug }}">
-  <label class="comment-body" for="comment">Comment (required)</label><textarea name="fields[msg]" id="comment" required="required" cols="45" rows="8" maxlength="65525" aria-required="true"></textarea>
+  <label class="comment-body" for="comment">Comment (required)</label><textarea name="fields[message]" id="comment" required="required" cols="45" rows="8" maxlength="65525" aria-required="true"></textarea>
   <label class="comment-author" for="name">Name (required)</label><input name="fields[name]" id="name" required="required" aria-required="true" type="text">
   <label class="comment-email" for="email">Email (required, always hashed, never used nor published)</label><input name="fields[email]" id="email" required="required" aria-required="true" type="email">
   <label class="comment-url" for="url">Website (optional)</label><input name="fields[url]" id="url" type="url">
