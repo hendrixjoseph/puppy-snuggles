@@ -1,22 +1,26 @@
-<form id="post-new-comment" class="new-comment" method="post" action="https://hendrixjoseph-staticman.herokuapp.com/v3/entry/github/hendrixjoseph/puppy-snuggles
-/master/comments">
-  <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
-  <input name="options[slug]" type="hidden" value="{{ include.slug }}">
-  <label class="comment-body" for="comment">Comment (required)</label><textarea name="fields[message]" id="comment" required="required" cols="45" rows="8" maxlength="65525" aria-required="true"></textarea>
-  <label class="comment-author" for="name">Name (required)</label><input name="fields[name]" id="name" required="required" aria-required="true" type="text">
-  <label class="comment-email" for="email">Email (required, always hashed, never used nor published)</label><input name="fields[email]" id="email" required="required" aria-required="true" type="email">
-  <label class="comment-url" for="url">Website (optional)</label><input name="fields[url]" id="url" type="url">
+<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://hendrixjoseph-staticman.herokuapp.com/v3/entry/github/hendrixjoseph/puppy-snuggles
+/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
+  <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+  <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}" />
+  <input name="options[slug]" type="hidden" value="{{ include.slug }}" />
+  {% if include.reply %}<input name="fields[replyto]" type="hidden" value="entry{{ include.reply }}" />{% endif %}
+  <label class="comment-body" for="comment{{ include.reply }}">Comment (required)</label><textarea name="fields[message]" id="comment{{ include.reply }}" required="required" cols="45" rows="8" maxlength="65525" aria-required="true"></textarea>
+  <label class="comment-author" for="name{{ include.reply }}">Name (required)</label><input name="fields[name]" id="name{{ include.reply }}" required="required" aria-required="true" type="text" />
+  <label class="comment-email" for="email{{ include.reply }}">Email (required, always hashed, never used nor published)</label><input name="fields[email]" id="email{{ include.reply }}" required="required" aria-required="true" type="email" />
+  <label class="comment-url" for="url{{ include.reply }}">Website (optional)</label><input name="fields[url]" id="url{{ include.reply }}" type="url" maxlength="50" />
   <button type="submit">Post comment</button>
   <em>Note that comments won't appear until approved.</em>
 </form>
-<div id="post-new-comment-submitting" style="display: none;"><img src="/images/ajax-loader.gif" style="display: inline;" /></div>
-<div id="post-new-comment-thank-you" style="display: none;">Thank you. Your comment will be visable after approval.</div>
+<div id="post-new-comment{{ include.reply }}-submitting" style="display: none;"><img src="/images/ajax-loader.gif" style="display: inline;" /></div>
+<div id="post-new-comment{{ include.reply }}-thank-you" style="display: none;">Thank you. Your comment will be visible after approval.</div>
+<div id="post-new-comment{{ include.reply }}-error" style="display: none;">Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
+<div class="error-message"></div></div>
 <script>
-$('#post-new-comment').submit(function(e){
+$('#post-new-comment{{ include.reply }}').submit(function(e){
     e.preventDefault();
     var form = this;
 	$(form).hide();
-	$('#post-new-comment-submitting').show();
+	$('#post-new-comment{{ include.reply }}-submitting').show();
 
     $.ajax({
         type: $(this).attr('method'),
@@ -24,13 +28,14 @@ $('#post-new-comment').submit(function(e){
         data: $(this).serialize(),
         contentType: 'application/x-www-form-urlencoded',
         success: function (data) {
-			$('#post-new-comment-submitting').hide();
-			$('#post-new-comment-thank-you').show();
+			$('#post-new-comment{{ include.reply }}-submitting').hide();
+			$('#post-new-comment{{ include.reply }}-thank-you').show();
         },
         error: function (err) {
             console.log(err);
-			$('#post-new-comment-submitting').hide();
-			$('#post-new-comment-thank-you').show();
+			$('#post-new-comment{{ include.reply }}-submitting').hide();
+	        $('#post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
+			$('#post-new-comment{{ include.reply }}-error').show();
         }
     });
 });

@@ -1,17 +1,32 @@
+{% if include.slug %}{% assign slug = include.slug %}{% else %}{% assign slug = page.slug %}{% endif %}
+{% if site.data.comments[slug] %}{% assign comments = site.data.comments[slug] | sort %}
 <section id="comments" class="comments">
-{% assign slug = page.slug | replace: '$', '' %}{% if site.data.comments[slug] %}{% assign comments = site.data.comments[slug] | sort %}
 	<h3>{{ comments | size }} comment{% if comments.size > 1 %}s{% endif %} for <em>{{ page.title }}</em></h3>
 	<ul class="comment-list top">
-	{% for comment in comments %}
+	{% for comment in comments %}{% assign next = forloop.index0 | plus: 1 %}
 		<li id="comment-{{ comment[1].date }}" class="comment">
 		<article class="comment-body" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
 			{% assign c = comment[1] %}{% include comments/vcard.html comment=c %}
 			<div class="comment-content">{{ comment[1].message | markdownify }}</div>
-		</article>		
+		</article>
+		{% if comment[1].replyto and comments[next][1].replyto %}
 		</li>
+		{% elsif comment[1].replyto %}
+		</li></ul>
+		<h3 onclick="$('#post-new-comment{{ comment[1].date }}').toggle()" style="cursor: pointer;">Reply to This Thread</h3>
+		{% assign d = comment[1].date %}{% include comments/form.html slug=slug reply=d %}
+		</li>
+		{% elsif comments[next][1].replyto %}
+		<ul class="comment-list">
+		{% else %}
+		<h3 onclick="$('#post-new-comment{{ comment[1].date }}').toggle()" style="cursor: pointer;">Reply to This Thread</h3>
+		{% assign d = comment[1].date %}{% include comments/form.html slug=slug reply=d %}
+		</li>
+		{% endif %}		
 	{% endfor %}
 	</ul>
-{% endif %}
-<h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3>
-{% include comments/form.html slug=page.slug %}
 </section>
+{% endif %}
+
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3>
+{% include comments/form.html slug=slug %}
