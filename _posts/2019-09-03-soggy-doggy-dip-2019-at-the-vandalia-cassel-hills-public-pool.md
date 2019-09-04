@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soggy Doggy Dip 2018 at the Vandalia Cassel Hills Public Pool 
+title: Soggy Doggy Dip 2019 at the Vandalia Cassel Hills Public Pool 
 author: JoeHx
 author-url: https://www.joehxblog.com//
 tags: [story]
