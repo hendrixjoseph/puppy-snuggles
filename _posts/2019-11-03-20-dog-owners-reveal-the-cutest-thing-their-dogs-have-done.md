@@ -124,7 +124,7 @@ It's the cutest thing ever! There are lots of cars that park out there and every
 
 My dog Peanut is able to open doors, even those with handles, to let people in when they ring the doorbell.
 
-![Stacy and Peanut](/images/roundup/cutest-thing/stacy-and peanut.jpg)
+![Stacy and Peanut](/images/roundup/cutest-thing/stacy-and-peanut.jpg)
 *Stacy and Peanut*
 
 *Stacy Caprio, Founder, [Growth Marketing](www.acceleratedgrowthmarketing.com)*
