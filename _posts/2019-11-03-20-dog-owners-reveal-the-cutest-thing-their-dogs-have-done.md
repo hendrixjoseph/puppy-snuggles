@@ -35,7 +35,7 @@ Around the time my wife first became pregnant with our daughter, our dog, Bailey
 ![Evan Porter and Bailey](/images/roundup/cutest-thing/evan-porter-and-bailey.jpg)
 *Evan Porter and Bailey*
 
-*[Evan Porter](https://dadfixeseverything.com)*
+*Evan Porter from [Dad Fixes Everything](https://dadfixeseverything.com)*
 
 ---
 
@@ -66,8 +66,8 @@ Our 3 y/o daughter informed us that she would be naming the new dog, Captain Lov
 ![The Daughter and Captain Love](/images/roundup/cutest-thing/kid-and-captain-love.png)
 *The Daughter and Captain Love*
 
-*[MelissaMcCue-McGrath](http://melissamccuemcgrath.com/), author of [Considerations
-for the City Dog](http://considerationsforthecitydog.com/)*
+*[MelissaMcCue-McGrath](https://melissamccuemcgrath.com/), author of [Considerations
+for the City Dog](https://considerationsforthecitydog.com/)*
 
 ---
 
@@ -85,7 +85,7 @@ At my blogging and writing job at Tandem Interactive, a Fort Lauderdale digital 
 ![Jim and Lily](/images/roundup/cutest-thing/jim-and-lily.jpg)
 *Jim and Lily*
 
-*[Jim Dailakis](www.comedianjim.com), Actor/Writer/Comedian/Voiceover Artist*
+*[Jim Dailakis](https://comedianjim.com/), Actor/Writer/Comedian/Voiceover Artist*
 
 ---
 
@@ -118,7 +118,7 @@ It's the cutest thing ever! There are lots of cars that park out there and every
 ![Thor](/images/roundup/cutest-thing/thor.png)
 *Thor*
 
-*Tess Robison, Outreach Specialist at [Money Done Right](http://moneydoneright.com)*
+*Tess Robison, Outreach Specialist at [Money Done Right](https://moneydoneright.com)*
 
 ---
 
@@ -127,7 +127,7 @@ My dog Peanut is able to open doors, even those with handles, to let people in w
 ![Stacy and Peanut](/images/roundup/cutest-thing/stacy-and-peanut.jpg)
 *Stacy and Peanut*
 
-*Stacy Caprio, Founder, [Growth Marketing](www.acceleratedgrowthmarketing.com)*
+*Stacy Caprio, Founder, [Growth Marketing](https://acceleratedgrowthmarketing.com/)*
 
 ---
 
