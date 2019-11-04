@@ -166,7 +166,7 @@ Cute and simply amazing! Shows how smart dogs are! Our dog Wolfie found my grand
 ![Wolfie](/images/roundup/cutest-thing/wolfie.jpg)
 *Wolfie*
 
-*[Kathy at Baby Boomer Super Saver](https://www.babyboomersupersaver.com/)*
+*Kathy at [Baby Boomer Super Saver](https://www.babyboomersupersaver.com/)*
 
 ---
 
