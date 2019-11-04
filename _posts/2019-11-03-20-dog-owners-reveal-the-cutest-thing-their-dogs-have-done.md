@@ -78,7 +78,7 @@ At my blogging and writing job at Tandem Interactive, a Fort Lauderdale digital 
 
 *Cady Cohen from [Tandem Interactive](https://tandem-interactive.com/)*
 
---
+---
 
 **Dog Cuteness Overload:** Lily has done many cute things…bringing me my phone and leaving a couple of kibbles in her bowl which I discovered is an offering. After sharing pancakes with her, she offered me a high five and thankfully, someone was there to take a snapshot. :-)
 
@@ -96,7 +96,7 @@ At my blogging and writing job at Tandem Interactive, a Fort Lauderdale digital 
 
 *Lisa Johnson Mandell from [At Home in Hollywood](https://athomeinhollywood.com/)*
 
---
+---
 
 My dog uses her whole body to love me.  While most dogs will just push their face into their owner, my dog will use her whole body and rub up against me.  She usually does then when I am sitting or laying down.  She starts loving me at my face and will work her whole body down my side loving me.
 
@@ -168,7 +168,7 @@ Cute and simply amazing! Shows how smart dogs are! Our dog Wolfie found my grand
 
 *[Kathy at Baby Boomer Super Saver](https://www.babyboomersupersaver.com/)*
 
---
+---
 
 We adopted one of our dogs, Toby, from animal control, and they had me wait in a little room while they brought him out to meet me. I could see him walking slowly down the hallway toward the room, sort of cringing and hanging his head down. As soon as he saw me he perked up, ran over, and put his head in my lap. If he had even needed to seal the deal, that would have done it!
 
