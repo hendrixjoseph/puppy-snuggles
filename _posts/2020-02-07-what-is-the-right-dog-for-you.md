@@ -2,7 +2,7 @@
 layout: post
 title: What is the Right Dog for You?
 author: Chelsea
-tags: [list]
+tags: [advice]
 keywords: [breed]
 ---
 
