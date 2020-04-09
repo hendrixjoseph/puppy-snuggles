@@ -39,7 +39,7 @@ Marisa Sanfilippo from [zoeythemaltichon on Instagram](https://www.instagram.com
 > Here she is dressed as a bunny on our way to the
 hunt one year:
 
-[Zoey the Maltichon in bunny ears.](/images/easter/zoey-the-maltichon.jpg)
+![Zoey the Maltichon in bunny ears.](/images/easter/zoey-the-maltichon.jpg)
 *Zoey the Maltichon in bunny ears. Source: [zoeythemaltichon](https://www.instagram.com/p/BDBCwJBgFcJ/)*
 
 ---
