@@ -42,6 +42,3 @@ She made herself comfortable after I picked her up. She got into everything and 
 It has been several years since we met Hyper and have never regretted bringing her home. She is a natural watchdog for such a tiny little critter without a tail. Although she is still stubborn and nothing gets past her, she has gained better manners throughout the years.
 
 I grew to be impressed by this tiny Schnauzer and wouldn't trade her for a million dollars.
-
- Written by Karen
-
