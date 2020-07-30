@@ -13,7 +13,7 @@ Every dog deserves to have a favorite dog toy and a favorite dog treat. I know m
 
 ### [Classic Kong dog toy](https://www.amazon.com/KONG-Classic-Durable-Natural-Rubber/dp/B0002AR0I8/?tag=puppysnuggles-20)
 
-![Classic Kong dog toy](/images/dog-treats-and-dog-toys/classic-kong.jpg)
+[![Classic Kong dog toy](/images/dog-treats-and-dog-toys/classic-kong.jpg)](https://www.amazon.com/KONG-Classic-Durable-Natural-Rubber/dp/B0002AR0I8/?tag=puppysnuggles-20)
 
 This is my favorite - partly because of how indestructible they are, partly because I love how they [started out as suspension parts to a VW Bus](https://www.kongcompany.com/the-world-of-kong/the-kong-story/).
 
@@ -23,7 +23,7 @@ What's awesome about these dog toys is that they're hollow with a hole on the bo
 
 ### [Redbarn Filled Bone](https://www.amazon.com/s?k=Redbarn+Filled+Bone&i=pets&tag=puppysnuggles-20)
 
-![Redbarn Filled Bone](/images/dog-treats-and-dog-toys/redbard-filled-bone.jpg)
+[![Redbarn Filled Bone](/images/dog-treats-and-dog-toys/redbard-filled-bone.jpg)](https://www.amazon.com/s?k=Redbarn+Filled+Bone&i=pets&tag=puppysnuggles-20)
 
 Is it a dog toy or dog treat? In either case, these hollow bones are filled with a tasty paste - typically peanut butter - that will keep a dog occupied for a long time. What's great about these is if your dog manages to eat all the filling, you can always put more peanut butter in it. It doesn't have to be anything more special than the peanut butter you'd eat yourself.
 
@@ -31,7 +31,7 @@ The only thing I would caution is not to allow your dog to consume these unsuper
 
 ### [Milk-Bone dog treats](https://www.amazon.com/s?k=Milk-Bone+dog+treats&i=pets&tag=puppysnuggles-20)
 
-![Milk-Bone dog treats](/images/dog-treats-and-dog-toys/milk-bone.jpg)
+[![Milk-Bone dog treats](/images/dog-treats-and-dog-toys/milk-bone.jpg)](https://www.amazon.com/s?k=Milk-Bone+dog+treats&i=pets&tag=puppysnuggles-20)
 
 Maybe it's a bit of nostalgia, maybe it's because they're so healthy, but I love giving my dogs these treats. These are the dog treats we gave our German Shepherd dogs when I was growing up.
 
@@ -39,9 +39,9 @@ The crunchy texture helps clean your dog's teeth which supposedly freshens his o
 
 Oh - I've managed to stick these dog treats in both the Redbarn Filled Bones and Classic Kong!
 
-### [Pup-Peroni dog treats]((https://www.amazon.com/s?k=Pup-peroni&i=pets&tag=puppysnuggles-20)
+### [Pup-Peroni dog treats](https://www.amazon.com/s?k=Pup-peroni&i=pets&tag=puppysnuggles-20)
 
-![Pup-Peroni dog treats](/images/dog-treats-and-dog-toys/pup-peroni.jpg)
+[![Pup-Peroni dog treats](/images/dog-treats-and-dog-toys/pup-peroni.jpg)](https://www.amazon.com/s?k=Pup-peroni&i=pets&tag=puppysnuggles-20)
 
 These aren't quite as healthy as the Milk Bones, but let's face it, like human food, the healthiest isn't always the tastiest. These dog treats aren't bad for your dog, they simply have more calories and fewer vitamins and minerals than the milk bones.
 
