@@ -12,9 +12,6 @@
     <a href="{{ site.url }}"><i class="fas fa-home" aria-hidden="true"></i></a>
     {% for navlink in site.navlinks %}<a href="{{ site.url }}/{{ navlink.url }}">{{ navlink.text }}</a>{% endfor %}
   </nav>
-  <form class="search" name="searchform" action="https://www.google.com/search" target="_blank" method="GET" onsubmit="document.searchform.q.value = document.searchform.searchfield.value + ' site:puppy-snuggles.com';">
-    <input type="hidden" name="q" />
-    <span><input type="search" required name="searchfield" placeholder="search puppy snuggles" size="20" /></span>
-    <button type="submit" value="Submit"><i class="fas fa-search" aria-hidden="true"></i></button>
-  </form>
+  <script async src="https://cse.google.com/cse.js?cx=2cd53684efd5c240c"></script>
+  <div class="search gcse-searchbox-only"></div>
 </header>
