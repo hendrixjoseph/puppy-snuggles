@@ -8,7 +8,7 @@ keywords: [dog swim, soggy doggy, soggy doggy dip, vandalia cassel hills pool, c
 image: images/soggy-doggy-dip/2018/princess-swimming.jpg
 ---
 
-At the end of summer, several pools in my area host dog swims before they empty the pools for the winter. One such pool, the [Vandalia Cassel Hills Pool](http://vandaliaohio.org/recreation/pools/cassel-hills-pool/), hosts this event on Labor Day each year. This particular pool calls their event the [Soggy Doggy Dip](https://www.facebook.com/events/1828036530593695/).
+At the end of summer, several pools in my area host dog swims before they empty the pools for the winter. One such pool, the [Vandalia Cassel Hills Pool](https://vandaliaohio.org/recreation/pools/cassel-hills-pool/), hosts this event on Labor Day each year. This particular pool calls their event the [Soggy Doggy Dip](https://www.facebook.com/events/1828036530593695/).
 
 Cassel Hills Pool's Soggy Doggy Dip is affordable - only $5 per dog. Humans are free. Of course, there are rules: a maximum of two dogs per owner, all dogs must display and valid license and be current on their rabies vaccinations. Owners are responsible for cleaning up after their dogs, and aggressive dogs are not allowed.
 

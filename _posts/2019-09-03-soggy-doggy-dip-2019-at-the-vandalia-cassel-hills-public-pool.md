@@ -12,7 +12,7 @@ Imagine that it's evening on Labor Day. The sun hasn't quite set yet and it's st
 
 And there are dozens of dogs... Swimming in the pool. Running around the pool. Jumping in and out of the pool.
 
-This was the scene yesterday evening at the [Cassel Hills Swimming Pool](http://vandaliaohio.org/recreation/pools/cassel-hills-pool/) in Vandalia. Every year on Labor Day they hold their annual [Soggy Doggy Dip](https://www.facebook.com/events/496771054421973/).
+This was the scene yesterday evening at the [Cassel Hills Swimming Pool](https://vandaliaohio.org/recreation/pools/cassel-hills-pool/) in Vandalia. Every year on Labor Day they hold their annual [Soggy Doggy Dip](https://www.facebook.com/events/496771054421973/).
 
 The Soggy Doggy Dip is just some pool time reserved for dogs before the pool is closed for the season.
 

@@ -15,7 +15,7 @@ And we can't forget out loveable furry companions when it comes to Thanksgiving 
 
 Many of us love to share a little bit of Thanksgiving food with our pups (just be careful of certain [food dangers](https://www.puppy-snuggles.com/blog/thanksgiving-holiday-food-dangers-for-your-dog/)).
 
-Stacy Caprio, dog owner and founder of [Accelerated Growth Marketing](http://acceleratedgrowthmarketing.com/) is no exception. "I like to share a mini-Thanksgiving meal with my dog, mainly some turkey in her dish," she says. "She gets very excited and loves eating the turkey each year!"
+Stacy Caprio, dog owner and founder of [Accelerated Growth Marketing](https://acceleratedgrowthmarketing.com/) is no exception. "I like to share a mini-Thanksgiving meal with my dog, mainly some turkey in her dish," she says. "She gets very excited and loves eating the turkey each year!"
 
 ![Stacy and Peanut](/images/roundup/cutest-thing/stacy-and-peanut.jpg)
 *Stacy and Peanut*

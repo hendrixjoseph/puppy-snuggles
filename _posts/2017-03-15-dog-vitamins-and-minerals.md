@@ -8,7 +8,7 @@ keywords: [dog vitamins and minerals, dog vitamins and minerals, dog minerals, w
 image: images/covers/2017-03-15-dog-vitamins-and-minerals.png
 ---
 
-Just like us humans, dogs need a complete and balanced diet, which includes getting essential vitamins and minerals. Fortunately, most store-bought dog foods contain the balance needed, [according to WebMD](http://pets.webmd.com/dogs/guide/dog-vitamins-and-supplements).
+Just like us humans, dogs need a complete and balanced diet, which includes getting essential vitamins and minerals. Fortunately, most store-bought dog foods contain the balance needed, [according to WebMD](https://pets.webmd.com/dogs/guide/dog-vitamins-and-supplements).
 
 <style>
 iframe {
@@ -38,7 +38,7 @@ The list of vitamins for dogs is very similar to the list of vitamins for humans
 
 #### Minerals for Dogs
 
-Important [minerals your dog needs](http://www.petmd.com/dog/nutrition/evr_dg_mineral-the_right_sources) are again similar to what humans need. Again, in alphabetical order rather than importance, these are:
+Important [minerals your dog needs](https://www.petmd.com/dog/nutrition/evr_dg_mineral-the_right_sources) are again similar to what humans need. Again, in alphabetical order rather than importance, these are:
 
 1. Calcium
 2. Chromium
