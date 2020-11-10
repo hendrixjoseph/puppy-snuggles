@@ -20,5 +20,5 @@ image: images/bulldog-resting-on-floor.jpg
 10. There’s secretly a pill in this piece of bologna.
 
 
-![Bulldog Resting on the Floor](/images//bulldog-resting-on-floor.jpg)
+![Bulldog Resting on the Floor](/images/bulldog-resting-on-floor.jpg)
 *Photo by [meredith hunter on Unsplash](https://unsplash.com/photos/iS0Aq3QPsJ4)*
