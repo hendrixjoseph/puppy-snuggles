@@ -41,7 +41,7 @@ He lived for about eleven years.
 
 ## Princess
 
-The third and present dog in my life is [Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/). Unlike the first two dogs, Princess is not a purebred. Instead, she is an "accident" from a pit bull and a golden retriever spending a little too much time together. She's been a lot different than the previous two dogs. For starters, she's the first dog that's been my responsibility. She's the first dog I got as an adult.
+The third and present dog in my life is [Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/). Unlike the first two dogs, Princess is not a purebred. Instead, she is an "accident" from a pit bull and a golden retriever spending a little too much time together. She's been a lot different than the previous two dogs. For starters, she's the first dog that's been my responsibility. She's the first dog I got as an adult.
 
 ![Princess](/images/three-dogs/princess.png)
 *Princess*

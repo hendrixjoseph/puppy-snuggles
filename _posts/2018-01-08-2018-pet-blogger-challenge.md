@@ -11,13 +11,13 @@ image: images/covers/2018-01-08-2018-pet-blogger-challenge.jpg
 The [***Pet Blogger Challange***](https://blog.gopetfriendly.com/8th-annual-pet-blogger-challenge-coming-january-6th-7th-and-8th/) is a set of questions by [the Go Pet Friendly blog](https://blog.gopetfriendly.com/) for bloggers to answer over the weekend of January 6th, 7th, & 8th. While this is the 8th annual Pet Blogger Challenge there, this is my first.
 
 ![My dog Princess](/images/covers/2018-01-08-2018-pet-blogger-challenge.jpg)
-*My dog [Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/)*
+*My dog [Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/)*
 
 Here are the questions and my answers:
 
 ### 1. For those who may be visiting your blog for the first time, how long have you been blogging and what is your main topic?
 
-I've been blogging for probably over a decade. I've only been pet-blogging specifically since February 8, 2017, when I published [the intro post for this blog](http://www.puppy-snuggles.com/blog/introducing-puppy-snuggles/).
+I've been blogging for probably over a decade. I've only been pet-blogging specifically since February 8, 2017, when I published [the intro post for this blog](https://www.puppy-snuggles.com/blog/introducing-puppy-snuggles/).
 
 The main topic of Puppy Snuggles is anything dog related, mostly with a positive message.
 
@@ -27,7 +27,7 @@ Starting Puppy Snuggles! I haven't done super well with this blog, but I have do
 
 ### 3. Which of your blog posts was your favorite this year and why?
 
-Probably [Princess versus the Sliding Glass Door](http://www.puppy-snuggles.com/blog/princess-versus-the-sliding-glass-door/) as it indicated a shift in the blog's focus from being information and advice-oriented to being story oriented.
+Probably [Princess versus the Sliding Glass Door](https://www.puppy-snuggles.com/blog/princess-versus-the-sliding-glass-door/) as it indicated a shift in the blog's focus from being information and advice-oriented to being story oriented.
 
 ### 4. In terms of your blog, how do you measure success?
 

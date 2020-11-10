@@ -32,6 +32,6 @@ After a brief Google search, the only peanut butter brands I found [that include
 Depends on how much he wants. Peanuts (and by extension, peanut butter) has [a lot of natural fats and protein](http://www.akc.org/content/health/articles/can-dogs-eat-peanut-butter1/), which is good, but too much could cause your dog to gain weight and become obese.
 
 ![Princess enjoying a spoonful of peanut butter.](/images/peanut-butter/princess.jpg "Princess enjoying a spoonful of peanut butter.")
-*[Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/) enjoying a spoonful of peanut butter.*
+*[Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/) enjoying a spoonful of peanut butter.*
 
 Do your dogs enjoy peanut butter? I know mine do!

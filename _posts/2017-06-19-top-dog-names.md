@@ -28,7 +28,7 @@ For instance, [Rover.com published a list last November](https://www.rover.com/b
 4. Lola
 5. Luna
 
-[My dog Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/) is number 43. My fianc&eacute;e's dog Niko didn't make the list.
+[My dog Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/) is number 43. My fianc&eacute;e's dog Niko didn't make the list.
 
 Another source of dog names come from pet insurance. They most recent list I found was from [dogtime.com](http://dogtime.com/top-100-dog-names). This list is from 2013.
 

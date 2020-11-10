@@ -8,7 +8,7 @@ keywords: [missing, craigslist, lost dog, found dog, scary story]
 image: images/pretty-princess.jpg
 ---
 
-Like most scary stories, this one begins in a dark and stormy night. Well, it was actually evening, but it was still dark and stormy. [Princess](http://www.puppy-snuggles.com/blog/puppy-profile-princess/), my 60-pound lovable [pitbull mix](http://www.puppy-snuggles.com/blog/the-four-most-common-pit-bull-dog-breeds/) and the first dog I ever owned as an adult, needed to go outside to do her business. So I let her out the back door. When I returned a few minutes later to let her back in, she was gone.
+Like most scary stories, this one begins in a dark and stormy night. Well, it was actually evening, but it was still dark and stormy. [Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/), my 60-pound lovable [pitbull mix](https://www.puppy-snuggles.com/blog/the-four-most-common-pit-bull-dog-breeds/) and the first dog I ever owned as an adult, needed to go outside to do her business. So I let her out the back door. When I returned a few minutes later to let her back in, she was gone.
 
 At the time, I had a fenced-in backyard. The gates were shut. She had escaped before - normally because someone had left a gate open - but she always immediately ran around to the front door. Those times, though, the weather was sunny. This time the thunder must have spooked her, so she was nowhere to be seen.
 
