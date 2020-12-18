@@ -1,1 +1,2 @@
- Sitemap: https://www.puppy-snuggles.com/sitemap.xml
+Sitemap: https://www.puppy-snuggles.com/sitemap.xml
+Sitemap: https://news.puppy-snuggles.com/sitemap
