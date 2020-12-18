@@ -7,11 +7,13 @@ description: for those who love snuggling with puppies!
 
 navlinks:
   - text: Blog
-    url: blog/
+    url: /blog/
+  - text: News
+    url: https://news.puppy-snuggles.com/
   - text: Shop
-    url: shop/
+    url: /shop/
   - text: T-Shirts
-    url: tshirts/
+    url: /tshirts/
 
 frontpagelinks:
   - title: Blog
