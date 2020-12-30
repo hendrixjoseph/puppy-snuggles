@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [dog, puppy, dog quote, dog quotes]
-image: images/covers/2017-03-31-my-top-10-dog-quotes.jpg
+image: /images/covers/2017-03-31-my-top-10-dog-quotes.jpg
 ---
 
 > **1** Why does watching a dog be a dog fill one with happiness? *- Jonathan Safran*

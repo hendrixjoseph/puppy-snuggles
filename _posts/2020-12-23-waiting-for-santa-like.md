@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [image]
 keywords: [santa, waiting, looking out window]
-image: images/waiting-for-santa-like.jpg
+image: /images/waiting-for-santa-like.jpg
 excerpt: Waiting for Santa like...
 ---
 

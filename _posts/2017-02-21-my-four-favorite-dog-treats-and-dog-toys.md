@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [buying guide]
 keywords: [dog, treat, toy, dog treat, dog toy, favorite dog toy, favorite dog treat, kong, classic kong, extreme kong, milk bone, pupperoni, bone, filled bone, red barn filled bone]
 hashtags: [dogtreats, dogtoys, dogs]
-image: images/covers/2017-02-21-my-four-favorite-dog-treats-and-dog-toys.png
+image: /images/covers/2017-02-21-my-four-favorite-dog-treats-and-dog-toys.png
 ---
 
 Every dog deserves to have a favorite dog toy and a favorite dog treat. I know mine do. Here is a list of my four favorite dog treats and dog toys.

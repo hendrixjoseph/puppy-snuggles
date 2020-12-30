@@ -5,7 +5,7 @@ author: BethHx
 tags: [puppy profile]
 keywords: [cockapoo]
 hashtags: [puppyprofile, dogsoftwitter]
-image: images/puppy-profile/niko/happy-niko.jpg
+image: /images/puppy-profile/niko/happy-niko.jpg
 ---
 
 Today I'd like to introduce my wife, Beth, and her dog, Niko. This is a simple interview I conducted via a question-and-answer format. Take it away Beth!

@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [halloween, dog costumes, dog costumes, costumes, costume]
-image: images/halloween-costumes/2017/dog-costume-cover.png
+image: /images/halloween-costumes/2017/dog-costume-cover.png
 ---
 
 Halloween is quickly approaching - just a few more weeks. What would be better a better way to celebrate than dressing up your beloved fur baby in a cute dog costume? Here are ten dog costumes you can dress your pup in this Halloween:

@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [book, ebook]
 hashtags: [ebook, childrensbook]
-image: images/the-adventures-of-niko-cover.jpg
+image: /images/the-adventures-of-niko-cover.jpg
 ---
 
 Late last year [I published a book](https://www.puppy-snuggles.com/blog/i-wrote-a-book-the-adventures-of-princess/) called [The Adventures of Princess](https://www.amazon.com/dp/B07M68STB4/?tag=puppysnuggles-20). Well, I've recently written and published another book!

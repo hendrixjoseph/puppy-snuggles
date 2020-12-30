@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com//
 tags: [story]
 keywords: [dog swim, soggy doggy, soggy doggy dip, vandalia cassel hills pool, cassel hills pool]
-image: images/soggy-doggy-dip/2018/princess-swimming.jpg
+image: /images/soggy-doggy-dip/2018/princess-swimming.jpg
 ---
 
 At the end of summer, several pools in my area host dog swims before they empty the pools for the winter. One such pool, the [Vandalia Cassel Hills Pool](https://vandaliaohio.org/recreation/pools/cassel-hills-pool/), hosts this event on Labor Day each year. This particular pool calls their event the [Soggy Doggy Dip](https://www.facebook.com/events/1828036530593695/).

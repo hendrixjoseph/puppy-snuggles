@@ -4,7 +4,7 @@ title: Rosencrantz, My First Dog
 author: Michael M.
 tags: [story]
 keywords: [cockapoo]
-image: images/black-cockapoo.jpg
+image: /images/black-cockapoo.jpg
 ---
 
 I never had a dog as a kid. Although I whined and moaned about it, my parents, in particular, my stepfather who was tremendously allergic to everything, wouldn't have it. I had to settle for a pet rabbit, which was outside, in a cage, and not really much fun.

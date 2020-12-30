@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [orthopedic dog beds, dog beds]
 hashtags: [dogbed, dogbeds]
-image: images/dog-beds/Friends-Forever-Orthopedic-Dog-Bed.jpg
+image: /images/dog-beds/Friends-Forever-Orthopedic-Dog-Bed.jpg
 ---
 
 Maybe your pup has had a long, hard day playing. Maybe she's gotten a little older and her joints aren't what they used to be. Either way, your pup deserves the best, most restful sleep she can get - and the best sleep she can get is on an orthopedic dog bed.

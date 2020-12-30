@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [blog, web blog, blog post, post, Google Analytics]
-image: images/covers/2018-01-03-the-top-five-puppy-snuggles-posts-of-2017.png
+image: /images/covers/2018-01-03-the-top-five-puppy-snuggles-posts-of-2017.png
 ---
 
 It's been a fun first year here at Puppy Snuggles. While we only published 20 blog posts (a little over one blog post a month) starting with [our introduction post on February 8th](https://www.puppy-snuggles.com/blog/introducing-puppy-snuggles/), we've had great success with our social media. As of this writing, we have [3,893 followers on Twitter](https://twitter.com/puppy_snuggles), [451 likes on Facebook](http://fb.me/puppysnuggle), [48 followers on Pinterest](https://www.pinterest.com/puppysnuggles12/), and [53 followers on our newly-launched Instagram](https://www.instagram.com/puppy.snuggles/)!

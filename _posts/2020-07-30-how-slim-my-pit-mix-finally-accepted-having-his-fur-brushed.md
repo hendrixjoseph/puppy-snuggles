@@ -4,7 +4,7 @@ title: How Slim, My Pit Mix, Finally Accepted Having His Fur Brushed
 author: Alicia
 tags: [story]
 keywords: [pit mix, putbull mix, brush, fur]
-image: images/pit-mix-with-family.png
+image: /images/pit-mix-with-family.png
 ---
 
 Initially, our pit bull mix Slim wasn't too fond of having his fur brushed.

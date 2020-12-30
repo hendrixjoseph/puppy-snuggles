@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [easter holiday, easter, holiday, tradition, easter tradition]
 hashtags: [easter, dogs]
-image: images/easter//zoey-the-maltichon.jpg
+image: /images/easter//zoey-the-maltichon.jpg
 ---
 
 Easter is this Sunday - and no holiday is complete without celebrating with our four-pawed doggy family members.

@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [halloween, dog costumes, dog costumes, costumes, costume]
 hashtags: [halloween, halloween2018]
-image: images/halloween-costumes/2018/marvel-deadpool-dog-halloween-costume.jpg
+image: /images/halloween-costumes/2018/marvel-deadpool-dog-halloween-costume.jpg
 ---
 
 It's October, which means that the Halloween season is upon us. For many people that means haunted attractions, pumpkin carving, trick-or-treat, and Halloween parties. Those last two - trick-or-treat and Halloween parties - mean that's it's time to dress up in awesome Halloween costumes.

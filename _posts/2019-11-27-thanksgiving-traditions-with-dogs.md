@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [thanksgiving holiday, thanksgiving food, thanksgiving, holiday, food, tradition, thanksgiving tradition]
 hashtags: [thanksgiving, turkey, dogs]
-image: images/thanksgiving/TraditionalThanksgiving.jpg
+image: /images/thanksgiving/TraditionalThanksgiving.jpg
 ---
 
 Tomorrow is Thanksgiving, and one thing that is the cornerstone of Thanksgiving is, of course, Thanksgiving traditions.

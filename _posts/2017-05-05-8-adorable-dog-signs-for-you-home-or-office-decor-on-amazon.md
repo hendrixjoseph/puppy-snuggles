@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [love, dogs, love dogs, dog signs, home decor, office decor]
 hashtags: [homedecor, officedecor, dogstuff]
-image: images/covers/2017-05-05-8-adorable-dog-signs-for-you-home-or-office-decor-on-amazon.jpg
+image: /images/covers/2017-05-05-8-adorable-dog-signs-for-you-home-or-office-decor-on-amazon.jpg
 ---
 
 I love dogs - and I love expressing my love for dogs. Here are eight adorable dogs signs that you can use for home decor - or even at the office!

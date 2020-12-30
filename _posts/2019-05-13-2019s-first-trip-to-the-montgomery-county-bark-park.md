@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [story]
 keywords: [montgomery county bark park, bark park, park]
-image: images/montgomery-county-bark-park/2019/bark-park-sign.jpg
+image: /images/montgomery-county-bark-park/2019/bark-park-sign.jpg
 ---
 
 Like most pet owners, my wife and I like to take our dogs on frequent walks and hikes. While walks on a leash are fine, but it's nice to be able to take them somewhere off leash. Thankfully the [Montgomery County Bark Park](https://www.mcohio.org/departments/animal_resource_center/bark_park.php), a repurposed landfill, is close by.

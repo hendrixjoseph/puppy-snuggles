@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [image]
 keywords: [santa hat, sleeping]
-image: images/sleeping-after-a-merry-christmas.jpg
+image: /images/sleeping-after-a-merry-christmas.jpg
 excerpt: Sleeping after a Merry Christmas.
 ---
 

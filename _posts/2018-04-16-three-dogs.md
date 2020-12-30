@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [love, dogs]
 hashtags: [dogs, dogsoftwitter, love]
-image: images/three-dogs/lobi.png
+image: /images/three-dogs/lobi.png
 ---
 
 Has anyone ever had something you've loved your entire life?

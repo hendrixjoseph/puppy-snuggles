@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [story]
 keywords: [glass door, sliding glass door, door]
-image: images/princess-versus-door/at-the-vet-large.jpg
+image: /images/princess-versus-door/at-the-vet-large.jpg
 ---
 
 Like most dogs, [my dog Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/) loves to watch and chase squirrels. My house has a large three-panel sliding glass door that she and her younger dog-brother [Niko](https://www.puppy-snuggles.com/blog/puppy-profile-niko/) love to sit and stare out of for hours on end. But one evening, when my wife and I had just gotten home with the pups, she darted straight through the closed glass door as if it were open.

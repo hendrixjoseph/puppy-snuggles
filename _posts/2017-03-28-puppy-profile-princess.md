@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [puppy profile]
 keywords: [pit bull, half golden retriever]
 hashtags: [puppy, dog, dogsoftwitter]
-image: images/puppy-profile/princess/happy-princess.jpg
+image: /images/puppy-profile/princess/happy-princess.jpg
 ---
 
 Today I'd like to introduce my current dog and first dog I adopted as an adult: Princess!

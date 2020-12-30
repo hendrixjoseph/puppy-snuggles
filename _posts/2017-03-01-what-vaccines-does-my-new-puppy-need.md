@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [new puppy]
 keywords: [what vaccines does my new puppy need, vaccine, dog vaccine, puppy vaccine]
-image: images/covers/2017-03-01-what-vaccines-does-my-new-puppy-need.png
+image: /images/covers/2017-03-01-what-vaccines-does-my-new-puppy-need.png
 ---
 
 When you first adopt a puppy, there are many things you must do. One of which is to find a veterinarian to look him or her over to see how healthy he or she is. You will also need your veterinarian to start your new puppy's vaccination schedule.

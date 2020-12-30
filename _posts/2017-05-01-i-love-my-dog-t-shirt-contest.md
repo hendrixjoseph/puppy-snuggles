@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [contest]
 keywords: [giveaway, Amazon, Amazon Giveaway, prize, i love my dog, t-shirt, i love my dog t-shirt]
-image: images/covers/2017-05-01-i-love-my-dog-t-shirt-contest.jpg
+image: /images/covers/2017-05-01-i-love-my-dog-t-shirt-contest.jpg
 ---
 
 Just for fun, I've decided to run a little giveaway contest. This contest is administered by Amazon, so they're doing all the heavy lifting.

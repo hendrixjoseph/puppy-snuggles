@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [buying guide]
 keywords: [dog vitamins and minerals, dog vitamins and minerals, dog minerals, what vitamins and minerals do dogs need, what vitamins do dogs need, what minerals do dogs need, vitamins for dogs, minerals for dogs, vitamins and minerals for dogs]
-image: images/covers/2017-03-15-dog-vitamins-and-minerals.png
+image: /images/covers/2017-03-15-dog-vitamins-and-minerals.png
 ---
 
 Just like us humans, dogs need a complete and balanced diet, which includes getting essential vitamins and minerals. Fortunately, most store-bought dog foods contain the balance needed, [according to WebMD](https://pets.webmd.com/dogs/guide/dog-vitamins-and-supplements).

@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [book, books, children's books, kid's books, children's books about dogs, children's books about puppies, kid's books about dogs, kid's books about puppies]
-image: images/books/children-books-facebook-cover.png
+image: /images/books/children-books-facebook-cover.png
 ---
 
 Books are amazing things. They dazzle and delight yet are such simple things. Kids love them and kids love being read to. Kids also love dogs - so why not combine the two? Here are six children's books about dogs and puppies that are sure to please.

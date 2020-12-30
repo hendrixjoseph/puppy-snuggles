@@ -4,7 +4,7 @@ title: 20 Dog Owners Reveal the Cutest Thing Their Dogs Have Done!
 author: JoeHx
 author-url: https://www.joehxblog.com//
 tags: [roundup]
-image: images/covers/2019-11-03-20-dog-owners-reveal-the-cutest-thing-their-dogs-have-done.png
+image: /images/covers/2019-11-03-20-dog-owners-reveal-the-cutest-thing-their-dogs-have-done.png
 ---
 
 I was thinking the other day about all the cute things my dogs have done throughout my life.

@@ -4,7 +4,7 @@ title: Our Dog Tommy Rescues a Squirrel
 author: Sarah
 tags: [story]
 keywords: [squirrel]
-image: images/dog-and-squirrel.jpg
+image: /images/dog-and-squirrel.jpg
 ---
 
 My dog Tommy is not too adventurous. He prefers sitting or lying in his coach for hours rather than moving around the homestead. My veterinarian has been advising me to be taking Tommy for walks instead. Tommy is gradually changing his behaviors, and he might spend an hour or two exploring our homestead whenever I am busy for walks.

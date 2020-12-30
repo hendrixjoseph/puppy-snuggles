@@ -4,7 +4,7 @@ title: Me and My Dog Max During the COVID-19 Pandemic
 author: Vegas
 tags: [story]
 keywords: [covid-19, covid, coronavirus, quarantine, pandemic]
-image: images/woman-with-mask-and-dog.png
+image: /images/woman-with-mask-and-dog.png
 ---
 
 Pets give us a companion. They play with us and they depend on us. It’s hard not to feel a connection to a pet. And they do help with loneliness and depression.

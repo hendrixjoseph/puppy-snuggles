@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [thanksgiving holiday, thanksgiving food, thanksgiving, holiday, food]
 hashtags: [thanksgiving, turkey, dogs]
-image: images/thanksgiving/TraditionalThanksgiving.jpg
+image: /images/thanksgiving/TraditionalThanksgiving.jpg
 ---
 
 For most Americans, the end of November marks a time for family get-togethers and indulging in plenty of food. Many of us would love to share in the Thanksgiving festivities with our four-legged family members but are unsure which foods exactly are safe for our dogs.

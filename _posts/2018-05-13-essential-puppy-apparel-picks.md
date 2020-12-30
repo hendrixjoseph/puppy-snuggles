@@ -5,7 +5,7 @@ author: Pat
 author-url: https://www.theblanketnook.com
 tags: [list]
 keywords: [puppy apparel, pet-grooming accessories]
-image: images/puppy-apparel/puppy-pajamas.jpg
+image: /images/puppy-apparel/puppy-pajamas.jpg
 ---
 
 Puppy Apparel is fast becoming one of the most popular pet-grooming accessories on the planet. Whether you want to make your new pup look cute and cuddly or just want to give them some extra warmth and protection from the elements, Puppy Apparel has a wide range of different clothing items to choose from.

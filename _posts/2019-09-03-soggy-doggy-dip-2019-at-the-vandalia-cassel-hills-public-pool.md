@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com//
 tags: [story]
 keywords: [dog swim, soggy doggy, soggy doggy dip, vandalia cassel hills pool, cassel hills pool]
-image: images/soggy-doggy-dip/2019/princess-swimming-1.jpg
+image: /images/soggy-doggy-dip/2019/princess-swimming-1.jpg
 ---
 
 Imagine that it's evening on Labor Day. The sun hasn't quite set yet and it's still shining. The weather is in the 70's - not too cool, but not too hot. You're at a pretty large public pool.

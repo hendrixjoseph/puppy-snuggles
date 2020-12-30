@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [book, ebook]
 hashtags: [ebook, childrensbook]
-image: images/covers/2019-01-11-i-wrote-a-book-the-adventures-of-princess.jpg
+image: /images/covers/2019-01-11-i-wrote-a-book-the-adventures-of-princess.jpg
 ---
 
 I wrote a book! A children's book, in fact. Which means I did illustrations, as well.

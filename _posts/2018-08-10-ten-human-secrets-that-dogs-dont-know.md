@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [list]
 keywords: [human secrets]
-image: images/bulldog-resting-on-floor.jpg
+image: /images/bulldog-resting-on-floor.jpg
 ---
 
 1. We aren’t going on long walks every day.

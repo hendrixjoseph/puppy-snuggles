@@ -4,7 +4,7 @@ title: Getting Our Mojo
 author: Matthew Kuchera
 tags: [story]
 keywords: [maltichon, maltese-bichon frise mix, maltese-bichon frise]
-image: images/maltichon.png
+image: /images/maltichon.png
 ---
 
 I had a couple of dogs when I was younger, but since being with my wife, we had always had cats. At one point, we had three of them. I think we gravitated toward cats because they were easier to take care of. But after having children, we eventually learned that both of them were allergic to cats. So we decided that as our cats died off, we would not get any more.

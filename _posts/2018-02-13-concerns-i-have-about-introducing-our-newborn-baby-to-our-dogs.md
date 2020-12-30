@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [newborn baby, baby, introducing our newborn baby to our dogs, introducing a newborn baby to dogs]
 hashtags: [dogsandbabies, dogs]
-image: images/covers/2018-02-13-concerns-i-have-about-introducing-our-newborn-baby-to-our-dogs.png
+image: /images/covers/2018-02-13-concerns-i-have-about-introducing-our-newborn-baby-to-our-dogs.png
 ---
 
 I'm about to be a dad, and there's plenty of things I'm excited and nervous about. Diapers, sleepless night, fatigue, and am-I-doing-this-right are all things that fall under the nervous category, whereas playtime, cuddles, and reading time are things that fall under the excitement category. One thing that definitely falls under both categories is *introducing our newborn baby to our dogs*.

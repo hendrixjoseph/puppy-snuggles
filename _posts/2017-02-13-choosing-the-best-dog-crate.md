@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [buying guide]
 keywords: [dog, crate, cage, kennel, dog cage, dog crate, dog kennel, best dog crate, choosing the best dog crate]
 hashtags: [dogcrates, dogs]
-image: images/covers/2017-02-13-choosing-the-best-dog-crate.png
+image: /images/covers/2017-02-13-choosing-the-best-dog-crate.png
 ---
 
 When choosing a dog crate (sometimes referred to as a dog cage or dog kennel) for your dog, you have two important criteria to consider: size and structure. This blog post will talk about both and how to choose which dog crate will best fit your dog.

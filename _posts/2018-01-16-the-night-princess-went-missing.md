@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [story]
 keywords: [missing, craigslist, lost dog, found dog, scary story]
-image: images/pretty-princess.jpg
+image: /images/pretty-princess.jpg
 ---
 
 Like most scary stories, this one begins in a dark and stormy night. Well, it was actually evening, but it was still dark and stormy. [Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/), my 60-pound lovable [pitbull mix](https://www.puppy-snuggles.com/blog/the-four-most-common-pit-bull-dog-breeds/) and the first dog I ever owned as an adult, needed to go outside to do her business. So I let her out the back door. When I returned a few minutes later to let her back in, she was gone.

@@ -4,7 +4,7 @@ title: A Mutt Person by Nature
 author: Karen
 tags: [story]
 keywords: [german shepherd collie mix, miniature schnauzer]
-image: images/miniature-schnauzer.jpg
+image: /images/miniature-schnauzer.jpg
 ---
 
 I had never even considered buying a purebred Miniature Schnauzer because I would consider myself to be an average-sized mutt person by nature.

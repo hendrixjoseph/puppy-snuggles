@@ -6,7 +6,7 @@ author-url: https://www.joehxblog.com/
 tags: [conversation]
 keywords: [dog swim, dog swimming, canoeing, dog canoeing]
 hashtags: [swimmingdogs, swimmingpups, dogsoftwitter]
-image: images/princess-swim/all-of-us-in-the-canoe.jpg
+image: /images/princess-swim/all-of-us-in-the-canoe.jpg
 ---
 
 My dog [Princess](https://www.puppy-snuggles.com/blog/puppy-profile-princess/) is a pit/golden retriever mix and absolutely loves the water. Whenever my wife and I go hiking with our dogs, if we go next to a creek or pond, Princess will instantly want to head in that direction. Amazingly enough, she never got a chance to swim until just before she turned seven years old.

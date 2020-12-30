@@ -5,7 +5,7 @@ author: JoeHx
 author-url: https://www.joehxblog.com/
 tags: [discussion]
 keywords: [is a dog year 7 human years, is a dog year seven human years, dog year, human year, human]
-image: images/covers/2017-04-18-is-a-dog-year-really-7-human-years.png
+image: /images/covers/2017-04-18-is-a-dog-year-really-7-human-years.png
 jquery: true
 ---
 
