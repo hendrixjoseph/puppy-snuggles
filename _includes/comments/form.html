@@ -1,5 +1,4 @@
-<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://hendrixjoseph-staticman.herokuapp.com/v3/entry/github/hendrixjoseph/puppy-snuggles
-/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
+<form id="post-new-comment{{ include.reply }}" class="new-comment" {% if include.reply %} hidden{% endif %}>
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}" />
   <input name="options[slug]" type="hidden" value="{{ include.slug }}" />
@@ -7,36 +6,48 @@
   <label class="comment-body" for="comment{{ include.reply }}">Comment (required)</label><textarea name="fields[message]" id="comment{{ include.reply }}" required="required" cols="45" rows="8" maxlength="65525" aria-required="true"></textarea>
   <label class="comment-author" for="name{{ include.reply }}">Name (required)</label><input name="fields[name]" id="name{{ include.reply }}" required="required" aria-required="true" type="text" />
   <label class="comment-email" for="email{{ include.reply }}">Email (required, always hashed, never used nor published)</label><input name="fields[email]" id="email{{ include.reply }}" required="required" aria-required="true" type="email" />
-  <label class="comment-url" for="url{{ include.reply }}">Website (optional)</label><input name="fields[url]" id="url{{ include.reply }}" type="url" maxlength="50" />
+  <label class="comment-url" for="url{{ include.reply }}">Website (optional)</label><input name="fields[url]" id="url{{ include.reply }}" type="url" pattern="https://.*" />
   <button type="submit">Post comment</button>
   <em>Note that comments won't appear until approved.</em>
 </form>
-<div id="post-new-comment{{ include.reply }}-submitting" style="display: none;"><img src="/images/ajax-loader.gif" style="display: inline;" /></div>
-<div id="post-new-comment{{ include.reply }}-thank-you" style="display: none;">Thank you. Your comment will be visible after approval.</div>
-<div id="post-new-comment{{ include.reply }}-error" style="display: none;">Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
+<div role="progressbar" id="post-new-comment{{ include.reply }}-submitting" hidden><img src="/images/ajax-loader.gif" style="display: inline;" alt="indeterminate progress bar" /></div>
+<div id="post-new-comment{{ include.reply }}-thank-you" hidden>Thank you. Your comment will be visible after approval.</div>
+<div id="post-new-comment{{ include.reply }}-error" hidden>Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
 <div class="error-message"></div></div>
 <script>
-$('#post-new-comment{{ include.reply }}').submit(function(e){
-    e.preventDefault();
-    var form = this;
-	$(form).hide();
-	$('#post-new-comment{{ include.reply }}-submitting').show();
+document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
+  e.preventDefault();
 
-    $.ajax({
-        type: $(this).attr('method'),
-        url: $(this).attr('action'),
-        data: $(this).serialize(),
-        contentType: 'application/x-www-form-urlencoded',
-        success: function (data) {
-			$('#post-new-comment{{ include.reply }}-submitting').hide();
-			$('#post-new-comment{{ include.reply }}-thank-you').show();
-        },
-        error: function (err) {
-            console.log(err);
-			$('#post-new-comment{{ include.reply }}-submitting').hide();
-	        $('#post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
-			$('#post-new-comment{{ include.reply }}-error').show();
-        }
-    });
-});
+  let form = document.getElementById('post-new-comment{{ include.reply }}');
+
+  form.hidden = true;
+  document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = false;
+
+  let formData = new FormData(form);
+  let params = new URLSearchParams(formData).toString();
+
+  fetch('https://hendrixjoseph-staticman.herokuapp.com/v3/entry/github/hendrixjoseph/puppy-snuggles/master/comments', {
+    method: 'post',
+    credentials: 'include',
+    headers: {
+      'accept': '*/*',
+      'accept-language': 'en-US,en;q=0.9',
+      'content-type': 'application/x-www-form-urlencoded',
+    },
+    body: params,
+    mode: 'cors',
+    credentials: 'omit'
+  }).then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok:' + response.statusText);
+    }
+    document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
+    document.getElementById('post-new-comment{{ include.reply }}-thank-you').hidden = false;
+  }).catch(err => {
+    console.log(err);
+    document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
+    document.querySelector('#post-new-comment{{ include.reply }}-error .error-message').textContent = err.message
+    document.getElementById('post-new-comment{{ include.reply }}-error').hidden = false;
+  });
+}
 </script>
