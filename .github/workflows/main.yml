@@ -1,6 +1,4 @@
 name: Randomly share an RSS item.
-
-# Controls when the action will run. 
 on:
   workflow_dispatch:
 
@@ -10,4 +8,7 @@ jobs:
     name: Randomly share an RSS item.
     runs-on: ubuntu-latest
     steps:
-      - uses: LuisAlejandro/fb-random-post-from-feed@0.1.1
+      - uses: hendrixjoseph/random-social-share@master
+        with:
+          source: https://news.puppy-snuggles.com/feed
+          facebook_access_token: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
