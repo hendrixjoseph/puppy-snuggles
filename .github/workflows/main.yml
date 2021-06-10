@@ -1,6 +1,8 @@
 name: Randomly share an RSS item.
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
 
 jobs:
   # This workflow contains a single job called "build"
