@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six Types of Dog Leashes
-tags: [list]
+tags: [buying guide, list]
 keywords: [leash]
 ---
 
