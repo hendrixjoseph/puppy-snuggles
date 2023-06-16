@@ -7,7 +7,7 @@ image: /images/covers/2023-06-16-unveiling-the-enchanting-duck-toy-for-dogs.png
 
 Prepare to embark on a captivating exploration of the renowned [duck toy](https://www.amazon.com/dp/B09BBM5CX8/?tag=tag=puppysnuggles-20) for dogs. In this in-depth blog post, we'll delve into the remarkable features, undeniable benefits, and unwavering appeal of this beloved canine companion. Join us as we unveil the enchantment of this sought-after toy.
 
-{![many duck toys in a row](/images/covers/2023-06-16-unveiling-the-enchanting-duck-toy-for-dogs.png)](https://www.amazon.com/dp/B09BBM5CX8/?tag=tag=puppysnuggles-20)
+[![many duck toys in a row](/images/covers/2023-06-16-unveiling-the-enchanting-duck-toy-for-dogs.png)](https://www.amazon.com/dp/B09BBM5CX8/?tag=tag=puppysnuggles-20)
 
 ## A Beloved Canine Treasure
 
